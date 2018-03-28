@@ -1,0 +1,2 @@
+Added a class to element 
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7 current_page_item menu-item-13 medium-9"><a title="Work" href="http://aftrnoon.com/">Work</a> </li>

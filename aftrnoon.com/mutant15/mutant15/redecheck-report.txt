@@ -1,0 +1,26 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/HEADER/DIV/DIV is sibling of /HTML/BODY/HEADER/DIV/DIV[2]
+
+Differing attributes for 641 -> 1400
+	Oracle : {leftOftopAlign}
+	Test : {above}
+
+/HTML/BODY/HEADER/DIV contains /HTML/BODY/HEADER/DIV/DIV
+
+Differing attributes for 641 -> 1400
+	Oracle : {leftJust}
+	Test : {leftJusttop}
+
+/HTML/BODY/HEADER/DIV contains /HTML/BODY/HEADER/DIV/DIV[2]
+
+Unmatched in oracle: /HTML/BODY/HEADER/DIV , /HTML/BODY/HEADER/DIV/DIV[2] , PARENT_CHILD , 641 , 1400 , 
+
+Differing bounds for {bottom}
+	Oracle : 400 -> 640
+	Test : 400 -> 1400

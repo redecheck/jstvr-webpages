@@ -1,0 +1,36 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/FOOTER/DIV/DIV/DIV/DIV/DIV/UL/LI is sibling of /HTML/BODY/FOOTER/DIV/DIV/DIV/DIV/DIV/UL/LI[2]
+
+Unmatched in test: /HTML/BODY/FOOTER/DIV/DIV/DIV/DIV/DIV/UL/LI , /HTML/BODY/FOOTER/DIV/DIV/DIV/DIV/DIV/UL/LI[2] , SIBLING , 641 , 1400 , aboveleftAlign
+
+/HTML/BODY/FOOTER/DIV/DIV/DIV/DIV/DIV/UL/LI is sibling of /HTML/BODY/FOOTER/DIV/DIV/DIV/DIV/DIV/UL/LI[3]
+
+Unmatched in test: /HTML/BODY/FOOTER/DIV/DIV/DIV/DIV/DIV/UL/LI , /HTML/BODY/FOOTER/DIV/DIV/DIV/DIV/DIV/UL/LI[3] , SIBLING , 641 , 1400 , aboveleftAlign
+
+/HTML/BODY/FOOTER/DIV/DIV/DIV/DIV/DIV/UL/LI is sibling of /HTML/BODY/FOOTER/DIV/DIV/DIV/DIV/DIV/UL/LI[4]
+
+Unmatched in test: /HTML/BODY/FOOTER/DIV/DIV/DIV/DIV/DIV/UL/LI , /HTML/BODY/FOOTER/DIV/DIV/DIV/DIV/DIV/UL/LI[4] , SIBLING , 641 , 1400 , aboveleftAlign
+
+/HTML/BODY/FOOTER/DIV/DIV/DIV/DIV/DIV/UL/LI[2] is sibling of /HTML/BODY/FOOTER/DIV/DIV/DIV/DIV/DIV/UL/LI
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 400 -> 640
+
+/HTML/BODY/FOOTER/DIV/DIV/DIV/DIV/DIV/UL/LI[3] is sibling of /HTML/BODY/FOOTER/DIV/DIV/DIV/DIV/DIV/UL/LI
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 400 -> 640
+
+/HTML/BODY/FOOTER/DIV/DIV/DIV/DIV/DIV/UL/LI[4] is sibling of /HTML/BODY/FOOTER/DIV/DIV/DIV/DIV/DIV/UL/LI
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 400 -> 640

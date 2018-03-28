@@ -1,0 +1,2 @@
+Removed a class from element 
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Blog" href="http://aftrnoon.com/blog/">Blog</a> </li>

@@ -1,0 +1,4 @@
+Added a class to element 
+<div class="medium-6 columns smtitle"> 
+ <a href="index.php/work/logos"><img src="http://aftrnoon.com/wp-content/uploads/thumb-logos.png" alt=""> </a> 
+</div>

@@ -1,0 +1,9 @@
+Removed a class from element 
+<div class=""> 
+ <ul id="menu-main-nav" class="menu"> 
+  <li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7 current_page_item menu-item-13"><a title="Work" href="http://aftrnoon.com/">Work</a> </li> 
+  <li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a title="About" href="http://aftrnoon.com/about/">About</a> </li> 
+  <li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a title="Blog" href="http://aftrnoon.com/blog/">Blog</a> </li> 
+  <li id="menu-item-68" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68"><a title="Shop" href="http://society6.com/aftrnoon">Shop</a> </li> 
+ </ul> 
+</div>

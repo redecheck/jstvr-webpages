@@ -1,0 +1,14 @@
+Added a class to element 
+<div class="medium-9 columns medium-3"> 
+ <nav> 
+  <div class="menu-main-nav-container"> 
+   <ul id="menu-main-nav" class="menu"> 
+    <li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7 current_page_item menu-item-13"><a title="Work" href="http://aftrnoon.com/">Work</a> </li> 
+    <li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a title="About" href="http://aftrnoon.com/about/">About</a> </li> 
+    <li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a title="Blog" href="http://aftrnoon.com/blog/">Blog</a> </li> 
+    <li id="menu-item-68" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68"><a title="Shop" href="http://society6.com/aftrnoon">Shop</a> </li> 
+   </ul> 
+  </div> 
+ </nav> 
+ <p class="lead site-description">An interactive design studio specializing in simple, usable, flexible interfaces for clients worldwide.</p> 
+</div>

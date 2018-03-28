@@ -1,0 +1,7 @@
+Added a class to element 
+<div class="medium-3 columns menu-item-14"> 
+ <div class="banner"> 
+  <a href="http://aftrnoon.com/" class="title" title="Home"><span class="icon-sun"></span></a> 
+  <a href="#top" class="smtitle" title="Back to top">↑</a> 
+ </div> 
+</div>

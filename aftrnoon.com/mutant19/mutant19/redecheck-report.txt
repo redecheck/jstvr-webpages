@@ -1,0 +1,22 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/FOOTER contains /HTML/BODY/FOOTER/BLOCKQUOTE
+
+Differing bounds for {}
+	Oracle : 400 -> 1400
+	Test : 400 -> 640
+
+Unmatched in test: /HTML/BODY/FOOTER , /HTML/BODY/FOOTER/BLOCKQUOTE , PARENT_CHILD , 641 , 1400 , top
+
+/HTML/BODY/FOOTER contains /HTML/BODY/FOOTER/DIV
+
+Differing bounds for {}
+	Oracle : 400 -> 1400
+	Test : 400 -> 640
+
+Unmatched in test: /HTML/BODY/FOOTER , /HTML/BODY/FOOTER/DIV , PARENT_CHILD , 641 , 1400 , bottom

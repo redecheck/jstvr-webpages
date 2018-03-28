@@ -1,0 +1,14 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/HEADER/DIV contains /HTML/BODY/HEADER/DIV/DIV
+
+Unmatched in oracle: /HTML/BODY/HEADER/DIV , /HTML/BODY/HEADER/DIV/DIV , PARENT_CHILD , 641 , 641 , leftJusttop
+
+Differing bounds for {leftJust}
+	Oracle : 642 -> 1400
+	Test : 641 -> 1400

@@ -1,0 +1,57 @@
+.banner .title { 
+	font-size: 90.0px;
+	line-height: 130.0px;
+}
+.banner-clone { 
+	text-align: center;
+}
+
+@media screen AND (max-width: 640.0px) { 
+.banner .title { 
+	line-height: 90.0px;
+}
+}
+.banner .smtitle { 
+	display: none;
+}
+.banner-clone { 
+	position: fixed;
+	top: 0.0;
+	left: 5.0%;
+	background-color: rgba(255,123,85,0.8);
+	color: #ffffff;
+	text-align: center;
+	z-index: 100.0;
+	-webkit-transform: translateY(-100.0%);
+	-ms-transform: translateY(-100.0%);
+	transform: translateY(-100.0%);
+	-webkit-transition: all 300.0ms ease-in-out;
+	-moz-transition: all 300.0ms ease-in-out;
+	transition: all 300.0ms ease-in-out;
+}
+.banner-clone .smtitle { 
+	display: block;
+	font-size: 40.0px;
+	line-height: 50.0px;
+	color: #ffffff;
+	font-weight: 300;
+	padding: 0.0 10.0px 8.0px 10.0px;
+	max-width: 50.0px;
+	text-align: center;
+}
+.banner-clone .smtitle:hover { 
+	font-weight: 400 !important;
+}
+.banner-clone .title { 
+	display: none;
+}
+.banner-clone:hover { 
+	background: rgba(152,210,199,0.8);
+}
+.banner-stick { 
+	-webkit-transform: translateY(0.0%);
+	-ms-transform: translateY(0.0%);
+	transform: translateY(0.0%);
+}
+.banner-unstick { 
+}

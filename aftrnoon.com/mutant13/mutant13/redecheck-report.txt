@@ -1,0 +1,50 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/FOOTER/BLOCKQUOTE contains /HTML/BODY/FOOTER/BLOCKQUOTE/CITE
+
+Differing bounds for {bottom}
+	Oracle : 400 -> 640
+	Test : 400 -> 650
+
+Differing bounds for {middle}
+	Oracle : 641 -> 1400
+	Test : 651 -> 1400
+
+/HTML/BODY/FOOTER/DIV/DIV/DIV/DIV contains /HTML/BODY/FOOTER/DIV/DIV/DIV/DIV/DIV
+
+Differing bounds for {centered}
+	Oracle : 641 -> 1400
+	Test : 651 -> 1400
+
+Unmatched in test: /HTML/BODY/FOOTER/DIV/DIV/DIV/DIV , /HTML/BODY/FOOTER/DIV/DIV/DIV/DIV/DIV , PARENT_CHILD , 641 , 650 , centeredtop
+
+/HTML/BODY/FOOTER/DIV/DIV/DIV/DIV[2] contains /HTML/BODY/FOOTER/DIV/DIV/DIV/DIV[2]/UL
+
+Differing bounds for {centered}
+	Oracle : 641 -> 1400
+	Test : 651 -> 1400
+
+Unmatched in test: /HTML/BODY/FOOTER/DIV/DIV/DIV/DIV[2] , /HTML/BODY/FOOTER/DIV/DIV/DIV/DIV[2]/UL , PARENT_CHILD , 641 , 650 , centeredtop
+
+/HTML/BODY/FOOTER/DIV/DIV is sibling of /HTML/BODY/FOOTER/DIV/DIV[2]
+
+Differing bounds for {topAlignbottomAlign}
+	Oracle : 645 -> 1400
+	Test : 651 -> 1400
+
+Differing bounds for {topAlign}
+	Oracle : 641 -> 644
+	Test : 641 -> 650
+
+/HTML/BODY/FOOTER/DIV contains /HTML/BODY/FOOTER/DIV/DIV[2]
+
+Differing bounds for {leftJust}
+	Oracle : 641 -> 1400
+	Test : 651 -> 1400
+
+Unmatched in test: /HTML/BODY/FOOTER/DIV , /HTML/BODY/FOOTER/DIV/DIV[2] , PARENT_CHILD , 641 , 650 , leftJusttop

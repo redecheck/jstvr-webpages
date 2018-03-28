@@ -1,0 +1,13 @@
+====== Unmatched Nodes ====== 
+
+/HTML/BODY/FOOTER/BLOCKQUOTE/CITE wasn't matched in Graph 2
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/FOOTER/BLOCKQUOTE contains /HTML/BODY/FOOTER/BLOCKQUOTE/CITE
+
+Unmatched in oracle: /HTML/BODY/FOOTER/BLOCKQUOTE , /HTML/BODY/FOOTER/BLOCKQUOTE/CITE , PARENT_CHILD , 400 , 640 , bottom
+
+Unmatched in oracle: /HTML/BODY/FOOTER/BLOCKQUOTE , /HTML/BODY/FOOTER/BLOCKQUOTE/CITE , PARENT_CHILD , 641 , 1400 , middle

@@ -1,0 +1,14 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/FOOTER/DIV/DIV is sibling of /HTML/BODY/FOOTER/DIV/DIV[2]
+
+Differing bounds for {topAlignbottomAlign}
+	Oracle : 645 -> 1400
+	Test : 641 -> 1400
+
+Unmatched in oracle: /HTML/BODY/FOOTER/DIV/DIV , /HTML/BODY/FOOTER/DIV/DIV[2] , SIBLING , 641 , 644 , topAlign
