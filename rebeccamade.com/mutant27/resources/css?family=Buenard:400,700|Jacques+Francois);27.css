@@ -1,0 +1,14 @@
+
+@font-face { 
+	font-family: 'Buenard';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Buenard'), local('Buenard-Regular'), url('http://fonts.gstatic.com/s/buenard/v7/UUYHasP8umGDjV-yeZf27Q.ttf') format('truetype');
+}
+
+@font-face { 
+	font-family: 'Buenard';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Buenard Bold'), local('Buenard-Bold'), url('http://fonts.gstatic.com/s/buenard/v7/8T0adwz_RAtKrxbccQmEFC3USBnSvpkopQaUR-2r7iU.ttf') format('truetype');
+}

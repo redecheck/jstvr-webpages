@@ -1,0 +1,6 @@
+Added a class to element 
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 block"> 
+ <div class="img-wrap"> 
+  <a href="rainy-days.html"> <img class="img-responsive" src="./resources/assets/images/thumb/thumb-rain.jpg" width="175"> <h5>Fabric Design</h5> <h4>Rainy Days &amp; Mondays</h4> </a> 
+ </div> 
+</div>

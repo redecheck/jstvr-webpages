@@ -1,0 +1,1 @@
+Changed class in element <img class="line" src="./resources/assets/images/thumb/thumb-melimba.png" width="175">

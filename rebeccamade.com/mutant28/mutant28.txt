@@ -1,0 +1,6 @@
+Added a class to element 
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 block row"> 
+ <div class="img-wrap"> 
+  <a href="wedding.html"> <img class="img-responsive" src="./resources/assets/images/thumb/thumb-wedding.png" width="175"> <h5>Print Design</h5> <h4>Wedding Announcements</h4> </a> 
+ </div> 
+</div>

@@ -1,0 +1,146 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV[2]/DIV/DIV[10] is sibling of /HTML/BODY/DIV[2]/DIV/DIV[20]
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV/DIV[10] , /HTML/BODY/DIV[2]/DIV/DIV[20] , SIBLING , 400 , 767 , aboveleftAlignrightAlign
+
+Differing bounds for {aboveleftOf}
+	Oracle : 768 -> 1400
+	Test : 992 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[10] , /HTML/BODY/DIV[2]/DIV/DIV[20] , SIBLING , 400 , 991 , above
+
+/HTML/BODY/DIV[2]/DIV/DIV[11] is sibling of /HTML/BODY/DIV[2]/DIV/DIV[20]
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV/DIV[11] , /HTML/BODY/DIV[2]/DIV/DIV[20] , SIBLING , 992 , 1400 , aboveleftOf
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV/DIV[11] , /HTML/BODY/DIV[2]/DIV/DIV[20] , SIBLING , 768 , 991 , aboveleftAlignrightAlign
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[11] , /HTML/BODY/DIV[2]/DIV/DIV[20] , SIBLING , 400 , 1400 , above
+
+/HTML/BODY/DIV[2]/DIV/DIV[12] is sibling of /HTML/BODY/DIV[2]/DIV/DIV[20]
+
+Differing attributes for 992 -> 1400
+	Oracle : {aboveleftAlignrightAlign}
+	Test : {above}
+
+/HTML/BODY/DIV[2]/DIV/DIV[13] is sibling of /HTML/BODY/DIV[2]/DIV/DIV[20]
+
+Differing bounds for {aboveleftOf}
+	Oracle : 400 -> 1400
+	Test : 992 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[13] , /HTML/BODY/DIV[2]/DIV/DIV[20] , SIBLING , 400 , 991 , above
+
+/HTML/BODY/DIV[2]/DIV/DIV[14] is sibling of /HTML/BODY/DIV[2]/DIV/DIV[20]
+
+Differing attributes for 400 -> 991
+	Oracle : {aboveleftAlignrightAlign}
+	Test : {above}
+
+/HTML/BODY/DIV[2]/DIV/DIV[15] is sibling of /HTML/BODY/DIV[2]/DIV/DIV[20]
+
+Differing attributes for 992 -> 1400
+	Oracle : {aboveleftOf}
+	Test : {above}
+
+/HTML/BODY/DIV[2]/DIV/DIV[16] is sibling of /HTML/BODY/DIV[2]/DIV/DIV[20]
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV/DIV[16] , /HTML/BODY/DIV[2]/DIV/DIV[20] , SIBLING , 992 , 1400 , aboveleftAlignrightAlign
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV/DIV[16] , /HTML/BODY/DIV[2]/DIV/DIV[20] , SIBLING , 768 , 991 , aboveleftOf
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[16] , /HTML/BODY/DIV[2]/DIV/DIV[20] , SIBLING , 400 , 1400 , above
+
+/HTML/BODY/DIV[2]/DIV/DIV[17] is sibling of /HTML/BODY/DIV[2]/DIV/DIV[20]
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV/DIV[17] , /HTML/BODY/DIV[2]/DIV/DIV[20] , SIBLING , 768 , 991 , aboveleftAlignrightAlign
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV/DIV[17] , /HTML/BODY/DIV[2]/DIV/DIV[20] , SIBLING , 400 , 767 , aboveleftOf
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[17] , /HTML/BODY/DIV[2]/DIV/DIV[20] , SIBLING , 400 , 991 , above
+
+/HTML/BODY/DIV[2]/DIV/DIV[18] is sibling of /HTML/BODY/DIV[2]/DIV/DIV[20]
+
+Differing attributes for 400 -> 767
+	Oracle : {aboveleftAlignrightAlign}
+	Test : {above}
+
+/HTML/BODY/DIV[2]/DIV/DIV[19] is sibling of /HTML/BODY/DIV[2]/DIV/DIV[20]
+
+Differing attributes for 400 -> 1400
+	Oracle : {leftOftopAlignbottomAlign}
+	Test : {topAlignbottomAlign}
+
+/HTML/BODY/DIV[2]/DIV/DIV[20] is sibling of /HTML/BODY/DIV[2]/DIV/DIV[2]
+
+Differing attributes for 400 -> 991
+	Oracle : {belowleftAlignrightAlign}
+	Test : {below}
+
+/HTML/BODY/DIV[2]/DIV/DIV[20] is sibling of /HTML/BODY/DIV[2]/DIV/DIV[3]
+
+Differing attributes for 992 -> 1400
+	Oracle : {belowrightOf}
+	Test : {below}
+
+/HTML/BODY/DIV[2]/DIV/DIV[20] is sibling of /HTML/BODY/DIV[2]/DIV/DIV[4]
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV/DIV[20] , /HTML/BODY/DIV[2]/DIV/DIV[4] , SIBLING , 992 , 1400 , belowleftAlignrightAlign
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV/DIV[20] , /HTML/BODY/DIV[2]/DIV/DIV[4] , SIBLING , 768 , 991 , belowrightOf
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[20] , /HTML/BODY/DIV[2]/DIV/DIV[4] , SIBLING , 400 , 1400 , below
+
+/HTML/BODY/DIV[2]/DIV/DIV[20] is sibling of /HTML/BODY/DIV[2]/DIV/DIV[5]
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV/DIV[20] , /HTML/BODY/DIV[2]/DIV/DIV[5] , SIBLING , 768 , 991 , belowleftAlignrightAlign
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[20] , /HTML/BODY/DIV[2]/DIV/DIV[5] , SIBLING , 400 , 991 , below
+
+/HTML/BODY/DIV[2]/DIV/DIV[20] is sibling of /HTML/BODY/DIV[2]/DIV/DIV[6]
+
+Differing attributes for 400 -> 767
+	Oracle : {belowleftAlignrightAlign}
+	Test : {below}
+
+/HTML/BODY/DIV[2]/DIV/DIV[20] is sibling of /HTML/BODY/DIV[2]/DIV/DIV[7]
+
+Differing attributes for 400 -> 1400
+	Oracle : {belowrightOf}
+	Test : {below}
+
+/HTML/BODY/DIV[2]/DIV/DIV[20] is sibling of /HTML/BODY/DIV[2]/DIV/DIV[8]
+
+Differing attributes for 400 -> 1400
+	Oracle : {belowleftAlignrightAlign}
+	Test : {below}
+
+/HTML/BODY/DIV[2]/DIV/DIV[20] is sibling of /HTML/BODY/DIV[2]/DIV/DIV[9]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[20] , /HTML/BODY/DIV[2]/DIV/DIV[9] , SIBLING , 400 , 767 , below
+
+/HTML/BODY/DIV[2]/DIV/DIV[20] is sibling of /HTML/BODY/DIV[2]/DIV/DIV
+
+Differing bounds for {belowrightOf}
+	Oracle : 400 -> 1400
+	Test : 992 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[20] , /HTML/BODY/DIV[2]/DIV/DIV , SIBLING , 400 , 991 , below
+
+/HTML/BODY/DIV[2]/DIV contains /HTML/BODY/DIV[2]/DIV/DIV[20]
+
+Differing attributes for 400 -> 767
+	Oracle : {rightJust}
+	Test : {}
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[20] , PARENT_CHILD , 992 , 1400 , rightJustbottom
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[20] , PARENT_CHILD , 768 , 991 , centeredbottom
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[20] , PARENT_CHILD , 768 , 1400 , bottom

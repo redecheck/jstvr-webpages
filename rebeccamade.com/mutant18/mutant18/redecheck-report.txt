@@ -1,0 +1,126 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV[2]/DIV/DIV[15]/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV[10]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[10] , SIBLING , 430 , 685 , belowleftOf
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[10] , SIBLING , 768 , 768 , belowrightOf
+
+/HTML/BODY/DIV[2]/DIV/DIV[15]/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV[11]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[11] , SIBLING , 768 , 768 , belowrightOf
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[11] , SIBLING , 430 , 685 , below
+
+/HTML/BODY/DIV[2]/DIV/DIV[15]/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV[12]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[12] , SIBLING , 430 , 685 , belowleftOf
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[12] , SIBLING , 768 , 768 , below
+
+/HTML/BODY/DIV[2]/DIV/DIV[15]/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV[13]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[13] , SIBLING , 430 , 685 , below
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[13] , SIBLING , 768 , 768 , rightOftopAlignbottomAlign
+
+/HTML/BODY/DIV[2]/DIV/DIV[15]/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV[14]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[14] , SIBLING , 430 , 685 , belowleftOf
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[14] , SIBLING , 768 , 768 , rightOftopAlignbottomAlign
+
+/HTML/BODY/DIV[2]/DIV/DIV[15] contains /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV
+
+Differing bounds for {}
+	Oracle : 400 -> 1400
+	Test : 769 -> 1400
+
+/HTML/BODY/DIV[2]/DIV/DIV[15]/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV[15]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[15] , SIBLING , 768 , 768 , topAlignbottomAlign
+
+/HTML/BODY/DIV[2]/DIV/DIV[15]/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV[16]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[16] , SIBLING , 430 , 685 , leftOftopAlignbottomAlign
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[16] , SIBLING , 768 , 768 , rightOf
+
+/HTML/BODY/DIV[2]/DIV/DIV[15]/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV[17]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[17] , SIBLING , 768 , 768 , rightOf
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[17] , SIBLING , 430 , 685 , 
+
+/HTML/BODY/DIV[2]/DIV/DIV[15]/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV[18]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[18] , SIBLING , 430 , 685 , leftOf
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[18] , SIBLING , 768 , 768 , 
+
+/HTML/BODY/DIV[2]/DIV/DIV[15]/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV[19]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[19] , SIBLING , 768 , 768 , aboverightOf
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[19] , SIBLING , 430 , 685 , above
+
+/HTML/BODY/DIV[2]/DIV/DIV[15]/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV[20]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[20] , SIBLING , 768 , 768 , aboverightOf
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[20] , SIBLING , 430 , 685 , aboveleftOf
+
+/HTML/BODY/DIV[2]/DIV/DIV[15]/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV[2]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[2] , SIBLING , 430 , 685 , belowleftOf
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[2] , SIBLING , 768 , 768 , belowrightOf
+
+/HTML/BODY/DIV[2]/DIV/DIV[15]/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV[3]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[3] , SIBLING , 768 , 768 , below
+
+/HTML/BODY/DIV[2]/DIV/DIV[15]/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV[4]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[4] , SIBLING , 768 , 768 , belowrightOf
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[4] , SIBLING , 430 , 685 , belowleftOf
+
+/HTML/BODY/DIV[2]/DIV/DIV[15]/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV[5]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[5] , SIBLING , 430 , 685 , below
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[5] , SIBLING , 768 , 768 , belowrightOf
+
+/HTML/BODY/DIV[2]/DIV/DIV[15]/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV[6]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[6] , SIBLING , 768 , 768 , below
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[6] , SIBLING , 430 , 685 , belowleftOf
+
+/HTML/BODY/DIV[2]/DIV/DIV[15]/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV[7]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[7] , SIBLING , 430 , 685 , below
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[7] , SIBLING , 768 , 768 , belowrightOf
+
+/HTML/BODY/DIV[2]/DIV/DIV[15]/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV[8]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[8] , SIBLING , 430 , 685 , belowleftOf
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[8] , SIBLING , 768 , 768 , belowrightOf
+
+/HTML/BODY/DIV[2]/DIV/DIV[15]/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV[9]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV[9] , SIBLING , 768 , 768 , below
+
+/HTML/BODY/DIV[2]/DIV/DIV[15]/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV , SIBLING , 430 , 685 , below
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV[15]/DIV , /HTML/BODY/DIV[2]/DIV/DIV , SIBLING , 768 , 768 , belowrightOf

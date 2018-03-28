@@ -1,0 +1,2 @@
+Added a class to element 
+<img class="img-responsive col-xs-6" src="./resources/assets/images/thumb/thumb-CM.jpg" width="175">

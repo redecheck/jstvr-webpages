@@ -1,0 +1,6 @@
+Added a class to element 
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 block"> 
+ <div class="img-wrap"> 
+  <a href="motion-graphics.html"> <img class="img-responsive" src="./resources/assets/images/thumb/thumb-motion.jpg" width="175"> <h5>Motion Graphics</h5> <h4>Student Work</h4> </a> 
+ </div> 
+</div>

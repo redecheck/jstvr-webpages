@@ -1,0 +1,4 @@
+Removed a class from element 
+<div class=""> 
+ <a href="rebecca-made.html"> <img class="img-responsive" src="./resources/assets/images/thumb/thumb-archive.jpg" width="175"> <h5>Website</h5> <h4>Rebecca Made Archive</h4> </a> 
+</div>

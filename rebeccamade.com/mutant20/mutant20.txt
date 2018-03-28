@@ -1,0 +1,6 @@
+Removed a class from element 
+<div class="col-sm-4 col-md-3 col-lg-3 block"> 
+ <div class="img-wrap"> 
+  <a href="my-health.html"> <img class="img-responsive" src="./resources/assets/images/thumb/thumb-health.png" width="175"> <h5>Website Design</h5> <h4>My Health</h4> </a> 
+ </div> 
+</div>

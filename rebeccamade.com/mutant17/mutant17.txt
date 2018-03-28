@@ -1,0 +1,6 @@
+Removed a class from element 
+<div class="col-sm-4 col-md-3 col-lg-3 block"> 
+ <div class="img-wrap"> 
+  <a href="flexjet.html"> <img class="img-responsive" src="./resources/assets/images/thumb/thumb-flexjet.jpg" width="175"> <h5>Landing Page</h5> <h4>Flexjet Aircraft</h4> </a> 
+ </div> 
+</div>
