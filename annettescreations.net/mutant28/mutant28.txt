@@ -1,0 +1,42 @@
+Changed term from 6.0 to 13.0
+.btn {
+	display: inline-block;
+	padding: 6.0px 12.0px;
+	margin-bottom: 0.0;
+	font-size: 14.0px;
+	font-weight: normal;
+	line-height: 1.4285715;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	cursor: pointer;
+	background-image: none;
+	border: 1.0px solid transparent;
+	border-radius: 4.0px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+}
+
+.btn {
+	display: inline-block;
+	padding: 13.0px 12.0px;
+	margin-bottom: 0.0;
+	font-size: 14.0px;
+	font-weight: normal;
+	line-height: 1.4285715;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	cursor: pointer;
+	background-image: none;
+	border: 1.0px solid transparent;
+	border-radius: 4.0px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+}

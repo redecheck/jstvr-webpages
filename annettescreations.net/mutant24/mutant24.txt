@@ -1,0 +1,1 @@
+Changed class in element <div id="AFhss_adrp2" class="hide"></div>

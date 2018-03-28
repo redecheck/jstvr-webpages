@@ -1,0 +1,15 @@
+Changed value from 768.0 to 773.0 in 
+@media screen AND (min-width: 773.0px) {
+	.header, .marketing, .footer {
+		padding-left: 0.0;
+		padding-right: 0.0;
+	}
+
+	.header {
+		margin-bottom: 20.0px;
+	}
+
+	.jumbotron {
+		border-bottom: 0.0;
+	}
+}

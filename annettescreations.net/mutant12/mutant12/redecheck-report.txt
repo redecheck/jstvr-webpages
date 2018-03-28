@@ -1,0 +1,22 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV[2]/DIV[2]/P contains /HTML/BODY/DIV[2]/DIV[2]/P/IMG
+
+Differing bounds for {}
+	Oracle : 400 -> 1400
+	Test : 400 -> 991
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV[2]/P , /HTML/BODY/DIV[2]/DIV[2]/P/IMG , PARENT_CHILD , 992 , 1400 , centered
+
+/HTML/BODY contains /HTML/BODY/DIV[2]
+
+Differing bounds for {}
+	Oracle : 400 -> 1185
+	Test : 400 -> 1400
+
+Unmatched in oracle: /HTML/BODY , /HTML/BODY/DIV[2] , PARENT_CHILD , 1186 , 1400 , centered

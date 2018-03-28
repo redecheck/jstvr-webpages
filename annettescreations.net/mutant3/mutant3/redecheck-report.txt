@@ -1,0 +1,158 @@
+====== Unmatched Nodes ====== 
+
+/HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM/INPUT wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM/DIV[3] wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM/DIV/LABEL wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[5] wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM/DIV[3]/LABEL wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM/DIV[2]/LABEL wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[6]/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM/DIV[3]/TEXTAREA wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[6]/DIV/DIV/DIV[2]/H4 wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[6]/DIV/DIV/DIV[2]/P wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[3] wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/P wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/H4[2] wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[3]/INPUT wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[6]/DIV/DIV/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[6] wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM/DIV/INPUT wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[6]/DIV[2]/P wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[3]/BUTTON wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/P/B wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM/DIV[2]/INPUT wasn't matched in Graph 1
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV[2]/DIV[2]/H1 is sibling of /HTML/BODY/DIV[2]/DIV[2]/P[2]
+
+Differing bounds for {aboveleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 768 -> 1400
+
+/HTML/BODY/DIV[2]/DIV[2]/H1 is sibling of /HTML/BODY/DIV[2]/DIV[2]/P
+
+Differing bounds for {aboveleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 768 -> 1400
+
+/HTML/BODY/DIV[2]/DIV[2] contains /HTML/BODY/DIV[2]/DIV[2]/H1
+
+Differing bounds for {}
+	Oracle : 400 -> 1400
+	Test : 768 -> 1400
+
+/HTML/BODY/DIV[2]/DIV[2]/H1 is sibling of /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM/DIV
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV[2]/H1 , /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM/DIV , SIBLING , 552 , 767 , 
+
+/HTML/BODY/DIV[2]/DIV[2]/H1 is sibling of /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV[2]/H1 , /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM , SIBLING , 768 , 1400 , 
+
+/HTML/BODY/DIV[2]/DIV[2]/H1 is sibling of /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[3]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV[2]/H1 , /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[3] , SIBLING , 768 , 991 , above
+
+/HTML/BODY/DIV[2]/DIV[2]/H1 is sibling of /HTML/BODY/DIV[2]/DIV[6]/DIV/DIV/DIV[2]/P
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV[2]/H1 , /HTML/BODY/DIV[2]/DIV[6]/DIV/DIV/DIV[2]/P , SIBLING , 400 , 767 , 
+
+/HTML/BODY/DIV[2]/DIV[2]/H1[2] is sibling of /HTML/BODY/DIV[2]/DIV[2]/P[2]
+
+Differing bounds for {aboveleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 768 -> 1400
+
+/HTML/BODY/DIV[2]/DIV[2]/H1[2] is sibling of /HTML/BODY/DIV[2]/DIV[2]/P
+
+Differing bounds for {aboveleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 768 -> 1400
+
+/HTML/BODY/DIV[2]/DIV[2] contains /HTML/BODY/DIV[2]/DIV[2]/H1[2]
+
+Differing bounds for {}
+	Oracle : 400 -> 1400
+	Test : 768 -> 1400
+
+/HTML/BODY/DIV[2]/DIV[2]/H1[2] is sibling of /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM/DIV
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV[2]/H1[2] , /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM/DIV , SIBLING , 552 , 767 , below
+
+/HTML/BODY/DIV[2]/DIV[2]/H1[2] is sibling of /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV[2]/H1[2] , /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM , SIBLING , 768 , 1400 , 
+
+/HTML/BODY/DIV[2]/DIV[2]/H1[2] is sibling of /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[3]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV[2]/H1[2] , /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[3] , SIBLING , 768 , 991 , above
+
+/HTML/BODY/DIV[2]/DIV[2]/H1[2] is sibling of /HTML/BODY/DIV[2]/DIV[6]/DIV/DIV/DIV[2]/P
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV[2]/H1[2] , /HTML/BODY/DIV[2]/DIV[6]/DIV/DIV/DIV[2]/P , SIBLING , 400 , 767 , 
+
+/HTML/BODY/DIV[2] contains /HTML/BODY/DIV[2]/DIV[2]
+
+Differing bounds for {}
+	Oracle : 400 -> 1400
+	Test : 1196 -> 1400
+
+/HTML/BODY/DIV[2]/DIV[2]/P is sibling of /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV[2]/P , /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM , SIBLING , 400 , 1400 , 
+
+/HTML/BODY/DIV[2]/DIV[2]/P[2] is sibling of /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV[2]/P[2] , /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM , SIBLING , 400 , 1400 , below
+
+/HTML/BODY/DIV[2]/DIV[3] is sibling of /HTML/BODY/DIV[2]/DIV[2]
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 1196 -> 1400
+
+/HTML/BODY/DIV[2]/DIV[4] is sibling of /HTML/BODY/DIV[2]/DIV[2]
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 1196 -> 1400
+
+/HTML/BODY/DIV[2]/DIV[2]/H1[2] contains /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM/DIV[3]/LABEL
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV[2]/H1[2] , /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM/DIV[3]/LABEL , PARENT_CHILD , 768 , 1400 , middle
+
+/HTML/BODY/DIV[2]/DIV[2] contains /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV[2] , /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/FORM , PARENT_CHILD , 400 , 1400 , 
+
+/HTML/BODY/DIV[2]/DIV[2] contains /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/H4[2]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV[2] , /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[2]/H4[2] , PARENT_CHILD , 400 , 457 , 
+
+/HTML/BODY/DIV[2]/DIV[2]/P contains /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[3]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV[2]/P , /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[3] , PARENT_CHILD , 992 , 1400 , 
+
+/HTML/BODY/DIV[2]/DIV[2] contains /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[3]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV[2] , /HTML/BODY/DIV[2]/DIV[5]/DIV/DIV/DIV[3] , PARENT_CHILD , 768 , 991 , 
+
+/HTML/BODY/DIV[2] contains /HTML/BODY/DIV[2]/DIV[6]/DIV/DIV/DIV[2]
+
+Unmatched in test: /HTML/BODY/DIV[2] , /HTML/BODY/DIV[2]/DIV[6]/DIV/DIV/DIV[2] , PARENT_CHILD , 1196 , 1400 , 
+
+/HTML/BODY/DIV[2]/DIV[2] contains /HTML/BODY/DIV[2]/DIV[6]/DIV/DIV/DIV[2]/P
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV[2] , /HTML/BODY/DIV[2]/DIV[6]/DIV/DIV/DIV[2]/P , PARENT_CHILD , 400 , 457 , 
+
+/HTML/BODY contains /HTML/BODY/DIV[2]/DIV[6]
+
+Unmatched in test: /HTML/BODY , /HTML/BODY/DIV[2]/DIV[6] , PARENT_CHILD , 768 , 1199 , top
+
+Unmatched in test: /HTML/BODY , /HTML/BODY/DIV[2]/DIV[6] , PARENT_CHILD , 1200 , 1400 , 

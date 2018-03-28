@@ -1,0 +1,2 @@
+Removed a class from element 
+<div id="AFhss_adrp2" class=""></div>

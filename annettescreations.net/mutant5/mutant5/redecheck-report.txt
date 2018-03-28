@@ -1,0 +1,90 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV[2]/DIV[2] contains /HTML/BODY/DIV[2]/DIV[2]/P
+
+Differing bounds for {middle}
+	Oracle : 463 -> 767
+	Test : 400 -> 767
+
+/HTML/BODY/DIV[2]/DIV[2]/P contains /HTML/BODY/DIV[2]/DIV[2]/P/IMG
+
+Differing bounds for {}
+	Oracle : 400 -> 1400
+	Test : 768 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV[2]/P , /HTML/BODY/DIV[2]/DIV[2]/P/IMG , PARENT_CHILD , 400 , 767 , centered
+
+/HTML/BODY/DIV[2]/DIV[3]/DIV contains /HTML/BODY/DIV[2]/DIV[3]/DIV/H4
+
+Differing bounds for {top}
+	Oracle : 504 -> 1199
+	Test : 400 -> 1199
+
+/HTML/BODY/DIV[2]/DIV[3]/DIV[2] contains /HTML/BODY/DIV[2]/DIV[3]/DIV[2]/H4
+
+Differing bounds for {top}
+	Oracle : 492 -> 1199
+	Test : 400 -> 1199
+
+/HTML/BODY/DIV[2]/DIV[4]/DIV/H4 contains /HTML/BODY/DIV[2]/DIV[4]/DIV/H4/IMG
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV[4]/DIV/H4 , /HTML/BODY/DIV[2]/DIV[4]/DIV/H4/IMG , PARENT_CHILD , 400 , 435 , top
+
+Differing bounds for {}
+	Oracle : 436 -> 1400
+	Test : 400 -> 1400
+
+/HTML/BODY/DIV[2]/DIV[4]/DIV/H4/IMG[2] is sibling of /HTML/BODY/DIV[2]/DIV[4]/DIV/H4/IMG
+
+Differing bounds for {rightOftopAlignbottomAlign}
+	Oracle : 436 -> 1400
+	Test : 400 -> 1400
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV[4]/DIV/H4/IMG[2] , /HTML/BODY/DIV[2]/DIV[4]/DIV/H4/IMG , SIBLING , 400 , 435 , below
+
+/HTML/BODY/DIV[2]/DIV[4]/DIV/H4 contains /HTML/BODY/DIV[2]/DIV[4]/DIV/H4/IMG[2]
+
+Differing bounds for {}
+	Oracle : 436 -> 1400
+	Test : 400 -> 1400
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV[4]/DIV/H4 , /HTML/BODY/DIV[2]/DIV[4]/DIV/H4/IMG[2] , PARENT_CHILD , 400 , 435 , centeredbottom
+
+/HTML/BODY/DIV[2]/DIV[4]/DIV[2]/H4 contains /HTML/BODY/DIV[2]/DIV[4]/DIV[2]/H4/IMG
+
+Differing bounds for {}
+	Oracle : 436 -> 1400
+	Test : 400 -> 1400
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV[4]/DIV[2]/H4 , /HTML/BODY/DIV[2]/DIV[4]/DIV[2]/H4/IMG , PARENT_CHILD , 400 , 435 , top
+
+/HTML/BODY/DIV[2]/DIV[4]/DIV[2]/H4/IMG[2] is sibling of /HTML/BODY/DIV[2]/DIV[4]/DIV[2]/H4/IMG
+
+Differing bounds for {rightOftopAlignbottomAlign}
+	Oracle : 436 -> 1400
+	Test : 400 -> 1400
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV[4]/DIV[2]/H4/IMG[2] , /HTML/BODY/DIV[2]/DIV[4]/DIV[2]/H4/IMG , SIBLING , 400 , 435 , below
+
+/HTML/BODY/DIV[2]/DIV[4]/DIV[2]/H4 contains /HTML/BODY/DIV[2]/DIV[4]/DIV[2]/H4/IMG[2]
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV[4]/DIV[2]/H4 , /HTML/BODY/DIV[2]/DIV[4]/DIV[2]/H4/IMG[2] , PARENT_CHILD , 400 , 435 , centeredbottom
+
+Differing bounds for {}
+	Oracle : 436 -> 1400
+	Test : 400 -> 1400
+
+/HTML/BODY contains /HTML/BODY/DIV[2]
+
+Differing bounds for {}
+	Oracle : 400 -> 1185
+	Test : 830 -> 1071
+
+Differing bounds for {centered}
+	Oracle : 1186 -> 1400
+	Test : 1072 -> 1400

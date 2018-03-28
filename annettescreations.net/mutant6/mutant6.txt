@@ -1,0 +1,10 @@
+Changed term from 600.0 to 607.0
+.modal-dialog {
+	width: 600.0px;
+	margin: 30.0px auto;
+}
+
+.modal-dialog {
+	width: 607.0px;
+	margin: 30.0px auto;
+}

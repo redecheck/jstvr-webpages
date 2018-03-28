@@ -1,0 +1,9 @@
+Removed a class from element 
+<div class="row"> 
+ <div class="col-lg-6"> 
+  <h4 align="center"><img src="resources/droppedImage_1 (1).jpg" width="165" height="124" alt="" class="img-rounded">&nbsp;&nbsp;<img src="resources/droppedImage.jpg" width="165" height="124" alt="" class="img-rounded"></h4> 
+ </div> 
+ <div class="col-lg-6"> 
+  <h4 align="center"><img src="resources/droppedImage_3.jpg" width="165" height="124" alt="" class="img-rounded">&nbsp;&nbsp;<img src="resources/droppedImage_1.jpg" width="165" height="124" alt="" class="img-rounded"></h4> 
+ </div> 
+</div>

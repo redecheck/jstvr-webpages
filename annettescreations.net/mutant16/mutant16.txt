@@ -1,0 +1,1 @@
+Changed class in element <button type="button" class="btn field" data-dismiss="modal">Close/Cancel</button>

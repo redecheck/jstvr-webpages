@@ -1,0 +1,11 @@
+Changed class in element <div class="marketing jumbotron"> 
+ <div class="col-lg-6"> 
+  <h4>About Annette.</h4> 
+  <p>I can customize throws, jackets, backpacks, towels, aprons and just about anything that I can fit into my embroidery hoop. I have thousands of designs in my collection. I will also do company logo’s on shirts, bags, anything that can be embroidered. </p> 
+  <p>To place an order please email me at <a title="mailto:annettesc519@gmail.com" href="mailto:annettesc519@gmail.com">annettec519@gmail.com</a> with the item you want, what design, and your name and number so I can contact you!</p> 
+ </div> 
+ <div class="col-lg-6"> 
+  <h4>Information.</h4> 
+  <p>Currently my website is under massive construction to bring you the best expierience possible. I design and embroider anything you can think of, for all purposes. Need company, or event attire? I can create custom designs on towels, approns, shirts, sweatshirts, and many other articles. Below are some samples of work that I have done in the past, within the coming weeks, my site will be back up and running with online ordering systems, and many new products for you to enjoy.</p> 
+ </div> 
+</div>

@@ -1,0 +1,2 @@
+Removed a class from element 
+<h4 class="" id="myModalLabel">Get In Touch With Annette</h4>

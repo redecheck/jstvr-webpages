@@ -1,0 +1,3 @@
+Changed class in element <div class="form-group"> 
+ <h4 align="center"><img src="resources/droppedImage_1 (1).jpg" width="165" height="124" alt="" class="img-rounded">&nbsp;&nbsp;<img src="resources/droppedImage.jpg" width="165" height="124" alt="" class="img-rounded"></h4> 
+</div>

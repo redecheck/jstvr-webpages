@@ -1,0 +1,33 @@
+====== Unmatched Nodes ====== 
+
+/HTML/BODY/DIV[2]/DIV[4]/DIV/H4/IMG wasn't matched in Graph 2
+/HTML/BODY/DIV[2]/DIV[4]/DIV/H4/IMG[2] wasn't matched in Graph 2
+/HTML/BODY/DIV[2]/DIV[4]/DIV/H4 wasn't matched in Graph 2
+====== Visibility Errors ====== 
+
+/HTML/BODY/DIV[2]/DIV[4]/DIV
+ Oracle: 400 -> 1400
+ Test: 1200 -> 1400====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV[2]/DIV[4]/DIV contains /HTML/BODY/DIV[2]/DIV[4]/DIV/H4
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV[4]/DIV , /HTML/BODY/DIV[2]/DIV[4]/DIV/H4 , PARENT_CHILD , 400 , 1400 , 
+
+/HTML/BODY/DIV[2]/DIV[4]/DIV is sibling of /HTML/BODY/DIV[2]/DIV[4]/DIV[2]
+
+Differing attributes for 1200 -> 1400
+	Oracle : {leftOftopAlign}
+	Test : {rightOftopAlignbottomAlign}
+
+/HTML/BODY/DIV[2]/DIV[4] contains /HTML/BODY/DIV[2]/DIV[4]/DIV
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV[4] , /HTML/BODY/DIV[2]/DIV[4]/DIV , PARENT_CHILD , 400 , 1199 , 
+
+/HTML/BODY/DIV[2]/DIV[4]/DIV[2] is sibling of /HTML/BODY/DIV[2]/DIV[4]/DIV
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV[4]/DIV[2] , /HTML/BODY/DIV[2]/DIV[4]/DIV , SIBLING , 400 , 1199 , belowleftAlignrightAlign
+
+Differing attributes for 1200 -> 1400
+	Oracle : {rightOftopAlignbottomAlign}
+	Test : {leftOftopAlign}
