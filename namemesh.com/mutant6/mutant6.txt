@@ -1,0 +1,1 @@
+Removed a class from element <h1 class="text-center hh1 col-md-offset-1"> Your Awesome Domain Name Is Waiting... </h1>

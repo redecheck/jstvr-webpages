@@ -1,0 +1,6 @@
+Changed expression to max-width in 
+@media (max-width: 1200.0px) {
+	.container {
+		width: 1170.0px;
+	}
+}

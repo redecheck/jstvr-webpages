@@ -1,0 +1,62 @@
+body { 
+	padding-top: 50.0px;
+}
+.navbar-fixed-top { 
+	top: 0.0px;
+}
+body.admin-bar .navbar-fixed-top { 
+	top: 32.0px !important;
+}
+
+@media screen AND (max-width: 782.0px) { 
+body.admin-bar .navbar-fixed-top { 
+	top: 46.0px !important;
+}
+}
+.cover-image-overlay, .section-image-overlay { 
+	height: 480.0px;
+	min-height: 480.0px;
+	padding: 0.0%;
+	vertical-align: top;
+}
+.cover-image, .section-image { 
+	height: 480.0px;
+	min-height: 480.0px;
+}
+.section-image, .cover-image { 
+	background-position: center center;
+}
+.section-image-overlay h1, .cover-image-overlay h1 { 
+	font-weight: 700;
+}
+
+@media (min-width: 768.0px) { 
+.cover-image .spacer { 
+	margin-top: 100.0px;
+}
+}
+.section { 
+	padding-top: 50.0px;
+	padding-bottom: 50.0px;
+}
+.padding-top { 
+	padding-top: 50.0px;
+}
+.padding-bottom { 
+	padding-bottom: 50.0px;
+}
+.page-posts { 
+	padding-bottom: 25.0px;
+}
+.sidebar-footer h2 { 
+	font-size: 28.0px;
+	line-height: 30.0px;
+}
+.sidebar-footer { 
+	padding-top: 50.0px;
+	padding-bottom: 15.0px;
+}
+.sidebar-footer label { 
+	font-size: 16.0px;
+	line-height: 22.0px;
+}

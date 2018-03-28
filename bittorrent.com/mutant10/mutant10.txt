@@ -1,0 +1,6 @@
+Changed expression to max-width in 
+@media (max-width: 992.0px) AND (max-width: 1199.0px) {
+	.hidden-md {
+		display: none !important;
+	}
+}

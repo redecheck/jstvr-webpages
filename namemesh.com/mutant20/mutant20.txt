@@ -1,0 +1,9 @@
+Removed a class from element 
+<div class="panel"> 
+ <div class="panel-heading"> 
+  <h3 class="panel-title"> COMMON </h3> 
+ </div> 
+ <div class="panel-body"> 
+  <p> Check availability of the most common tlds including com, net, org. Also, checks the hyphenated version of your preferred domain name. </p> 
+ </div> 
+</div>

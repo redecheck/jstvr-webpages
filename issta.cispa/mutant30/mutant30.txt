@@ -1,0 +1,5 @@
+Changed class in element <ul id="menu-header-menu" class="navbar-nav navbar-brand">
+ <li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a title="Organization" href="https://issta2016.cispa.saarland/?page_id=42">Organization</a></li>
+ <li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a title="Facebook" href="https://issta2016.cispa.saarland/?page_id=133">Facebook</a></li>
+ <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a title="Call for Papers" href="https://issta2016.cispa.saarland/?page_id=37">Call for Papers</a></li>
+</ul>

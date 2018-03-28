@@ -1,0 +1,9 @@
+Changed class in element <div class="hidden-xs hidden-sm footer-nav-group gat-Outbound_Links-Primary_Nav_Link-Blog"> 
+ <h5 class="nav-category">Client</h5> 
+ <ul> 
+  <li><a href="http://www.bittorrent.com/bittorrent-free">Free</a></li> 
+  <li class="hide-pro" style="display: none;"> <a href="http://www.bittorrent.com/bittorrent-pro">Pro</a></li> 
+  <li><a href="http://www.bittorrent.com/bittorrent-android">Mobile</a></li> 
+  <li><a href="http://www.bittorrent.com/bittorrent-remote">Remote</a></li> 
+ </ul> 
+</div>

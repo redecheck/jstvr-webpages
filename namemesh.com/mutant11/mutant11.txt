@@ -1,0 +1,1 @@
+Changed class in element <img width="100" class="img-responsive text-primary" src="https://pbs.twimg.com/profile_images/490092453077483520/IYqcp3JK_200x200.jpeg">

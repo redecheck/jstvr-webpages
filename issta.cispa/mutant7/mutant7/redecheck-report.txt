@@ -1,0 +1,104 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE/FORM contains /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE/FORM/DIV
+
+Differing bounds for {}
+	Oracle : 992 -> 1199
+	Test : 992 -> 1400
+
+Differing bounds for {leftJust}
+	Oracle : 1200 -> 1400
+	Test : 768 -> 991
+
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE/FORM/DIV/INPUT is sibling of /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE/FORM/DIV/LABEL
+
+Differing bounds for {rightOftopAlignbottomAlign}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE/FORM/DIV/INPUT , /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE/FORM/DIV/LABEL , SIBLING , 992 , 1199 , belowleftAlign
+
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE/FORM/DIV contains /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE/FORM/DIV/INPUT
+
+Differing bounds for {rightJust}
+	Oracle : 768 -> 1400
+	Test : 1200 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE/FORM/DIV , /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE/FORM/DIV/INPUT , PARENT_CHILD , 992 , 1199 , leftJustbottom
+
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE/FORM/DIV contains /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE/FORM/DIV/LABEL
+
+Differing bounds for {leftJust}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE/FORM/DIV , /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE/FORM/DIV/LABEL , PARENT_CHILD , 992 , 1199 , top
+
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV contains /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV/I[3]
+
+Differing bounds for {leftJust}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV , /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV/I[3] , PARENT_CHILD , 992 , 1199 , 
+
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV contains /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV/I[5]
+
+Differing bounds for {leftJust}
+	Oracle : 400 -> 1400
+	Test : 400 -> 991
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV , /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV/I[5] , PARENT_CHILD , 992 , 1400 , 
+
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[3]/DIV contains /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[3]/DIV/B[2]
+
+Differing bounds for {leftJust}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[3]/DIV , /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[3]/DIV/B[2] , PARENT_CHILD , 992 , 1199 , 
+
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[3]/DIV contains /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[3]/DIV/B[4]
+
+Differing bounds for {leftJust}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[3]/DIV , /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[3]/DIV/B[4] , PARENT_CHILD , 992 , 1199 , 
+
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[3]/DIV contains /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[3]/DIV/B[5]
+
+Differing bounds for {leftJust}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[3]/DIV , /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[3]/DIV/B[5] , PARENT_CHILD , 992 , 1199 , 
+
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[3]/DIV contains /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[3]/DIV/B[8]
+
+Differing bounds for {leftJust}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[3]/DIV , /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[3]/DIV/B[8] , PARENT_CHILD , 992 , 1199 , 
+
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[3]/DIV contains /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[3]/DIV/I[6]
+
+Differing bounds for {leftJust}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[3]/DIV , /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[3]/DIV/I[6] , PARENT_CHILD , 992 , 1199 , 
+
+/HTML/BODY/DIV/DIV contains /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]
+
+Differing bounds for {bottom}
+	Oracle : 992 -> 1400
+	Test : 1200 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/DIV , /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2] , PARENT_CHILD , 992 , 1199 , 

@@ -1,0 +1,14 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV/MAIN/ARTICLE/DIV contains /HTML/BODY/DIV/DIV/DIV/DIV/DIV/MAIN/ARTICLE/DIV/P
+
+Differing bounds for {}
+	Oracle : 400 -> 1400
+	Test : 546 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV/DIV/MAIN/ARTICLE/DIV , /HTML/BODY/DIV/DIV/DIV/DIV/DIV/MAIN/ARTICLE/DIV/P , PARENT_CHILD , 513 , 545 , middle

@@ -1,0 +1,77 @@
+Changed class in element <div id="secondary" class="widget-area col-md-3" role="complementary"> 
+ <aside id="search-2" class="widget clearfix widget_search">
+  <form role="search" method="get" class="search-form form-inline" action="./resources/ISSTA'16.html">
+   <div class="form-group"> 
+    <label> <span class="screen-reader-text sr-only">Search for:</span> <input type="search" class="search-field form-control" placeholder="Search …" value="" name="s"> </label> 
+    <input type="submit" class="search-submit btn btn-primary" value="Search">
+   </div>
+   <!-- .form-group -->
+  </form>
+ </aside>
+ <aside id="text-6" class="widget clearfix widget_text">
+  <h2 class="widget-title">Important dates</h2> 
+  <div class="textwidget">
+   <b>January 29, 2016</b>
+   <br>
+   <i>Paper submission</i>
+   <br>
+   <b>April 19, 2016</b>
+   <br>
+   <i>Notification</i>
+   <br>
+   <b>July 17, 2016</b>
+   <br>
+   <i>Pre-conference events</i>
+   <br>
+   <b>July 18–20, 2016</b>
+   <br>
+   <i>Main conference</i>
+   <br>
+   <b>July 21–22, 2016</b>
+   <br>
+   <i>Post-conference events</i>
+  </div> 
+ </aside>
+ <aside id="text-8" class="widget clearfix widget_text">
+  <h2 class="widget-title">Organizers</h2> 
+  <div class="textwidget">
+   <b>Andreas Zeller</b>
+   <br>
+   <i>General Chair</i>
+   <br>
+   <b>Abhik Roychoudhury</b>
+   <br>
+   <i>Program Chair</i>
+   <br>
+   <b>Ana Milanova</b>
+   <br>
+   <b>Juan Pablo Galeotti</b>
+   <br>
+   <i>Workshops</i>
+   <br>
+   <b>Christian Hammer</b>
+   <br>
+   <b>Saurabh Sinha</b>
+   <br>
+   <i>Demonstrations</i>
+   <br>
+   <b>Eric Bodden</b>
+   <br>
+   <b>Alessandra Gorla</b>
+   <br>
+   <i>Artifact Evaluation</i>
+   <br>
+   <b>Earl Barr</b>
+   <br>
+   <i>Doctoral Symposium</i>
+   <br>
+  </div> 
+ </aside>
+ <aside id="text-11" class="widget clearfix widget_text"> 
+  <div class="textwidget">
+   <p><a href="http://www.uni-saarland.de/"><img width="100" src="./resources/uni-logo.png" alt="SigSoft"></a></p>
+   <p><a href="http://www.acm.org/"><img width="50" src="./resources/acm-logo.png" alt="ACM"></a></p>
+   <p><a href="http://www.sigsoft.org/"><img width="100" src="./resources/sigsoft-logo.png" alt="SigSoft"></a></p>
+  </div> 
+ </aside> 
+</div>

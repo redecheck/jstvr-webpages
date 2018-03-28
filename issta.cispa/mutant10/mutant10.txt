@@ -1,0 +1,2 @@
+Added a class to element 
+<h1 class="menu-toggle sr-only screen-reader-text navbar">Primary Menu</h1>

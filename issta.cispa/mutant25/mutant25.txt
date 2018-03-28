@@ -1,0 +1,9 @@
+Removed a class from element 
+<div class="" style="background-image: url('https://issta2016.cispa.saarland/wp-content/uploads/2015/07/cropped-Schloss_Saarbruecken_small_hell.jpg')"> 
+ <div class="cover-image-overlay"> 
+  <h1 class="header-image-title">ISSTA'16</h1> 
+  <div class="spacer"></div>
+  <a href="https://issta2016.cispa.saarland/#pagetop" class="scroll-down smoothscroll"><span class="glyphicon glyphicon-chevron-down"></span></a> 
+ </div>
+ <!-- .cover-image-overlay or .section-image-overlay --> 
+</div>

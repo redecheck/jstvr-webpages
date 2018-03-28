@@ -1,0 +1,105 @@
+Added a class to element 
+<div class="container col-xs-2"> 
+ <div class="row"> 
+  <div class="col-lg-8 col-md-8"> 
+   <div class="row footer-nav"> 
+    <div class="col-md-3 footer-nav-group"> 
+     <h5 class="nav-category">Company</h5> 
+     <ul> 
+      <li><a href="http://www.bittorrent.com/company/about">About</a></li> 
+      <li><a href="http://www.bittorrent.com/company/about/jobs">Jobs</a></li> 
+      <li><a class="ga-et gat-Outbound_Links-Primary_Nav_Link-Blog" href="http://blog.bittorrent.com/?utm_source=bittorrent&amp;utm_medium=header_link&amp;utm_campaign=bittorrent_topnav_link" target="_blank">Blog</a></li> 
+      <li><a href="http://www.bittorrent.com/legal/privacy">Privacy</a></li> 
+      <li><a href="http://www.bittorrent.com/legal/eula">EULA</a></li> 
+      <li><a href="http://www.bittorrent.com/legal/copyright">Copyright</a></li> 
+      <li><a href="http://www.bittorrent.com/legal/terms-of-use">Terms</a></li> 
+      <li><a href="http://www.bittorrent.com/advertise">Advertise</a></li> 
+     </ul> 
+    </div> 
+    <div class="col-md-3 hidden-xs hidden-sm footer-nav-group"> 
+     <h5 class="nav-category">Client</h5> 
+     <ul> 
+      <li><a href="http://www.bittorrent.com/bittorrent-free">Free</a></li> 
+      <li class="hide-pro" style="display: none;"> <a href="http://www.bittorrent.com/bittorrent-pro">Pro</a></li> 
+      <li><a href="http://www.bittorrent.com/bittorrent-android">Mobile</a></li> 
+      <li><a href="http://www.bittorrent.com/bittorrent-remote">Remote</a></li> 
+     </ul> 
+    </div> 
+    <div class="col-md-3 hidden-xs hidden-sm footer-nav-group"> 
+     <h5 class="nav-category">Sync</h5> 
+     <ul> 
+      <li><a href="http://getsync.com/platforms/desktop" target="_blank">Download</a></li> 
+      <li><a href="http://getsync.com/how-it-works" target="_blank">How It Works</a></li> 
+      <li><a href="http://getsync.com/use-cases" target="_blank">Use Cases</a></li> 
+      <li><a href="http://getsync.com/features" target="_blank">Features</a></li> 
+      <li><a href="http://getsync.com/api" target="_blank">Developer API</a></li> 
+     </ul> 
+    </div> 
+    <div class="col-md-3 hidden-xs hidden-sm footer-nav-group"> 
+     <h5 class="nav-category">Help</h5> 
+     <ul> 
+      <li><a href="http://help.bittorrent.com/">Client</a></li> 
+      <li><a href="http://help.getsync.com/">Sync</a></li> 
+      <li><a href="http://bundle-help.bittorrent.com/">Bundle</a></li> 
+      <li><a href="http://bleep-help.bittorrent.com/">Bleep</a></li> 
+      <li><a href="http://forum.bittorrent.com/">Forums</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="col-md-3 col-md-offset-1"> 
+   <div class="row"> 
+    <div class="col-md-12"> 
+     <div class="select-container hidden-md hidden-lg"> 
+      <h5 class="select-icons-lang"><i class="fa fa-globe fa-lg"></i> <i class="fa fa-angle-up"></i></h5>
+      <select class="lang-select" onchange="this.form.submit()"> </select> 
+     </div> 
+     <div class="lang-container hidden-sm hidden-xs"> 
+      <div class="lang-menu" id="lang-menu"> 
+       <h5 class="current-lang"><i class="fa fa-globe fa-lg"></i> English <i class="fa fa-angle-up"></i></h5> 
+       <ul class="lang-list"> 
+        <li><a class="lang-link" href="http://www.bittorrent.com/index/setLocale/locale/zh_cn"> 中文（简体）</a></li> 
+        <li><a class="lang-link" href="http://www.bittorrent.com/index/setLocale/locale/zh_tw"> 中文（繁體）</a></li> 
+        <li><a class="lang-link" href="http://www.bittorrent.com/index/setLocale/locale/en"> English</a></li> 
+        <li><a class="lang-link" href="http://www.bittorrent.com/index/setLocale/locale/de"> Deutsch</a></li> 
+        <li><a class="lang-link" href="http://www.bittorrent.com/index/setLocale/locale/es"> Español</a></li> 
+        <li><a class="lang-link" href="http://www.bittorrent.com/index/setLocale/locale/fr"> Français</a></li> 
+        <li><a class="lang-link" href="http://www.bittorrent.com/index/setLocale/locale/it"> Italiano</a></li> 
+        <li><a class="lang-link" href="http://www.bittorrent.com/index/setLocale/locale/ko"> 한국어</a></li> 
+        <li><a class="lang-link" href="http://www.bittorrent.com/index/setLocale/locale/nl"> Nederlands</a></li> 
+        <li><a class="lang-link" href="http://www.bittorrent.com/index/setLocale/locale/ru"> Русский</a></li> 
+        <li><a class="lang-link" href="http://www.bittorrent.com/index/setLocale/locale/pl"> Polski</a></li> 
+        <li><a class="lang-link" href="http://www.bittorrent.com/index/setLocale/locale/pt"> Português</a></li> 
+        <li><a class="lang-link" href="http://www.bittorrent.com/index/setLocale/locale/pt_br"> Português (Brasil)</a></li> 
+        <li><a class="lang-link" href="http://www.bittorrent.com/index/setLocale/locale/tr"> Türkçe</a></li> 
+        <li><a class="lang-link" href="http://www.bittorrent.com/index/setLocale/locale/ja"> 日本語</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="row"> 
+    <div class="col-xs-2 col-xs-offset-1"> 
+     <a class="social-link" href="https://twitter.com/bittorrent" target="_blank"><i class="fa fa-twitter fa-lg"></i></a> 
+    </div> 
+    <div class="col-xs-2"> 
+     <a class="social-link" href="http://facebook.com/bittorrent" target="_blank"><i class="fa fa-facebook-square fa-lg"></i></a> 
+    </div> 
+    <div class="col-xs-2"> 
+     <a class="social-link" href="https://plus.google.com/117465790200445150675" target="_blank"><i class="fa fa-google-plus-square fa-lg"></i></a> 
+    </div> 
+    <div class="col-xs-2"> 
+     <a class="social-link" href="http://instagram.com/bittorrent" target="_blank"><i class="fa fa-instagram fa-lg"></i></a> 
+    </div> 
+    <div class="col-xs-2"> 
+     <a class="social-link" href="http://youtube.com/bittorrent" target="_blank"><i class="fa fa-youtube fa-lg"></i></a> 
+    </div> 
+   </div> 
+   <div class="row"> 
+    <div class="col-md-12"> 
+     <p class="copyright"><a href="http://www.bittorrent.com/legal/copyright"><small>©2014 BitTorrent Inc.</small></a></p> 
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div>

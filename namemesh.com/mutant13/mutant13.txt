@@ -1,0 +1,14 @@
+Changed value from 768.0 to 771.0 in 
+@media (min-width: 771.0px) {
+	.navbar-nav {
+		float: left;
+		margin: 0.0;
+	}
+
+	.navbar-nav>li {
+		float: left;
+	}
+
+	.navbar-nav>li>a {
+	}
+}

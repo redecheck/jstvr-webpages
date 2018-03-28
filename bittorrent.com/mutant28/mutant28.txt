@@ -1,0 +1,1 @@
+Changed class in element <a class="gat-Outbound_Links-Primary_Nav_Link-Blog pro-download-container" href="http://blog.bittorrent.com/?utm_source=bittorrent&amp;utm_medium=header_link&amp;utm_campaign=bittorrent_topnav_link" target="_blank">Blog</a>

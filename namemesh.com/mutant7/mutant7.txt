@@ -1,0 +1,27 @@
+Changed class in element <div class="row col-lg-3"> 
+ <div class="panel panel-danger"> 
+  <div class="panel-heading"> 
+   <h3 class="panel-title"> EXTRA </h3> 
+  </div> 
+  <div class="panel-body"> 
+   <p> Check domain names with some other popular tlds like co, io, it, mobi, name, me, ly and many more. </p> 
+  </div> 
+ </div> 
+ <br> 
+ <div class="pack"> 
+  <div class="panel panel-danger"> 
+   <div class="panel-heading"> 
+    <h3 class="panel-title"> MIX </h3> 
+   </div> 
+   <div class="panel-body"> 
+    <p> Generate domains by mixing in other words and popular suffixes like ly, ify etc. Some of the methods used are </p> 
+    <ul> 
+     <li> Mix words </li> 
+     <li> Simple Portmanteau - smartly merge popular suffixes like ly, ify, er, ish, ism and many more </li> 
+     <li> Prefixes - use prefixes overlapping with the keywords </li> 
+     <li> Suffixes - use suffixes overlapping with the keywords </li> 
+    </ul> 
+   </div> 
+  </div> 
+ </div> 
+</div>

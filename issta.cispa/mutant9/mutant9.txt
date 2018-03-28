@@ -1,0 +1,1 @@
+Changed class in element <h1 class="menu-toggle nav">Footer Menu</h1>

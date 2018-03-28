@@ -1,0 +1,159 @@
+====== Unmatched Nodes ====== 
+
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/DIV[2]/UL[2]/LI[2]/B wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[3]/DIV[2]/DIV/DIV[2]/UL wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/P wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[3] wasn't matched in Graph 1
+/HTML/BODY/NAV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[6]/DIV/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/P wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[4]/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[4]/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[5]/DIV/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/DIV[2]/P[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[6]/DIV/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[5]/DIV[2]/DIV/IMG wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[3]/DIV[2]/DIV/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[4]/DIV[2]/DIV/DIV[2]/UL/LI[4] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[4]/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[3]/DIV[2]/DIV/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[5]/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[2]/DIV/DIV[2]/P wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV/DIV[2]/UL wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/DIV[2]/UL/LI wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[4]/DIV/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/DIV[2]/UL/LI[3] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[6] wasn't matched in Graph 1
+/HTML/BODY/NAV/DIV/BUTTON wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[6]/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[5]/DIV[2]/DIV[2]/P wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[3]/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[3]/DIV[2]/DIV/DIV[2]/UL/LI[5] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[4]/DIV/DIV[2]/P wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[4]/DIV[2]/DIV/DIV[2]/UL/LI[3] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[3]/DIV/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/DIV[2]/UL[2]/LI/P wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[2]/DIV/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/NAV/DIV[2]/UL[2]/LI wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[4]/DIV/DIV/IMG wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/DIV[2]/UL[2]/LI wasn't matched in Graph 1
+/HTML/BODY/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[4]/DIV[2]/DIV/DIV/H3 wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[3]/DIV[2]/DIV/DIV[2]/UL/LI wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/DIV[2]/UL[2]/LI[2]/P wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/DIV[2]/UL/LI[4] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[6]/DIV[2]/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/DIV/SPAN wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[4]/DIV/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[4]/DIV[2]/DIV/DIV[2]/UL/LI wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV wasn't matched in Graph 1
+/HTML/BODY/NAV/DIV[2]/UL[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[3]/DIV[2]/DIV/DIV[2]/UL/LI[6] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[3] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[4]/DIV[2]/DIV/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/NAV/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV[2]/P[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV/DIV[2]/P wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/DIV[2]/UL[2]/LI[2]/P/B wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[3]/DIV[2]/DIV/DIV[2]/UL/LI[3] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/DIV/SPAN/BUTTON wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV/DIV[2]/UL/LI[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[4] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[4]/DIV/DIV/H3 wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[3]/DIV/DIV/H3 wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/DIV[2]/UL/LI[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[2]/DIV/DIV/H3 wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/DIV[2]/UL[2]/LI/P/B wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[3]/DIV[2]/DIV/DIV[2]/UL/LI[4] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[6]/DIV[2]/DIV[2]/P wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[5]/DIV[2]/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV/DIV[2]/UL/LI[3] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[4]/DIV[2]/DIV/DIV[2]/P wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[3]/DIV/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV/DIV[2]/UL/LI[4]/B wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[3]/H2 wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[3]/H2 wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[4]/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[4]/DIV[2]/DIV/IMG wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[4]/DIV[2]/DIV[2]/P wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV/DIV[2]/P wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[4]/DIV[2]/DIV/DIV wasn't matched in Graph 1
+/HTML/BODY/NAV/DIV/BUTTON/SPAN wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV/DIV[2]/UL/LI wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV/DIV[2]/UL/LI[4] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[3]/DIV[2]/DIV/DIV[2]/UL/LI[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[5]/DIV/DIV/IMG wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/DIV[2]/P wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[6]/DIV/DIV/IMG wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/DIV/INPUT wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[3]/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV/DIV/H3 wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV/DIV/H3 wasn't matched in Graph 1
+/HTML/BODY/DIV wasn't matched in Graph 1
+/HTML/BODY/NAV/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[3] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[3]/DIV[2]/DIV/DIV/H3 wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[4]/DIV/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[4]/DIV[2]/DIV/DIV[2]/UL/LI[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[2]/DIV/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[5]/DIV/DIV[2]/P wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/DIV[2]/UL wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[6]/DIV[2]/DIV/IMG wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[4] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[5]/DIV/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[5]/DIV[2]/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[6]/DIV[2]/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[4]/DIV[2]/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[4]/DIV/DIV[2]/P wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[4]/DIV[2]/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/DIV[2]/UL[2]/LI/B wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[5]/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/DIV/H3 wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[3]/DIV[2]/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[6]/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[6]/DIV/DIV[2]/P wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[4]/DIV[2]/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[2]/DIV[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[4]/DIV/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/DIV[2]/UL[2]/LI[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[4]/DIV[2]/DIV/DIV[2]/UL wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[5] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/DIV[2]/UL[2] wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[2]/DIV wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV/H1 wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[3]/DIV/DIV[2]/P wasn't matched in Graph 1
+/HTML/BODY/DIV/DIV/DIV[2]/DIV[3]/DIV[2]/DIV/DIV[2]/P wasn't matched in Graph 1
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY contains /HTML/BODY/DIV
+
+Unmatched in test: /HTML/BODY , /HTML/BODY/DIV , PARENT_CHILD , 400 , 1400 , 
+
+/HTML/BODY contains /HTML/BODY/DIV[2]
+
+Unmatched in test: /HTML/BODY , /HTML/BODY/DIV[2] , PARENT_CHILD , 400 , 1400 , 
+
+/HTML/BODY contains /HTML/BODY/NAV
+
+Unmatched in test: /HTML/BODY , /HTML/BODY/NAV , PARENT_CHILD , 400 , 1400 , 

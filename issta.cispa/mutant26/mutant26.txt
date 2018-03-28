@@ -1,0 +1,38 @@
+Changed class in element <footer id="colophon" class="navbar" role="contentinfo"> 
+ <div class="sidebar-footer clearfix"> 
+  <div class="container"> 
+   <div class="row"> 
+    <aside id="text-10" class="widget col-sm-12  clearfix widget_text"> 
+     <div class="textwidget"></div> 
+    </aside> 
+   </div>
+   <!-- .row --> 
+  </div>
+  <!-- .container --> 
+ </div>
+ <!-- .sidebar-footer --> 
+ <div class="after-footer"> 
+  <div class="container"> 
+   <div class="footer-nav-menu pull-left"> 
+    <nav id="footer-navigation" class="secondary-navigation" role="navigation"> 
+     <h1 class="menu-toggle sr-only">Footer Menu</h1> 
+     <div class="sample-menu-footer-container"> 
+      <ul id="sample-menu-footer" class="list-inline dividers"> 
+       <li id="menu-item-sample-1" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-sample-1"><a class="smoothscroll" title="Back to top of page" href="https://issta2016.cispa.saarland/#page"><span class="fa fa-angle-up"></span> Top</a></li> 
+       <li id="menu-item-sample-2" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-sample-2"><a title="Home" href="./resources/ISSTA'16.html">Home</a></li> 
+      </ul> 
+     </div> 
+    </nav> 
+   </div>
+   <!-- .footer-nav-menu --> 
+   <div id="site-credits" class="site-credits pull-right">
+     © 2015 
+    <a href="./resources/ISSTA'16.html" rel="home">ISSTA'16</a>. Theme by 
+    <a href="http://xtremelysocial.com/wordpress/pratt/" rel="profile" target="_blank">XtremelySocial and Blacktie</a>. 
+   </div>
+   <!-- .site-credits --> 
+  </div>
+  <!-- .container --> 
+ </div>
+ <!-- .after-footer --> 
+</footer>

@@ -1,0 +1,2 @@
+Removed a class from element 
+<a class="bundle-bt-cta gat-Outbound_Links-Primary_CTA-Get_the_Bundle" href="https://bundles.bittorrent.com/bundles/hitspwyw" target="_blank">Get the Bundle</a>

@@ -1,0 +1,2 @@
+Removed a class from element 
+<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Call for Papers" href="https://issta2016.cispa.saarland/?page_id=37">Call for Papers</a></li>

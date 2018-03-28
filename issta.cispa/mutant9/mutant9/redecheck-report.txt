@@ -1,0 +1,79 @@
+====== Unmatched Nodes ====== 
+
+/HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV/NAV/H1 wasn't matched in Graph 1
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV is sibling of /HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV[2]
+
+Differing bounds for {leftOftopAlign}
+	Oracle : 641 -> 1400
+	Test : 724 -> 1400
+
+/HTML/BODY/DIV/FOOTER contains /HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV
+
+Differing bounds for {bottom}
+	Oracle : 641 -> 1400
+	Test : 724 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/FOOTER , /HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV , PARENT_CHILD , 641 , 723 , 
+
+/HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV/NAV/DIV is sibling of /HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV/NAV/H1
+
+Unmatched in test: /HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV/NAV/DIV , /HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV/NAV/H1 , SIBLING , 400 , 1400 , belowleftAlignrightAlign
+
+/HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV/NAV contains /HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV/NAV/DIV
+
+Differing attributes for 400 -> 1400
+	Oracle : {}
+	Test : {bottom}
+
+/HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV/NAV/DIV/UL contains /HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV/NAV/DIV/UL/LI[2]
+
+Unmatched in oracle: /HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV/NAV/DIV/UL , /HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV/NAV/DIV/UL/LI[2] , PARENT_CHILD , 641 , 1400 , rightJust
+
+Differing bounds for {}
+	Oracle : 400 -> 640
+	Test : 400 -> 1400
+
+/HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV/NAV contains /HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV/NAV/H1
+
+Unmatched in test: /HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV/NAV , /HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV/NAV/H1 , PARENT_CHILD , 400 , 1400 , top
+
+/HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV[2] is sibling of /HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV
+
+Differing bounds for {rightOftopAlign}
+	Oracle : 724 -> 1400
+	Test : 641 -> 1400
+
+/HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV[2] is sibling of /HTML/BODY/DIV/FOOTER/DIV[2]
+
+Differing bounds for {}
+	Oracle : 641 -> 1400
+	Test : 724 -> 1400
+
+/HTML/BODY/DIV/FOOTER contains /HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV[2]
+
+Differing bounds for {}
+	Oracle : 641 -> 1400
+	Test : 724 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/FOOTER , /HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV[2] , PARENT_CHILD , 641 , 723 , bottom
+
+/HTML/BODY/DIV/FOOTER contains /HTML/BODY/DIV/FOOTER/DIV[2]
+
+Differing bounds for {}
+	Oracle : 641 -> 1400
+	Test : 768 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/FOOTER , /HTML/BODY/DIV/FOOTER/DIV[2] , PARENT_CHILD , 724 , 767 , middle
+
+/HTML/BODY/DIV contains /HTML/BODY/DIV/FOOTER
+
+Differing bounds for {}
+	Oracle : 400 -> 1400
+	Test : 724 -> 991
+
+Unmatched in test: /HTML/BODY/DIV , /HTML/BODY/DIV/FOOTER , PARENT_CHILD , 992 , 1400 , bottom

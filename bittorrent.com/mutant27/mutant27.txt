@@ -1,0 +1,7 @@
+Added a class to element 
+<div class="col-md-9 col-md-offset-1 sync-download-container footer-nav-group"> 
+ <button class="btn btn-default btn-md sync-dl-btn ga-et gat-Downloads-Hero_Primary_CTA-Download_Sync"> Download Sync <span class="btn-sync-subtext">For Mac</span></button> 
+ <div class="other-platforms"> 
+  <a href="https://getsync.com/platforms/desktop?utm_source=bt_home&amp;utm_medium=link&amp;utm_campaign=bt" target="_blank">Other Platforms</a> 
+ </div> 
+</div>

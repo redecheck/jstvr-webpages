@@ -1,0 +1,8 @@
+Changed term from none to block
+.collapse {
+	display: none;
+}
+
+.collapse {
+	display: block;
+}

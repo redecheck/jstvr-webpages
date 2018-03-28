@@ -1,0 +1,24 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV/NAV/DIV/UL contains /HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV/NAV/DIV/UL/LI
+
+Differing attributes for 400 -> 640
+	Oracle : {}
+	Test : {bottom}
+
+/HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV/NAV/DIV/UL contains /HTML/BODY/DIV/FOOTER/DIV[2]/DIV/DIV/NAV/DIV/UL/LI[2]
+
+Differing attributes for 400 -> 640
+	Oracle : {}
+	Test : {bottom}
+
+/HTML/BODY/DIV/FOOTER contains /HTML/BODY/DIV/FOOTER/DIV[2]
+
+Differing bounds for {bottom}
+	Oracle : 400 -> 640
+	Test : 491 -> 640

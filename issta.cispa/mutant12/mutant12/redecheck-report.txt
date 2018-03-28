@@ -1,0 +1,44 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV/B[4] is sibling of /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV/I
+
+Differing attributes for 400 -> 1400
+	Oracle : {belowleftAlignrightAlign}
+	Test : {aboveleftAlign}
+
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV/B[5] is sibling of /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV/I
+
+Differing attributes for 400 -> 1400
+	Oracle : {belowleftAlignrightAlign}
+	Test : {aboveleftAlign}
+
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV/I is sibling of /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV/B[4]
+
+Differing attributes for 400 -> 1400
+	Oracle : {aboveleftAlign}
+	Test : {belowleftAlignrightAlign}
+
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV/I is sibling of /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV/B[5]
+
+Differing attributes for 400 -> 1400
+	Oracle : {aboveleftAlign}
+	Test : {belowleftAlignrightAlign}
+
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV/I is sibling of /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV/B
+
+Differing attributes for 400 -> 1400
+	Oracle : {belowleftAlignrightAlign}
+	Test : {belowleftAlign}
+
+/HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV contains /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV/I
+
+Differing bounds for {leftJust}
+	Oracle : 400 -> 1400
+	Test : 992 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV , /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]/ASIDE[2]/DIV/I , PARENT_CHILD , 560 , 991 , 

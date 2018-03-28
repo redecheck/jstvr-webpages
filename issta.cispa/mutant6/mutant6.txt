@@ -1,0 +1,16 @@
+Removed a class from element <div id="primary" class="content-area"> 
+ <main id="main" class="site-main" role="main"> 
+  <article id="post-29" class="post-29 page type-page status-publish hentry"> 
+   <div class="entry-content"> 
+    <h1>The International Symposium on Software Testing and Analysis</h1>
+    <h2>Saarland University, Saarbrücken, Germany • July 18–20, 2016</h2>
+    <p>ISSTA is the leading research symposium on software testing and analysis, bringing together academics, industrial researchers, and practitioners to exchange new ideas, problems, and experience on how to analyze and test software systems. ISSTA 2016 will be held at Saarland University, Saarbrücken, Germany on July 18–20, 2016.</p>
+    <h2>The Venue – Saarbrücken, Germany</h2>
+    <p>Saarbrücken is the capital of the Saarland, the smallest German federal state. It is located at the border to France, half way between Paris and Frankfurt on the high-speed rail- way connecting both in less than four hours. Picturesque attractions and places of historic interest offer the perfect destination for a hike or a day trip. At the Saarbrücken Computer Science Cluster, 380 Ph.D students work with 200 professors and post-docs on cutting-edge computer science.</p> 
+   </div>
+   <!-- .entry-content --> 
+  </article>
+  <!-- #post-## --> 
+ </main>
+ <!-- #main --> 
+</div>

@@ -1,0 +1,2 @@
+Removed a class from element 
+<button id="sbtn" class="btn-primary" type="button"> Generate </button>

@@ -1,0 +1,9 @@
+Added a class to element 
+<ul class="sub-nav col-xs-12"> 
+ <li><a href="http://www.bittorrent.com/bittorrent-free">Client</a></li> 
+ <li><a href="http://project-maelstrom.bittorrent.com/" target="_blank">Browser</a></li> 
+ <li><a href="http://getsync.com/" target="_blank">Sync</a></li> 
+ <li><a href="http://getsync.com/shoot" target="_blank">Shoot</a></li> 
+ <li><a class="ga-et gat-Outbound_Links-Sub_Nav_Link-Bundles" href="http://bundles.bittorrent.com/">Bundle</a></li> 
+ <li><a class="ga-et gat-Outbound_Links-Sub_Nav_Link-Bleep" href="http://labs.bittorrent.com/bleep/index.html">Bleep</a></li> 
+</ul>

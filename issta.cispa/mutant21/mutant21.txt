@@ -1,0 +1,4 @@
+Added a class to element 
+<aside id="text-10" class="widget col-sm-12 clearfix widget_text menu-item-object-page"> 
+ <div class="textwidget"></div> 
+</aside>

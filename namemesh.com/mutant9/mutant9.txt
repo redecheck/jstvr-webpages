@@ -1,0 +1,8 @@
+Changed class in element <div class="panel-danger text-center"> 
+ <div class="panel-heading"> 
+  <h3 class="panel-title"> EXTRA </h3> 
+ </div> 
+ <div class="panel-body"> 
+  <p> Check domain names with some other popular tlds like co, io, it, mobi, name, me, ly and many more. </p> 
+ </div> 
+</div>

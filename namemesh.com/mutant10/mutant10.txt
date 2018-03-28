@@ -1,0 +1,2 @@
+Removed a class from element 
+<img width="100" class="img-circle" src="https://pbs.twimg.com/profile_images/443762182635790337/Alr0ZPdY_bigger.jpeg">

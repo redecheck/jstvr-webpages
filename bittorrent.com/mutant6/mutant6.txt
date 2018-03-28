@@ -1,0 +1,23 @@
+Removed a class from element 
+<div class="col-xs-12 col-md-7 header-nav-container" style="right: 0px;"> 
+ <ul class="header-nav" id="header-nav"> 
+  <li> <h5 class="nav-category">Products<i class="fa fa-angle-down"></i></h5> 
+   <ul class="sub-nav"> 
+    <li><a href="http://www.bittorrent.com/bittorrent-free">Client</a></li> 
+    <li><a href="http://project-maelstrom.bittorrent.com/" target="_blank">Browser</a></li> 
+    <li><a href="http://getsync.com/" target="_blank">Sync</a></li> 
+    <li><a href="http://getsync.com/shoot" target="_blank">Shoot</a></li> 
+    <li><a class="ga-et gat-Outbound_Links-Sub_Nav_Link-Bundles" href="http://bundles.bittorrent.com/">Bundle</a></li> 
+    <li><a class="ga-et gat-Outbound_Links-Sub_Nav_Link-Bleep" href="http://labs.bittorrent.com/bleep/index.html">Bleep</a></li> 
+   </ul> </li> 
+  <li> <a class="nav-item" href="http://forum.bittorrent.com/"></a> <h5 class="nav-category"><a class="nav-item" href="http://forum.bittorrent.com/">Community</a></h5> </li> 
+  <li> <a class="ga-et gat-Outbound_Links-Primary_Nav_Link-Blog nav-item" href="http://blog.bittorrent.com/?utm_source=bittorrent&amp;utm_medium=header_link&amp;utm_campaign=bittorrent_topnav_link" target="_blank"></a> <h5 class="nav-category"><a class="ga-et gat-Outbound_Links-Primary_Nav_Link-Blog nav-item" href="http://blog.bittorrent.com/?utm_source=bittorrent&amp;utm_medium=header_link&amp;utm_campaign=bittorrent_topnav_link" target="_blank">Blog</a></h5> </li> 
+  <li> <h5 class="nav-category">Help<i class="fa fa-angle-down"></i></h5> 
+   <ul class="sub-nav"> 
+    <li><a href="http://help.bittorrent.com/">Client</a></li> 
+    <li><a href="http://help.getsync.com/">Sync</a></li> 
+    <li><a href="http://bundle-help.bittorrent.com/">Bundle</a></li> 
+    <li><a href="http://bleep-help.bittorrent.com/">Bleep</a></li> 
+   </ul> </li> 
+ </ul> 
+</div>

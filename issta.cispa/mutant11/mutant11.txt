@@ -1,0 +1,1 @@
+Changed class in element <li id="menu-item-44" class="menu-item-type-post_type menu-item-object-page menu-item-44 footer-nav-menu"><a title="Organization" href="https://issta2016.cispa.saarland/?page_id=42">Organization</a></li>

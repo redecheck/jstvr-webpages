@@ -1,0 +1,1 @@
+Added a class to element <li id="menu-item-sample-2" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-sample-2 small-3 columns"><a title="Home" href="./resources/ISSTA'16.html">Home</a></li>

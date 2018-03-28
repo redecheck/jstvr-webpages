@@ -1,0 +1,4 @@
+Added a class to element <div class="input-group input-group-lg col-md-6 col-md-offset-3 large-6 columns"> 
+ <input id="sinpt" autofocus onkeydown="document.getElementById('stip').style.display='block';if (event.keyCode == 13) document.getElementById('sbtn').click()" type="text" class="form-control"> 
+ <span class="input-group-btn"> <button id="sbtn" class="btn btn-primary" type="button"> Generate </button> </span> 
+</div>

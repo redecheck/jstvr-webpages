@@ -1,0 +1,11 @@
+Changed expression to min-width in 
+@media (min-width: 640.0px) {
+	.footer-nav-menu, .site-credits {
+		text-align: center;
+		float: none !important;
+	}
+
+	.site-credits {
+		padding-bottom: 15.0px;
+	}
+}
