@@ -1,0 +1,4 @@
+Changed class in element <div class="logo-rights visible-lg col-md-5 toggle-right"> 
+ <img alt="Logo ashton footer white@2x" class="footer-brand" src="./resources/assets/icons/footer/logo_ashton_footer_white@2x-a6838c9aefb9e7ead9acfef250069ae8.png"> 
+ <p class="rights">Aston Snook. 2013. All Rights Reserved</p> 
+</div>

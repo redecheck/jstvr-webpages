@@ -1,0 +1,18 @@
+Changed value from 992.0 to 995.0 in 
+@media (min-width: 995.0px) AND (max-width: 1199.0px) {
+	.visible-md {
+		display: block !important;
+	}
+
+	table.visible-md {
+		display: table;
+	}
+
+	tr.visible-md {
+		display: table-row !important;
+	}
+
+	th.visible-md, td.visible-md {
+		display: table-cell !important;
+	}
+}

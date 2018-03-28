@@ -1,0 +1,2 @@
+Added a class to element 
+<img alt="Ic twitter default@2x" class="img-social twitter-social headroom" src="./resources/assets/icons/social/ic_twitter_default@2x-c762963361de947e52ce254d6d89b862.png">

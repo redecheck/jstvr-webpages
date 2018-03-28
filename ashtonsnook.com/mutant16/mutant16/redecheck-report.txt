@@ -1,0 +1,48 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+/HTML/BODY/DIV/FOOTER/DIV[3]
+ Oracle: 400 -> 1199
+ Test: 400 -> 1195/HTML/BODY/DIV/FOOTER/DIV[3]/IMG
+ Oracle: 400 -> 1199
+ Test: 400 -> 1195/HTML/BODY/DIV/FOOTER/DIV[3]/P
+ Oracle: 400 -> 1199
+ Test: 400 -> 1195====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV/FOOTER contains /HTML/BODY/DIV/FOOTER/DIV[2]
+
+Differing bounds for {}
+	Oracle : 400 -> 1200
+	Test : 1200 -> 1200
+
+/HTML/BODY/DIV/FOOTER/DIV[3] is sibling of /HTML/BODY/DIV/FOOTER/DIV[2]
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 1199
+	Test : 400 -> 1195
+
+/HTML/BODY/DIV/FOOTER contains /HTML/BODY/DIV/FOOTER/DIV[3]
+
+Differing bounds for {}
+	Oracle : 400 -> 1199
+	Test : 400 -> 1195
+
+/HTML/BODY/DIV/FOOTER/DIV[3]/IMG is sibling of /HTML/BODY/DIV/FOOTER/DIV[3]/P
+
+Differing bounds for {leftOf}
+	Oracle : 400 -> 1199
+	Test : 400 -> 1195
+
+/HTML/BODY/DIV/FOOTER/DIV[3] contains /HTML/BODY/DIV/FOOTER/DIV[3]/IMG
+
+Differing bounds for {bottom}
+	Oracle : 470 -> 1199
+	Test : 470 -> 1195
+
+/HTML/BODY/DIV/FOOTER/DIV[3] contains /HTML/BODY/DIV/FOOTER/DIV[3]/P
+
+Differing bounds for {}
+	Oracle : 400 -> 1199
+	Test : 400 -> 1195

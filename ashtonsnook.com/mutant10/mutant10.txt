@@ -1,0 +1,2 @@
+Changed UNIT in 30.0% to [30.0px] in 
+width: 30.0px;

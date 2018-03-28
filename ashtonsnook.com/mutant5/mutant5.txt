@@ -1,0 +1,5 @@
+Changed class in element <div class="menu-toggle toggle-right underline"> 
+ <div class="line top"></div> 
+ <div class="line middle"></div> 
+ <div class="line bottom"></div> 
+</div>

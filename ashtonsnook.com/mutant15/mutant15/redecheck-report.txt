@@ -1,0 +1,80 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV/FOOTER/DIV is sibling of /HTML/BODY/DIV/FOOTER/DIV[2]
+
+Unmatched in oracle: /HTML/BODY/DIV/FOOTER/DIV , /HTML/BODY/DIV/FOOTER/DIV[2] , SIBLING , 1201 , 1400 , leftOftopAlignbottomAlign
+
+Unmatched in test: /HTML/BODY/DIV/FOOTER/DIV , /HTML/BODY/DIV/FOOTER/DIV[2] , SIBLING , 1200 , 1400 , rightOf
+
+/HTML/BODY/DIV/FOOTER contains /HTML/BODY/DIV/FOOTER/DIV
+
+Differing attributes for 1200 -> 1400
+	Oracle : {middle}
+	Test : {}
+
+/HTML/BODY/DIV/FOOTER/DIV/IMG is sibling of /HTML/BODY/DIV/FOOTER/DIV/P
+
+Unmatched in oracle: /HTML/BODY/DIV/FOOTER/DIV/IMG , /HTML/BODY/DIV/FOOTER/DIV/P , SIBLING , 1200 , 1400 , leftOf
+
+/HTML/BODY/DIV/FOOTER/DIV/IMG is sibling of /HTML/BODY/DIV/FOOTER/DIV[2]
+
+Unmatched in test: /HTML/BODY/DIV/FOOTER/DIV/IMG , /HTML/BODY/DIV/FOOTER/DIV[2] , SIBLING , 1200 , 1400 , rightOf
+
+/HTML/BODY/DIV/FOOTER/DIV contains /HTML/BODY/DIV/FOOTER/DIV/IMG
+
+Differing attributes for 1201 -> 1400
+	Oracle : {}
+	Test : {topAlign}
+
+Differing attributes for 1200 -> 1200
+	Oracle : {bottom}
+	Test : {above}
+
+/HTML/BODY/DIV/FOOTER contains /HTML/BODY/DIV/FOOTER/DIV/IMG
+
+Unmatched in test: /HTML/BODY/DIV/FOOTER , /HTML/BODY/DIV/FOOTER/DIV/IMG , PARENT_CHILD , 1200 , 1400 , 
+
+/HTML/BODY/DIV/FOOTER/DIV/P is sibling of /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2]
+
+Unmatched in test: /HTML/BODY/DIV/FOOTER/DIV/P , /HTML/BODY/DIV/DIV/DIV/DIV/DIV[2] , SIBLING , 1200 , 1400 , below
+
+/HTML/BODY/DIV/FOOTER/DIV/P is sibling of /HTML/BODY/DIV/DIV/DIV[9]/DIV/DIV
+
+Unmatched in test: /HTML/BODY/DIV/FOOTER/DIV/P , /HTML/BODY/DIV/DIV/DIV[9]/DIV/DIV , SIBLING , 1200 , 1400 , rightAlign
+
+/HTML/BODY/DIV/FOOTER/DIV/P is sibling of /HTML/BODY/DIV/DIV[2]
+
+Unmatched in test: /HTML/BODY/DIV/FOOTER/DIV/P , /HTML/BODY/DIV/DIV[2] , SIBLING , 1200 , 1400 , below
+
+/HTML/BODY/DIV/FOOTER/DIV contains /HTML/BODY/DIV/FOOTER/DIV/P
+
+Unmatched in oracle: /HTML/BODY/DIV/FOOTER/DIV , /HTML/BODY/DIV/FOOTER/DIV/P , PARENT_CHILD , 1201 , 1400 , middle
+
+Unmatched in oracle: /HTML/BODY/DIV/FOOTER/DIV , /HTML/BODY/DIV/FOOTER/DIV/P , PARENT_CHILD , 1200 , 1200 , 
+
+/HTML/BODY/DIV/FOOTER/DIV/P is sibling of /HTML/BODY/DIV
+
+Unmatched in test: /HTML/BODY/DIV/FOOTER/DIV/P , /HTML/BODY/DIV , SIBLING , 1200 , 1400 , rightAlign
+
+/HTML/BODY contains /HTML/BODY/DIV/FOOTER/DIV/P
+
+Unmatched in test: /HTML/BODY , /HTML/BODY/DIV/FOOTER/DIV/P , PARENT_CHILD , 1200 , 1400 , 
+
+/HTML/BODY/DIV/FOOTER/DIV[2] is sibling of /HTML/BODY/DIV/FOOTER/DIV
+
+Unmatched in oracle: /HTML/BODY/DIV/FOOTER/DIV[2] , /HTML/BODY/DIV/FOOTER/DIV , SIBLING , 1200 , 1200 , rightOftopAlign
+
+/HTML/BODY/DIV/FOOTER contains /HTML/BODY/DIV/FOOTER/DIV[2]
+
+Differing bounds for {}
+	Oracle : 400 -> 1200
+	Test : 400 -> 1199
+
+Differing bounds for {middle}
+	Oracle : 1201 -> 1400
+	Test : 1200 -> 1400

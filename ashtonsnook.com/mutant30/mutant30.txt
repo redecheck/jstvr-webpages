@@ -1,0 +1,8 @@
+Changed term from 5.0 to 6.0
+.boxes {
+	padding: 168.0px 5.0px 168.0px 5.0px;
+}
+
+.boxes {
+	padding: 168.0px 5.0px 168.0px 6.0px;
+}

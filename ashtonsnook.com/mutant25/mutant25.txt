@@ -1,0 +1,2 @@
+Removed a class from element 
+<img alt="Ic behance default@2x" class="behance-social" src="./resources/assets/icons/social/ic_behance_default@2x-73d936b89cda15a15ae7cd7a26c4cc6a.png">

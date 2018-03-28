@@ -1,0 +1,14 @@
+Changed value from 992.0 to 989.0 in 
+@media (min-width: 989.0px) {
+	.sb-slidebar {
+		width: 30.0%;
+	}
+
+	.sb-width-thin {
+		width: 15.0%;
+	}
+
+	.sb-width-wide {
+		width: 45.0%;
+	}
+}

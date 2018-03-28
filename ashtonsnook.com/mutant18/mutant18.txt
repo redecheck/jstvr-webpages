@@ -1,0 +1,6 @@
+Changed value from 768.0 to 769.0 in 
+@media (max-width: 769.0px) {
+	footer {
+		padding: 40.0px 20.0px 40.0px 20.0px;
+	}
+}

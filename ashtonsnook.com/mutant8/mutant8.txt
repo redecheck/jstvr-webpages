@@ -1,0 +1,1 @@
+Changed class in element <img alt="Logo ashton nav small white@2x" class="sb-slidebar" src="./resources/assets/icons/nav/logo_ashton_nav_small_white@2x-ce0add5a644084ba098e769ef93a7521.png">

@@ -1,0 +1,1 @@
+Changed class in element <img alt="Ic twitter default@2x" class="twitter-social footer-social col-lg-5" src="./resources/assets/icons/social/ic_twitter_default@2x-c762963361de947e52ce254d6d89b862.png">

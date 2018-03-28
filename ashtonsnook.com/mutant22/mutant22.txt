@@ -1,0 +1,5 @@
+Removed a class from element 
+<button class="" style="margin: 0 0 0 28px"> <a href="contacts/new"> 
+  <h8>
+   CONTACT
+  </h8> </a> </button>

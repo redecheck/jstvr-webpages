@@ -1,0 +1,22 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV/DIV/DIV[6] contains /HTML/BODY/DIV/DIV/DIV[6]/DIV
+
+Differing bounds for {}
+	Oracle : 1131 -> 1143
+	Test : 400 -> 1180
+
+Differing bounds for {middle}
+	Oracle : 1144 -> 1400
+	Test : 1181 -> 1400
+
+/HTML/BODY/DIV/FOOTER/DIV[2]/UL contains /HTML/BODY/DIV/FOOTER/DIV[2]/UL/LI[4]
+
+Differing bounds for {}
+	Oracle : 1259 -> 1400
+	Test : 1271 -> 1400

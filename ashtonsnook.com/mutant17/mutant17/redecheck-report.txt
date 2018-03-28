@@ -1,0 +1,28 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV/DIV/DIV[8]/DIV[2] contains /HTML/BODY/DIV/DIV/DIV[8]/DIV[2]/BUTTON
+
+Differing bounds for {centeredbottom}
+	Oracle : 401 -> 401
+	Test : 400 -> 401
+
+/HTML/BODY/DIV/DIV[2]/DIV is sibling of /HTML/BODY/DIV/DIV/DIV[2]/DIV[2]
+
+Unmatched in oracle: /HTML/BODY/DIV/DIV[2]/DIV , /HTML/BODY/DIV/DIV/DIV[2]/DIV[2] , SIBLING , 400 , 400 , 
+
+Differing bounds for {rightAlign}
+	Oracle : 401 -> 485
+	Test : 400 -> 485
+
+/HTML/BODY/DIV/DIV[2]/DIV is sibling of /HTML/BODY/DIV/DIV/DIV[2]/DIV
+
+Unmatched in oracle: /HTML/BODY/DIV/DIV[2]/DIV , /HTML/BODY/DIV/DIV/DIV[2]/DIV , SIBLING , 400 , 400 , below
+
+Differing bounds for {belowrightAlign}
+	Oracle : 401 -> 485
+	Test : 400 -> 485

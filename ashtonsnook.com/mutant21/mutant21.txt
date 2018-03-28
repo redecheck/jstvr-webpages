@@ -1,0 +1,13 @@
+Added a class to element 
+<div class="col-md-12 work-bottom cover-video h8"> 
+ <div class="cover-work"> 
+  <h1 id="work" class="cover-logo">WORK 
+   <div class="underline"></div> </h1> 
+  <br> 
+  <button class="btn btn-white"><a href="work"><h1 class="h8" style="color: black;">VIEW</h1></a> </button> 
+ </div> 
+ <video id="player" autoplay preload loop> 
+  <source src="./resources/assets/ashtonsnook_work.mp4" type="video/mp4"> 
+  <source src="./resources/assets/ashtonsnook_work.webmhd.webm" type="video/webm"> 
+ </video> 
+</div>

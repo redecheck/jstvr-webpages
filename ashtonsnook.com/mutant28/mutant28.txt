@@ -1,0 +1,18 @@
+Changed value from 768.0 to 760.0 in 
+@media (min-width: 760.0px) AND (max-width: 991.0px) {
+	.visible-sm {
+		display: block !important;
+	}
+
+	table.visible-sm {
+		display: table;
+	}
+
+	tr.visible-sm {
+		display: table-row !important;
+	}
+
+	th.visible-sm, td.visible-sm {
+		display: table-cell !important;
+	}
+}

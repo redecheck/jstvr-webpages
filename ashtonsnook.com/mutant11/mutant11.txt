@@ -1,0 +1,18 @@
+Changed expression to min-width in 
+@media (min-width: 767.0px) {
+	.visible-xs {
+		display: block !important;
+	}
+
+	table.visible-xs {
+		display: table;
+	}
+
+	tr.visible-xs {
+		display: table-row !important;
+	}
+
+	th.visible-xs, td.visible-xs {
+		display: table-cell !important;
+	}
+}

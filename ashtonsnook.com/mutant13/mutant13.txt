@@ -1,0 +1,14 @@
+Changed expression to min-width in 
+@media (min-width: 480.0px) {
+	.sb-slidebar {
+		width: 70.0%;
+	}
+
+	.sb-width-thin {
+		width: 55.0%;
+	}
+
+	.sb-width-wide {
+		width: 85.0%;
+	}
+}

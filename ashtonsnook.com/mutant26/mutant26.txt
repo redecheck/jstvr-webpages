@@ -1,0 +1,36 @@
+Changed term from -50.0 to -44.0
+.learn-more {
+	cursor: pointer;
+	position: absolute;
+	bottom: 34.0px;
+	margin-left: -50.0px;
+	left: 50.0%;
+	z-index: 10.0;
+	-webkit-transition: all 800.0ms ease-in-out;
+	-moz-transition: all 800.0ms ease-in-out;
+	-o-transition: all 800.0ms ease-in-out;
+	-ms-transition: all 800.0ms ease-in-out;
+	transition: all 800.0ms ease-in-out;
+	animation-duration: 2.0s;
+	-webkit-animation-duration: 2.0s;
+	animation-iteration-count: infinite;
+	-webkit-animation-iteration-count: infinite;
+}
+
+.learn-more {
+	cursor: pointer;
+	position: absolute;
+	bottom: 34.0px;
+	margin-left: -44.0px;
+	left: 50.0%;
+	z-index: 10.0;
+	-webkit-transition: all 800.0ms ease-in-out;
+	-moz-transition: all 800.0ms ease-in-out;
+	-o-transition: all 800.0ms ease-in-out;
+	-ms-transition: all 800.0ms ease-in-out;
+	transition: all 800.0ms ease-in-out;
+	animation-duration: 2.0s;
+	-webkit-animation-duration: 2.0s;
+	animation-iteration-count: infinite;
+	-webkit-animation-iteration-count: infinite;
+}

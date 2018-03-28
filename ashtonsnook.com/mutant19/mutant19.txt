@@ -1,0 +1,7 @@
+Removed a class from element 
+<div class="social-buttons col-lg-6 col-sm-6 col-xs-12" style="margin-top: 6px;"> 
+ <a href="https://twitter.com/AshtonSnook"><img alt="Ic twitter default@2x" class="img-social twitter-social footer-social" src="./resources/assets/icons/social/ic_twitter_default@2x-c762963361de947e52ce254d6d89b862.png"> </a> 
+ <a href="https://twitter.com/AshtonSnook"><img alt="Ic dribbble default@2x" class="img-social dribbble-social footer-social" src="./resources/assets/icons/social/ic_dribbble_default@2x-deb7b9a208f263d5a648ba908327e243.png"> </a> 
+ <a href="https://twitter.com/AshtonSnook"><img alt="Ic behance default@2x" class="img-social behance-social footer-social" src="./resources/assets/icons/social/ic_behance_default@2x-73d936b89cda15a15ae7cd7a26c4cc6a.png"> </a> 
+ <a href="http://tinyurl.com/nnvfkyb"><img alt="Ic linkedin default@2x" class="img-social linkedin-social footer-social" src="./resources/assets/icons/social/ic_linkedin_default@2x-423205769e4cb7dde906270120ae27d2.png" style="padding-right: 0;"> </a> 
+</div>
