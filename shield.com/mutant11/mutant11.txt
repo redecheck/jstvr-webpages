@@ -1,0 +1,8 @@
+Changed term from left to inherit
+.navbar-header {
+	float: left;
+}
+
+.navbar-header {
+	float: inherit;
+}

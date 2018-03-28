@@ -1,0 +1,56 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY contains /HTML/BODY/FOOTER
+
+Differing bounds for {}
+	Oracle : 453 -> 1400
+	Test : 483 -> 767
+
+Differing bounds for {bottom}
+	Oracle : 400 -> 452
+	Test : 768 -> 1400
+
+/HTML/BODY/MAIN/DIV/P[2] is sibling of /HTML/BODY/MAIN/DIV/SPAN
+
+Differing attributes for 400 -> 1400
+	Oracle : {below}
+	Test : {belowleftAlign}
+
+/HTML/BODY/MAIN/DIV/P[3] is sibling of /HTML/BODY/MAIN/DIV/P[2]
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 991
+	Test : 400 -> 1400
+
+Unmatched in oracle: /HTML/BODY/MAIN/DIV/P[3] , /HTML/BODY/MAIN/DIV/P[2] , SIBLING , 992 , 1400 , below
+
+/HTML/BODY/MAIN/DIV/P[3] is sibling of /HTML/BODY/MAIN/DIV/P
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 991
+	Test : 400 -> 1400
+
+Unmatched in oracle: /HTML/BODY/MAIN/DIV/P[3] , /HTML/BODY/MAIN/DIV/P , SIBLING , 992 , 1400 , below
+
+/HTML/BODY/MAIN/DIV/P[3] is sibling of /HTML/BODY/MAIN/DIV/SPAN
+
+Differing attributes for 400 -> 1400
+	Oracle : {below}
+	Test : {belowleftAlign}
+
+/HTML/BODY/MAIN/DIV/SPAN is sibling of /HTML/BODY/MAIN/DIV/P
+
+Differing attributes for 400 -> 1400
+	Oracle : {above}
+	Test : {aboveleftAlign}
+
+/HTML/BODY/MAIN/DIV contains /HTML/BODY/MAIN/DIV/SPAN
+
+Differing attributes for 400 -> 1400
+	Oracle : {centeredtop}
+	Test : {top}

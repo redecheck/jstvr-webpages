@@ -1,0 +1,2 @@
+Changed UNIT in 320.0em to [320.0%] in 
+min-width: 320.0%;

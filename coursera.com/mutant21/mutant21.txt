@@ -1,0 +1,14 @@
+Changed class in element <div class="c-offering-tiles" data-reactid=".ukzz6x69s0.0.1.1.1.$Most Popular.1.0.4.$SpO4HBnoEeWjrA6seF25aw"> 
+ <a data-click-key="discovery.frontPage.click.offering_tile" href="https://www.coursera.org/learn/analytics-excel" data-reactid=".ukzz6x69s0.0.1.1.1.$Most Popular.1.0.4.$SpO4HBnoEeWjrA6seF25aw.0"> 
+  <div class="c-course-image" data-reactid=".ukzz6x69s0.0.1.1.1.$Most Popular.1.0.4.$SpO4HBnoEeWjrA6seF25aw.0.0"> 
+   <img src="./resources/CourseraIcons.Square1200.2.jpg" srcset="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/1d/2407703cf611e58fafd36fa641b2ed/CourseraIcons.Square1200.2.jpg?auto=format&amp;dpr=2&amp;w=220&amp;h=125&amp;fit=crop 2x, https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/1d/2407703cf611e58fafd36fa641b2ed/CourseraIcons.Square1200.2.jpg?auto=format&amp;dpr=3&amp;w=220&amp;h=125&amp;fit=crop 3x" alt="" data-reactid=".ukzz6x69s0.0.1.1.1.$Most Popular.1.0.4.$SpO4HBnoEeWjrA6seF25aw.0.0.0"> 
+  </div> 
+  <div class="c-course-details" data-reactid=".ukzz6x69s0.0.1.1.1.$Most Popular.1.0.4.$SpO4HBnoEeWjrA6seF25aw.0.1"> 
+   <div class="c-course-title" data-reactid=".ukzz6x69s0.0.1.1.1.$Most Popular.1.0.4.$SpO4HBnoEeWjrA6seF25aw.0.1.0">
+     Mastering Data Analysis in Excel 
+   </div> 
+   <div class="c-course-partner" data-reactid=".ukzz6x69s0.0.1.1.1.$Most Popular.1.0.4.$SpO4HBnoEeWjrA6seF25aw.0.1.1"> 
+    <span data-reactid=".ukzz6x69s0.0.1.1.1.$Most Popular.1.0.4.$SpO4HBnoEeWjrA6seF25aw.0.1.1.0">Duke University</span> 
+   </div> 
+  </div></a> 
+</div>

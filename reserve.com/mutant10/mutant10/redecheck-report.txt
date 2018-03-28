@@ -1,0 +1,14 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/FOOTER/DIV/DIV[2] contains /HTML/BODY/FOOTER/DIV/DIV[2]/NAV
+
+Differing bounds for {}
+	Oracle : 1024 -> 1400
+	Test : 400 -> 1400
+
+Unmatched in oracle: /HTML/BODY/FOOTER/DIV/DIV[2] , /HTML/BODY/FOOTER/DIV/DIV[2]/NAV , PARENT_CHILD , 400 , 1023 , top

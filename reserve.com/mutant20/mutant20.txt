@@ -1,0 +1,11 @@
+Changed class in element <section class="author" id="finish"> 
+ <div class="inner"> 
+  <div class="image-wrapper"> 
+   <img src="./resources/feature_rating.png"> 
+  </div> 
+  <div class="content"> 
+   <h1>Seamless service</h1> 
+   <p> Reserve enables exceptional experiences before, during and after your meal. Your feedback helps improve your Reserve experience and helps the restaurant improve, as well. </p> 
+  </div> 
+ </div> 
+</section>

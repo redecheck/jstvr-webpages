@@ -1,0 +1,423 @@
+html, body { 
+	height: 100.0%;
+}
+body { 
+	background: #ffffff;
+	color: #777777;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 14.0px;
+	line-height: 1.5em;
+	margin: 0.0;
+}
+.no-mobile { 
+	display: none;
+}
+h1, h2 { 
+	color: #777777;
+	font-size: 2.0em;
+	font-weight: 400;
+	letter-spacing: 0.08em;
+	line-height: 1.2em;
+	margin: 0.0 0.0 0.5em;
+	text-transform: uppercase;
+}
+a { 
+	color: #ac9456;
+	text-decoration: none;
+}
+a:hover { 
+	color: #ffffff;
+}
+a:active, a:focus { 
+	color: #ffffff;
+	text-decoration: none;
+}
+ul { 
+	display: block;
+	margin: 0.0;
+	padding: 0.0;
+}
+ul li { 
+	display: block;
+	list-style: none;
+}
+.button { 
+	background: #ac9456;
+	color: #ffffff;
+	display: inline-block;
+	font-size: 14.0px;
+	font-weight: 400;
+	margin-top: 20.0px;
+	margin-bottom: 20.0px;
+	letter-spacing: 2.0px;
+	line-height: 17.0px;
+	padding: 0.9em 2.0em;
+	text-align: center;
+	text-transform: uppercase;
+	-webkit-border-radius: 4.0px;
+	-moz-border-radius: 4.0px;
+	border-radius: 4.0px;
+}
+.button:hover { 
+	opacity: 0.9;
+	text-decoration: none;
+}
+section { 
+	padding: 2.0em;
+}
+.inner { 
+	margin: 0.0 auto;
+	position: relative;
+}
+header { 
+	background: #ffffff;
+	border-bottom: 1.0px solid #eeeeee;
+	padding: 1.0em;
+}
+#header-logo img { 
+	display: block;
+	height: 1.0em;
+}
+#header-link { 
+	display: block;
+	font-size: 0.8em;
+	line-height: 1.0em;
+	margin: 0.4em 0.0 0.0;
+	position: absolute;
+	right: 1.0em;
+	text-transform: uppercase;
+	top: 0.0;
+}
+#header-link:hover { 
+	color: #ac9456;
+	text-decoration: underline;
+}
+section#hero { 
+	background: url('hero_bg.jpg') center center no-repeat;
+	background-size: cover;
+	border-bottom: 1.0px solid #eeeeee;
+	color: #ffffff;
+	max-height: 610.0px;
+	overflow: hidden;
+	padding-bottom: 0.0;
+}
+section#hero h1 { 
+	color: #ffffff;
+	font-size: 1.8em;
+}
+section#hero img { 
+	max-width: 100.0%;
+}
+section#hero .content { 
+}
+section#hero .content .button { 
+	display: block;
+	margin: 1.0em auto;
+}
+section#hero #hero-beta { 
+	font-size: 0.8em;
+	line-height: 1.35em;
+	opacity: 0.75;
+}
+section.section-white { 
+}
+section.section-white .image-wrapper { 
+	display: block;
+	height: 330.0px;
+	margin: 1.0em auto 2.0em;
+	overflow: hidden;
+	position: relative;
+	width: 240.0px;
+}
+section.section-white .image-wrapper:after { 
+	background: #cccccc;
+	bottom: 0.0;
+	content: ' ';
+	left: 10.0px;
+	height: 1.0px;
+	position: absolute;
+	right: 10.0px;
+}
+section.section-white .image-wrapper img { 
+	width: 240.0px;
+}
+section#payment .image-wrapper { 
+	height: auto;
+	overflow: visible;
+}
+section#payment .image-wrapper:after { 
+	display: none;
+}
+section#payment img { 
+	display: block;
+	margin: 1.0em auto 2.0em;
+	width: 240.0px;
+}
+section#quotes { 
+	background: url('quotes_bg.jpg') center center no-repeat;
+	background-size: cover;
+	color: #555555;
+	padding-bottom: 4.0em;
+	padding-top: 4.0em;
+	text-align: center;
+}
+section#quotes .quote { 
+	font-size: 2.0em;
+	line-height: 1.25em;
+	margin: 0.0 0.0 0.7em;
+}
+section#quotes .author, section#quotes .title { 
+	line-height: 1.1em;
+	margin: 0.0 auto 0.5em;
+	text-align: left;
+	width: 10.0em;
+}
+section#quotes .author { 
+	text-indent: -0.8em;
+}
+section#quotes .title { 
+}
+footer { 
+	background: url('footer_bg.jpg') center center no-repeat;
+	background-size: cover;
+	color: #ffffff;
+	padding: 3.0em 0.0;
+	text-align: center;
+}
+footer a { 
+	color: #ffffff;
+}
+#footer-cta { 
+}
+#footer-cta ul { 
+	margin: 0.0 0.0 2.0em;
+}
+#footer-cta ul li { 
+	display: block;
+	margin: 1.0em 2.0em;
+}
+#footer-cta ul li a { 
+	display: block;
+}
+#footer-cta ul li a.android { 
+	border: 1.0px solid#ffffff;
+	border-radius: 3.0px;
+	color: #ffffff;
+	display: inline-block;
+	font-size: 0.8em;
+	letter-spacing: 1.0px;
+	padding: 0.5em 2.5em;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+#footer-cta ul li a img { 
+	height: 2.5em;
+}
+footer nav { 
+}
+footer nav h3 { 
+	color: #777777;
+	font-size: 0.9em;
+	font-weight: 300;
+	text-transform: uppercase;
+}
+footer nav a { 
+	font-size: 0.9em;
+}
+#footer-more { 
+	margin: 2.0em 0.0 0.0;
+}
+#footer-more #footer-icons a { 
+	display: inline-block;
+	margin: 0.0 0.25em 1.0em;
+	opacity: 0.5;
+}
+#footer-more #footer-icons a:hover { 
+	opacity: 0.75;
+}
+#footer-more img { 
+	height: 2.5em;
+}
+#footer-more small { 
+	font-size: 0.8em;
+	line-height: 1.35em;
+}
+#footer-more small a, #footer-more small span { 
+	color: #777777;
+	display: block;
+}
+
+@media (min-width: 1024.0px) { 
+body { 
+	font-size: 18.0px;
+}
+.no-mobile { 
+	display: inline;
+}
+.inner { 
+	max-width: 1029.0px;
+}
+section { 
+	height: 800.0px;
+	max-height: none;
+	border-bottom: 2.0px solid #eeeeee;
+}
+section .inner { 
+	height: 100.0%;
+}
+section#hero { 
+	height: 1000.0px;
+}
+section#hero img { 
+	bottom: 0.0;
+	left: 30.0px;
+	position: absolute;
+	width: 400.0px;
+}
+section#hero .content { 
+	bottom: 20.0px;
+	height: 440.0px;
+	left: 50.0%;
+	position: absolute;
+	width: 40.0%;
+}
+section#hero .content p { 
+	display: block;
+	font-size: 16.0px;
+	line-height: 1.5em;
+	margin: 0.0 0.0 0.5em;
+}
+section#hero .content #hero-beta { 
+	bottom: 0.0;
+	font-size: 12.0px;
+	position: absolute;
+	width: 375.0px;
+}
+section#hero .content .button { 
+	margin-left: 0.0;
+	width: 20.0em;
+}
+section#hero .content .button-duo { 
+	margin-left: 0.0;
+	width: 46.0%;
+	float: left;
+	font-size: 0.75em;
+	padding: 0.6em 1.0em;
+}
+#firstbutton { 
+	margin-right: 20.0px !important;
+}
+section#hero .content .button-duo img { 
+	width: auto;
+	height: auto;
+	display: inline;
+	position: static;
+}
+section#best, section#finish, section#payment { 
+	height: 800.0px;
+}
+section.section-white { 
+}
+section.section-white .content { 
+	left: 0.0;
+	position: absolute;
+	margin-top: -40.0px;
+	top: 50.0%;
+	width: 460.0px;
+	transform: translateY(-50.0%);
+	-webkit-transform: translateY(-50.0%);
+}
+section.section-white .image-wrapper { 
+	left: 50.0%;
+	position: absolute;
+	height: auto;
+	width: 460.0px;
+}
+section.section-white .image-wrapper img { 
+	display: block;
+	margin: 0.0 auto;
+	height: 700.0px;
+	width: auto;
+}
+section#payment .content { 
+	margin-top: 0.0;
+}
+section#payment .image-wrapper { 
+	height: 500.0px;
+	top: 50.0%;
+	transform: translateY(-50.0%);
+	-webkit-transform: translateY(-50.0%);
+}
+section#payment .image-wrapper img { 
+	height: 500.0px;
+	width: auto;
+}
+section#quotes { 
+	height: 600.0px;
+}
+section#quotes .content { 
+	margin: 5.0em auto 0.0;
+	width: 700.0px;
+}
+section#quotes .author, section#quotes .title { 
+	font-size: 0.8em;
+	width: 14.0em;
+}
+section#quotes .button { 
+	margin: 7.0em 0.0 0.0;
+}
+#footer-footer { 
+	height: 7.0em;
+	margin: 0.0 auto;
+	width: 820.0px;
+}
+#footer-cta { 
+	margin: 6.0em 0.0 7.0em;
+}
+#footer-cta ul li { 
+	display: inline-block;
+	margin: 1.0em 0.5em;
+}
+#footer-cta ul li a.android { 
+	font-size: 0.7em;
+	padding: 0.25em 2.0em 0.31em;
+	position: relative;
+	top: -0.05em;
+}
+#footer-cta ul li a img { 
+	height: 2.0em;
+}
+footer nav { 
+	float: left;
+	font-size: 0.9em;
+	height: 7.0em;
+	line-height: 1.3em;
+	width: 670.0px;
+}
+footer nav div { 
+	display: inline-block;
+	text-align: left;
+	vertical-align: top;
+	width: 28.0%;
+}
+footer nav div h3 { 
+	margin: 0.0 0.0 0.25em;
+}
+#footer-more { 
+	float: left;
+	font-size: 0.8em;
+	margin: 0.0;
+	text-align: left;
+	width: 150.0px;
+}
+#footer-more small { 
+	left: 0.5em;
+	position: relative;
+}
+#footer-more #footer-icons a { 
+	margin: 0.0 0.5em 0.75em 0.0;
+}
+#footer-more small { 
+	color: #ffffff;
+}
+}

@@ -1,0 +1,5 @@
+Added a class to element <div class="col-sm-4 col-md-5"> 
+ <img src="resources/assets/img/components.png" alt="Components" class="img-responsive"> 
+ <h3>Full of features</h3> 
+ <p>With Bootstrap, you get extensive and beautiful documentation for common HTML elements, dozens of custom HTML and CSS components, and awesome jQuery plugins.</p> 
+</div>

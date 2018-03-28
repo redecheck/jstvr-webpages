@@ -1,0 +1,6 @@
+Changed expression to max-width in 
+@media screen AND (max-width: 40.063em) {
+	button, .button {
+		display: inline-block;
+	}
+}

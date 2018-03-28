@@ -1,0 +1,8 @@
+Changed term from left to right
+.bt3-navbar-header {
+	float: left;
+}
+
+.bt3-navbar-header {
+	float: right;
+}

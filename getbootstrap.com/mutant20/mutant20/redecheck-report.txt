@@ -1,0 +1,76 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/FOOTER/DIV/UL/LI[10] is sibling of /HTML/BODY/FOOTER/DIV/UL/LI[9]
+
+Differing bounds for {topAlignbottomAlign}
+	Oracle : 768 -> 1400
+	Test : 1200 -> 1400
+
+Differing bounds for {rightOftopAlignbottomAlign}
+	Oracle : 761 -> 767
+	Test : 992 -> 1199
+
+/HTML/BODY/FOOTER/DIV/UL/LI[12] is sibling of /HTML/BODY/FOOTER/DIV/UL/LI[11]
+
+Differing bounds for {topAlignbottomAlign}
+	Oracle : 768 -> 1400
+	Test : 1200 -> 1400
+
+Differing bounds for {rightOftopAlignbottomAlign}
+	Oracle : 761 -> 767
+	Test : 992 -> 1199
+
+/HTML/BODY/FOOTER/DIV/UL/LI[14] is sibling of /HTML/BODY/FOOTER/DIV/UL/LI[13]
+
+Differing bounds for {rightOftopAlignbottomAlign}
+	Oracle : 761 -> 767
+	Test : 992 -> 1199
+
+Differing bounds for {topAlignbottomAlign}
+	Oracle : 768 -> 1400
+	Test : 1200 -> 1400
+
+/HTML/BODY/FOOTER/DIV/UL/LI[16] is sibling of /HTML/BODY/FOOTER/DIV/UL/LI[15]
+
+Differing bounds for {topAlignbottomAlign}
+	Oracle : 768 -> 1400
+	Test : 1200 -> 1400
+
+Differing bounds for {rightOftopAlignbottomAlign}
+	Oracle : 761 -> 767
+	Test : 992 -> 1199
+
+/HTML/BODY/FOOTER/DIV/UL/LI[4] is sibling of /HTML/BODY/FOOTER/DIV/UL/LI[3]
+
+Differing bounds for {topAlignbottomAlign}
+	Oracle : 768 -> 1400
+	Test : 1200 -> 1400
+
+Differing bounds for {rightOftopAlignbottomAlign}
+	Oracle : 761 -> 767
+	Test : 992 -> 1199
+
+/HTML/BODY/FOOTER/DIV/UL/LI[6] is sibling of /HTML/BODY/FOOTER/DIV/UL/LI[5]
+
+Differing bounds for {rightOftopAlignbottomAlign}
+	Oracle : 761 -> 767
+	Test : 992 -> 1199
+
+Differing bounds for {topAlignbottomAlign}
+	Oracle : 768 -> 1400
+	Test : 1200 -> 1400
+
+/HTML/BODY/FOOTER/DIV/UL/LI[8] is sibling of /HTML/BODY/FOOTER/DIV/UL/LI[7]
+
+Differing bounds for {topAlignbottomAlign}
+	Oracle : 768 -> 1400
+	Test : 1200 -> 1400
+
+Differing bounds for {rightOftopAlignbottomAlign}
+	Oracle : 761 -> 767
+	Test : 992 -> 1199

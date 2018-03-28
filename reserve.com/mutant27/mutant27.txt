@@ -1,0 +1,2 @@
+Removed a class from element 
+<a href="http://support.reserve.com/" class="" target="_blank">Support Center</a>

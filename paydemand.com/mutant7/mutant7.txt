@@ -1,0 +1,1 @@
+Changed class in element <a href="https://paydemand.com/register-processor" class="btn-warning btn-large offset1">I am a Processor</a>

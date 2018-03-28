@@ -1,0 +1,12 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/SECTION/DIV contains /HTML/BODY/SECTION/DIV/IMG
+
+Differing bounds for {}
+	Oracle : 506 -> 718
+	Test : 511 -> 718

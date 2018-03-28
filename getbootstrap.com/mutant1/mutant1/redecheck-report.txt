@@ -1,0 +1,34 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/FOOTER contains /HTML/BODY/FOOTER/DIV
+
+Differing bounds for {middle}
+	Oracle : 669 -> 1400
+	Test : 768 -> 1400
+
+Differing bounds for {}
+	Oracle : 400 -> 668
+	Test : 400 -> 767
+
+/HTML/BODY/FOOTER/DIV contains /HTML/BODY/FOOTER/DIV/P[2]
+
+Unmatched in oracle: /HTML/BODY/FOOTER/DIV , /HTML/BODY/FOOTER/DIV/P[2] , PARENT_CHILD , 669 , 1400 , middle
+
+Differing bounds for {}
+	Oracle : 409 -> 668
+	Test : 400 -> 1400
+
+/HTML/BODY contains /HTML/BODY/FOOTER
+
+Differing bounds for {}
+	Oracle : 453 -> 1400
+	Test : 480 -> 1400
+
+Differing bounds for {bottom}
+	Oracle : 400 -> 452
+	Test : 400 -> 479

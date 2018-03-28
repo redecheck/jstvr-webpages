@@ -1,0 +1,16 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV/DIV/DIV/DIV/H3/SPAN[2] is sibling of /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV/DIV/DIV/DIV/H3/SPAN
+
+Differing bounds for {rightOftopAlignbottomAlign}
+	Oracle : 1200 -> 1400
+	Test : 1202 -> 1400
+
+Differing bounds for {topAlignbottomAlign}
+	Oracle : 1187 -> 1199
+	Test : 1201 -> 1201

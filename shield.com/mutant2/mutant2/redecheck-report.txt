@@ -1,0 +1,60 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV/DIV/DIV/DIV[2] contains /HTML/BODY/DIV/DIV/DIV/DIV[2]/UL
+
+Differing bounds for {}
+	Oracle : 768 -> 1400
+	Test : 992 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV[2] , /HTML/BODY/DIV/DIV/DIV/DIV[2]/UL , PARENT_CHILD , 990 , 991 , leftJust
+
+/HTML/BODY/DIV[10]/DIV/DIV[2] contains /HTML/BODY/DIV[10]/DIV/DIV[2]/FORM/DIV
+
+Differing bounds for {}
+	Oracle : 992 -> 1400
+	Test : 990 -> 1400
+
+Differing bounds for {middle}
+	Oracle : 451 -> 991
+	Test : 451 -> 989
+
+/HTML/BODY/DIV[10]/DIV/DIV[3] contains /HTML/BODY/DIV[10]/DIV/DIV[3]/P
+
+Differing bounds for {bottom}
+	Oracle : 992 -> 1199
+	Test : 990 -> 1199
+
+/HTML/BODY/DIV[10] is sibling of /HTML/BODY/DIV[8]/DIV[2]
+
+Differing bounds for {below}
+	Oracle : 779 -> 991
+	Test : 779 -> 989
+
+/HTML/BODY/DIV[4] is sibling of /HTML/BODY/DIV[8]/DIV[2]
+
+Differing bounds for {above}
+	Oracle : 779 -> 991
+	Test : 779 -> 989
+
+/HTML/BODY/DIV[5] is sibling of /HTML/BODY/DIV[8]/DIV[2]
+
+Differing bounds for {above}
+	Oracle : 779 -> 991
+	Test : 779 -> 989
+
+/HTML/BODY/DIV[6] is sibling of /HTML/BODY/DIV[8]/DIV[2]
+
+Differing bounds for {above}
+	Oracle : 779 -> 991
+	Test : 779 -> 989
+
+/HTML/BODY/DIV[9] is sibling of /HTML/BODY/DIV[8]/DIV[2]
+
+Differing bounds for {below}
+	Oracle : 779 -> 991
+	Test : 779 -> 989

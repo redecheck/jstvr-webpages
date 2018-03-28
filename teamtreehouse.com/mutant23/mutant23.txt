@@ -1,0 +1,5 @@
+Removed a class from element 
+<div class="form-item columns"> 
+ <label class="in-field-label-processed" for="account_signup_last_name">Last name <span>*</span></label> 
+ <input autocomplete="family-name" class="input-text input-text placeholder-processed" id="account_signup_last_name" name="account_signup[last_name]" type="text"> 
+</div>

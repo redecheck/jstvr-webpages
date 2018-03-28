@@ -1,0 +1,2 @@
+Added a class to element 
+<h2 class="bs-docs-featurette-title sr-only">Designed for everyone, everywhere.</h2>

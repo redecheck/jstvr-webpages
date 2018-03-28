@@ -1,0 +1,99 @@
+====== Unmatched Nodes ====== 
+
+/HTML/BODY/FOOTER/DIV/NAV/UL/LI[8] wasn't matched in Graph 2
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/FOOTER/DIV contains /HTML/BODY/FOOTER/DIV/DIV
+
+Differing bounds for {bottom}
+	Oracle : 400 -> 640
+	Test : 400 -> 623
+
+/HTML/BODY/FOOTER/DIV/NAV/UL/LI is sibling of /HTML/BODY/FOOTER/DIV/NAV/UL/LI[6]
+
+Differing attributes for 400 -> 567
+	Oracle : {above}
+	Test : {aboveleftOf}
+
+/HTML/BODY/FOOTER/DIV/NAV/UL contains /HTML/BODY/FOOTER/DIV/NAV/UL/LI
+
+Differing bounds for {}
+	Oracle : 641 -> 1400
+	Test : 624 -> 1400
+
+Differing bounds for {top}
+	Oracle : 400 -> 640
+	Test : 400 -> 623
+
+/HTML/BODY/FOOTER/DIV/NAV/UL contains /HTML/BODY/FOOTER/DIV/NAV/UL/LI[2]
+
+Differing bounds for {top}
+	Oracle : 400 -> 640
+	Test : 400 -> 623
+
+Differing bounds for {}
+	Oracle : 641 -> 1400
+	Test : 624 -> 1400
+
+/HTML/BODY/FOOTER/DIV/NAV/UL contains /HTML/BODY/FOOTER/DIV/NAV/UL/LI[3]
+
+Differing bounds for {top}
+	Oracle : 400 -> 640
+	Test : 400 -> 623
+
+Differing bounds for {}
+	Oracle : 641 -> 1400
+	Test : 624 -> 1400
+
+/HTML/BODY/FOOTER/DIV/NAV/UL contains /HTML/BODY/FOOTER/DIV/NAV/UL/LI[4]
+
+Differing bounds for {}
+	Oracle : 641 -> 1400
+	Test : 624 -> 1400
+
+Differing bounds for {top}
+	Oracle : 400 -> 640
+	Test : 400 -> 623
+
+/HTML/BODY/FOOTER/DIV/NAV/UL contains /HTML/BODY/FOOTER/DIV/NAV/UL/LI[5]
+
+Differing bounds for {top}
+	Oracle : 400 -> 640
+	Test : 400 -> 623
+
+Differing bounds for {}
+	Oracle : 641 -> 1400
+	Test : 624 -> 1400
+
+/HTML/BODY/FOOTER/DIV/NAV/UL contains /HTML/BODY/FOOTER/DIV/NAV/UL/LI[6]
+
+Differing bounds for {top}
+	Oracle : 568 -> 640
+	Test : 568 -> 623
+
+Differing bounds for {}
+	Oracle : 641 -> 1400
+	Test : 624 -> 1400
+
+/HTML/BODY/FOOTER/DIV/NAV/UL/LI[7] is sibling of /HTML/BODY/FOOTER/DIV/NAV/UL/LI[8]
+
+Unmatched in oracle: /HTML/BODY/FOOTER/DIV/NAV/UL/LI[7] , /HTML/BODY/FOOTER/DIV/NAV/UL/LI[8] , SIBLING , 601 , 640 , aboverightOf
+
+Unmatched in oracle: /HTML/BODY/FOOTER/DIV/NAV/UL/LI[7] , /HTML/BODY/FOOTER/DIV/NAV/UL/LI[8] , SIBLING , 641 , 1400 , leftOftopAlignbottomAlign
+
+/HTML/BODY/FOOTER/DIV/NAV/UL contains /HTML/BODY/FOOTER/DIV/NAV/UL/LI[7]
+
+Unmatched in oracle: /HTML/BODY/FOOTER/DIV/NAV/UL , /HTML/BODY/FOOTER/DIV/NAV/UL/LI[7] , PARENT_CHILD , 601 , 640 , top
+
+Differing bounds for {}
+	Oracle : 641 -> 1400
+	Test : 601 -> 1400
+
+/HTML/BODY/FOOTER/DIV/NAV/UL contains /HTML/BODY/FOOTER/DIV/NAV/UL/LI[8]
+
+Unmatched in oracle: /HTML/BODY/FOOTER/DIV/NAV/UL , /HTML/BODY/FOOTER/DIV/NAV/UL/LI[8] , PARENT_CHILD , 400 , 640 , bottom
+
+Unmatched in oracle: /HTML/BODY/FOOTER/DIV/NAV/UL , /HTML/BODY/FOOTER/DIV/NAV/UL/LI[8] , PARENT_CHILD , 641 , 1400 , 

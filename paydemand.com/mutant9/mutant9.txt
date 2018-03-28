@@ -1,0 +1,15 @@
+Added a class to element 
+<div class="row fa"> 
+ <div class="span7"> 
+  <h2>What is PayDemand?</h2> 
+  <p>PayDemand is a free service that empowers Businesses to compare credit card processing rates and select the best offer while remaining anonymous to Processors.</p> 
+ </div> 
+ <div class="span4 offset1" id="how-works"> 
+  <h2>How PayDemand Works?</h2> 
+  <ul> 
+   <li><span>1</span>Tell us about your business.</li> 
+   <li><span>2</span>Processors submit competitive bids.</li> 
+   <li><span>3</span>Review bids and select a Processor.</li> 
+  </ul> 
+ </div> 
+</div>

@@ -1,0 +1,18 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/ARTICLE/DIV/DL[3] is sibling of /HTML/BODY/ARTICLE/DIV/DL[2]
+
+Differing attributes for 768 -> 1400
+	Oracle : {rightOftopAlignbottomAlign}
+	Test : {rightOftopAlign}
+
+/HTML/BODY/ARTICLE/DIV/DL[3] is sibling of /HTML/BODY/ARTICLE/DIV/DL
+
+Differing attributes for 768 -> 1400
+	Oracle : {rightOftopAlignbottomAlign}
+	Test : {rightOftopAlign}

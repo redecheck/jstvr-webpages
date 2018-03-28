@@ -1,0 +1,222 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV/DIV/DIV/DIV/H3 is sibling of /HTML/BODY/DIV/DIV/DIV/DIV/IMG
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV/H3 , /HTML/BODY/DIV/DIV/DIV/DIV/IMG , SIBLING , 992 , 1014 , belowleftAlign
+
+/HTML/BODY/DIV/DIV/DIV/DIV contains /HTML/BODY/DIV/DIV/DIV/DIV/IMG
+
+Differing bounds for {}
+	Oracle : 714 -> 767
+	Test : 992 -> 1014
+
+Differing bounds for {top}
+	Oracle : 768 -> 1400
+	Test : 1200 -> 1400
+
+/HTML/BODY/DIV contains /HTML/BODY/DIV/DIV/DIV/DIV/IMG
+
+Unmatched in test: /HTML/BODY/DIV , /HTML/BODY/DIV/DIV/DIV/DIV/IMG , PARENT_CHILD , 1015 , 1199 , 
+
+/HTML/BODY/DIV/DIV/DIV/DIV/P is sibling of /HTML/BODY/DIV/DIV/DIV/DIV/IMG
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV/P , /HTML/BODY/DIV/DIV/DIV/DIV/IMG , SIBLING , 992 , 1014 , belowleftAlign
+
+/HTML/BODY/DIV/DIV/DIV/DIV[2]/H3 is sibling of /HTML/BODY/DIV/DIV/DIV/DIV[2]/IMG
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV[2]/H3 , /HTML/BODY/DIV/DIV/DIV/DIV[2]/IMG , SIBLING , 992 , 1199 , belowleftAlign
+
+/HTML/BODY/DIV/DIV/DIV/DIV[2] contains /HTML/BODY/DIV/DIV/DIV/DIV[2]/IMG
+
+Differing bounds for {}
+	Oracle : 672 -> 767
+	Test : 992 -> 1199
+
+Differing bounds for {top}
+	Oracle : 768 -> 1400
+	Test : 1200 -> 1400
+
+/HTML/BODY/DIV/DIV/DIV/DIV[2]/P is sibling of /HTML/BODY/DIV/DIV/DIV/DIV[2]/IMG
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV[2]/P , /HTML/BODY/DIV/DIV/DIV/DIV[2]/IMG , SIBLING , 992 , 1199 , belowleftAlign
+
+/HTML/BODY/DIV/DIV/DIV/DIV[3]/H3 is sibling of /HTML/BODY/DIV/DIV/DIV/DIV[3]/IMG
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV[3]/H3 , /HTML/BODY/DIV/DIV/DIV/DIV[3]/IMG , SIBLING , 992 , 1199 , belowleftAlign
+
+/HTML/BODY/DIV/DIV/DIV/DIV[3] contains /HTML/BODY/DIV/DIV/DIV/DIV[3]/IMG
+
+Differing bounds for {}
+	Oracle : 672 -> 767
+	Test : 992 -> 1199
+
+Differing bounds for {top}
+	Oracle : 768 -> 1400
+	Test : 1200 -> 1400
+
+/HTML/BODY/DIV/DIV/DIV/DIV[3]/P is sibling of /HTML/BODY/DIV/DIV/DIV/DIV[3]/IMG
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV[3]/P , /HTML/BODY/DIV/DIV/DIV/DIV[3]/IMG , SIBLING , 992 , 1199 , belowleftAlign
+
+/HTML/BODY/DIV/DIV contains /HTML/BODY/DIV/DIV/DIV
+
+Differing bounds for {}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV/DIV , /HTML/BODY/DIV/DIV/DIV , PARENT_CHILD , 992 , 1199 , middle
+
+/HTML/BODY/DIV contains /HTML/BODY/DIV/DIV
+
+Differing bounds for {}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+/HTML/BODY/DIV[2]/DIV contains /HTML/BODY/DIV[2]/DIV/DIV
+
+Differing bounds for {}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV , /HTML/BODY/DIV[2]/DIV/DIV , PARENT_CHILD , 992 , 1199 , middle
+
+/HTML/BODY/DIV[2] contains /HTML/BODY/DIV[2]/DIV
+
+Differing bounds for {}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+/HTML/BODY/FOOTER/DIV/DIV contains /HTML/BODY/FOOTER/DIV/DIV/UL
+
+Differing bounds for {}
+	Oracle : 400 -> 677
+	Test : 992 -> 1199
+
+Differing bounds for {centered}
+	Oracle : 678 -> 1400
+	Test : 1200 -> 1400
+
+/HTML/BODY/FOOTER contains /HTML/BODY/FOOTER/DIV
+
+Differing bounds for {middle}
+	Oracle : 669 -> 1400
+	Test : 1200 -> 1400
+
+/HTML/BODY/HEADER/DIV/NAV contains /HTML/BODY/HEADER/DIV/DIV
+
+Differing bounds for {leftJust}
+	Oracle : 768 -> 1199
+	Test : 768 -> 991
+
+/HTML/BODY/HEADER contains /HTML/BODY/HEADER/DIV/DIV
+
+Unmatched in test: /HTML/BODY/HEADER , /HTML/BODY/HEADER/DIV/DIV , PARENT_CHILD , 992 , 1199 , 
+
+/HTML/BODY/HEADER contains /HTML/BODY/HEADER/DIV
+
+Differing bounds for {}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+/HTML/BODY/HEADER/DIV/NAV contains /HTML/BODY/HEADER/DIV/NAV/UL
+
+Differing bounds for {}
+	Oracle : 768 -> 1400
+	Test : 1200 -> 1400
+
+/HTML/BODY/HEADER contains /HTML/BODY/HEADER/DIV/NAV/UL
+
+Unmatched in test: /HTML/BODY/HEADER , /HTML/BODY/HEADER/DIV/NAV/UL , PARENT_CHILD , 992 , 1199 , 
+
+/HTML/BODY/HEADER/DIV contains /HTML/BODY/HEADER/DIV/NAV/UL[2]
+
+Differing bounds for {rightJust}
+	Oracle : 768 -> 1400
+	Test : 1200 -> 1400
+
+Unmatched in test: /HTML/BODY/HEADER/DIV , /HTML/BODY/HEADER/DIV/NAV/UL[2] , PARENT_CHILD , 992 , 1199 , 
+
+/HTML/BODY/HEADER/DIV/NAV/UL[2] is sibling of /HTML/BODY/HEADER
+
+Unmatched in test: /HTML/BODY/HEADER/DIV/NAV/UL[2] , /HTML/BODY/HEADER , SIBLING , 992 , 1199 , rightOftopAlignbottomAlign
+
+/HTML/BODY/HEADER is sibling of /HTML/BODY/DIV[2]
+
+Differing bounds for {aboveleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+/HTML/BODY/HEADER is sibling of /HTML/BODY/DIV
+
+Differing bounds for {aboveleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+/HTML/BODY/HEADER is sibling of /HTML/BODY/FOOTER
+
+Differing bounds for {aboveleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+/HTML/BODY/HEADER is sibling of /HTML/BODY/HEADER/DIV/NAV
+
+Unmatched in test: /HTML/BODY/HEADER , /HTML/BODY/HEADER/DIV/NAV , SIBLING , 992 , 1199 , topAlignbottomAlign
+
+/HTML/BODY/HEADER/DIV contains /HTML/BODY/HEADER
+
+Unmatched in test: /HTML/BODY/HEADER/DIV , /HTML/BODY/HEADER , PARENT_CHILD , 992 , 1199 , leftJust
+
+/HTML/BODY/HEADER is sibling of /HTML/BODY/MAIN
+
+Differing bounds for {aboveleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+/HTML/BODY contains /HTML/BODY/HEADER
+
+Differing bounds for {}
+	Oracle : 400 -> 1400
+	Test : 400 -> 991
+
+/HTML/BODY/MAIN contains /HTML/BODY/MAIN/DIV
+
+Differing bounds for {}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+/HTML/BODY/MAIN/DIV contains /HTML/BODY/MAIN/DIV/SPAN
+
+Differing bounds for {centeredtop}
+	Oracle : 400 -> 1400
+	Test : 1200 -> 1400
+
+Unmatched in test: /HTML/BODY/MAIN/DIV , /HTML/BODY/MAIN/DIV/SPAN , PARENT_CHILD , 992 , 1199 , top

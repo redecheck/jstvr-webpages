@@ -1,0 +1,18 @@
+Changed term from 0.0 to 6.0
+body {
+	margin: 0.0;
+	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 16.0px;
+	line-height: 26.0px;
+	color: #333333;
+	background-color: #ffffff;
+}
+
+body {
+	margin: 6.0;
+	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 16.0px;
+	line-height: 26.0px;
+	color: #333333;
+	background-color: #ffffff;
+}

@@ -1,0 +1,6 @@
+Changed expression to min-width in 
+@media (min-width: 767.0px) {
+	.c-search-menu {
+		width: 100.0%;
+	}
+}

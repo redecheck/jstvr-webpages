@@ -1,0 +1,5 @@
+Changed class in element <div class="last no-js"> 
+ <h2>10. Styleguide / Documentation</h2> 
+ <img src="./resources/img/StyleGuide.jpg" alt="style guide"> 
+ <p>Next, we’ll create a styleguide that will document the design system so that they can be properly implemented. All the details from the grid to hover/touch states to typography styles to content messaging will be detailed. This guide will demonstrate the design thinking and personality of the system. Depending on the complexity of the site, this could be created in an interface harmony canvas.</p> 
+</div>

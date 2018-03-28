@@ -1,0 +1,26 @@
+Changed term from relative to absolute
+body {
+	background: #ffffff;
+	color: #222222;
+	padding: 0.0;
+	margin: 0.0;
+	font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;
+	font-weight: 400.0;
+	font-style: normal;
+	line-height: 1.0;
+	position: relative;
+	cursor: default;
+}
+
+body {
+	background: #ffffff;
+	color: #222222;
+	padding: 0.0;
+	margin: 0.0;
+	font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;
+	font-weight: 400.0;
+	font-style: normal;
+	line-height: 1.0;
+	position: absolute;
+	cursor: default;
+}

@@ -1,0 +1,1 @@
+//document.write("<p style=\"color: #fff; border: 2px solid red; background: red; text-align:center; width: 900px; margin: 0 auto;\"><em>We are currently experiencing connectivity issues. User registration & store are currently unavailable. Please contact support for any issues.</em></p>");

@@ -1,0 +1,136 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/FOOTER is sibling of /HTML/BODY/MAIN
+
+Unmatched in oracle: /HTML/BODY/FOOTER , /HTML/BODY/MAIN , SIBLING , 400 , 1400 , belowleftAlignrightAlign
+
+/HTML/BODY contains /HTML/BODY/FOOTER
+
+Differing bounds for {}
+	Oracle : 453 -> 1400
+	Test : 422 -> 991
+
+Differing bounds for {bottom}
+	Oracle : 400 -> 452
+	Test : 992 -> 1400
+
+/HTML/BODY/HEADER is sibling of /HTML/BODY/MAIN/DIV/SPAN
+
+Unmatched in test: /HTML/BODY/HEADER , /HTML/BODY/MAIN/DIV/SPAN , SIBLING , 400 , 767 , above
+
+/HTML/BODY/HEADER is sibling of /HTML/BODY/MAIN
+
+Unmatched in oracle: /HTML/BODY/HEADER , /HTML/BODY/MAIN , SIBLING , 400 , 1400 , aboveleftAlignrightAlign
+
+Unmatched in test: /HTML/BODY/HEADER , /HTML/BODY/MAIN , SIBLING , 400 , 767 , above
+
+/HTML/BODY/MAIN contains /HTML/BODY/MAIN/DIV
+
+Differing bounds for {}
+	Oracle : 400 -> 1400
+	Test : 400 -> 767
+
+/HTML/BODY/MAIN/DIV/P[2] is sibling of /HTML/BODY/MAIN/DIV/SPAN
+
+Unmatched in oracle: /HTML/BODY/MAIN/DIV/P[2] , /HTML/BODY/MAIN/DIV/SPAN , SIBLING , 400 , 1400 , below
+
+/HTML/BODY/MAIN/DIV/P[3] is sibling of /HTML/BODY/MAIN/DIV/P[2]
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 991
+	Test : 400 -> 1400
+
+Unmatched in oracle: /HTML/BODY/MAIN/DIV/P[3] , /HTML/BODY/MAIN/DIV/P[2] , SIBLING , 992 , 1400 , below
+
+/HTML/BODY/MAIN/DIV/P[3] is sibling of /HTML/BODY/MAIN/DIV/P
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 991
+	Test : 400 -> 1400
+
+Unmatched in oracle: /HTML/BODY/MAIN/DIV/P[3] , /HTML/BODY/MAIN/DIV/P , SIBLING , 992 , 1400 , below
+
+/HTML/BODY/MAIN/DIV/P[3] is sibling of /HTML/BODY/MAIN/DIV/SPAN
+
+Unmatched in oracle: /HTML/BODY/MAIN/DIV/P[3] , /HTML/BODY/MAIN/DIV/SPAN , SIBLING , 400 , 1400 , below
+
+Unmatched in test: /HTML/BODY/MAIN/DIV/P[3] , /HTML/BODY/MAIN/DIV/SPAN , SIBLING , 768 , 1400 , belowleftAlign
+
+/HTML/BODY/MAIN/DIV/P[3] is sibling of /HTML/BODY/MAIN
+
+Unmatched in test: /HTML/BODY/MAIN/DIV/P[3] , /HTML/BODY/MAIN , SIBLING , 768 , 1400 , 
+
+/HTML/BODY/MAIN/DIV/SPAN is sibling of /HTML/BODY/DIV[2]
+
+Unmatched in test: /HTML/BODY/MAIN/DIV/SPAN , /HTML/BODY/DIV[2] , SIBLING , 400 , 767 , above
+
+/HTML/BODY/MAIN/DIV/SPAN is sibling of /HTML/BODY/DIV
+
+Unmatched in test: /HTML/BODY/MAIN/DIV/SPAN , /HTML/BODY/DIV , SIBLING , 400 , 767 , above
+
+/HTML/BODY/MAIN/DIV/SPAN is sibling of /HTML/BODY/FOOTER
+
+Unmatched in test: /HTML/BODY/MAIN/DIV/SPAN , /HTML/BODY/FOOTER , SIBLING , 400 , 767 , above
+
+/HTML/BODY/MAIN/DIV/SPAN is sibling of /HTML/BODY/MAIN/DIV/P[2]
+
+Unmatched in test: /HTML/BODY/MAIN/DIV/SPAN , /HTML/BODY/MAIN/DIV/P[2] , SIBLING , 768 , 1400 , aboveleftAlign
+
+/HTML/BODY/MAIN/DIV/SPAN is sibling of /HTML/BODY/MAIN/DIV/P
+
+Unmatched in oracle: /HTML/BODY/MAIN/DIV/SPAN , /HTML/BODY/MAIN/DIV/P , SIBLING , 400 , 1400 , above
+
+Unmatched in test: /HTML/BODY/MAIN/DIV/SPAN , /HTML/BODY/MAIN/DIV/P , SIBLING , 768 , 1400 , aboveleftAlign
+
+/HTML/BODY/MAIN/DIV contains /HTML/BODY/MAIN/DIV/SPAN
+
+Unmatched in oracle: /HTML/BODY/MAIN/DIV , /HTML/BODY/MAIN/DIV/SPAN , PARENT_CHILD , 400 , 1400 , centeredtop
+
+/HTML/BODY/MAIN/DIV/SPAN is sibling of /HTML/BODY/MAIN
+
+Unmatched in test: /HTML/BODY/MAIN/DIV/SPAN , /HTML/BODY/MAIN , SIBLING , 400 , 1400 , topAlign
+
+/HTML/BODY contains /HTML/BODY/MAIN/DIV/SPAN
+
+Unmatched in test: /HTML/BODY , /HTML/BODY/MAIN/DIV/SPAN , PARENT_CHILD , 400 , 767 , 
+
+/HTML/BODY/MAIN is sibling of /HTML/BODY/DIV[2]
+
+Unmatched in oracle: /HTML/BODY/MAIN , /HTML/BODY/DIV[2] , SIBLING , 400 , 1400 , aboveleftAlignrightAlign
+
+Unmatched in test: /HTML/BODY/MAIN , /HTML/BODY/DIV[2] , SIBLING , 400 , 767 , above
+
+/HTML/BODY/MAIN is sibling of /HTML/BODY/DIV
+
+Unmatched in oracle: /HTML/BODY/MAIN , /HTML/BODY/DIV , SIBLING , 400 , 1400 , aboveleftAlignrightAlign
+
+Unmatched in test: /HTML/BODY/MAIN , /HTML/BODY/DIV , SIBLING , 400 , 767 , above
+
+/HTML/BODY/MAIN is sibling of /HTML/BODY/FOOTER
+
+Unmatched in test: /HTML/BODY/MAIN , /HTML/BODY/FOOTER , SIBLING , 400 , 767 , above
+
+/HTML/BODY/MAIN is sibling of /HTML/BODY/MAIN/DIV/P[2]
+
+Unmatched in test: /HTML/BODY/MAIN , /HTML/BODY/MAIN/DIV/P[2] , SIBLING , 768 , 1400 , 
+
+/HTML/BODY/MAIN is sibling of /HTML/BODY/MAIN/DIV/P
+
+Unmatched in test: /HTML/BODY/MAIN , /HTML/BODY/MAIN/DIV/P , SIBLING , 768 , 1400 , 
+
+/HTML/BODY/MAIN/DIV contains /HTML/BODY/MAIN
+
+Differing bounds for {}
+	Oracle : 1200 -> 1400
+	Test : 400 -> 1400
+
+/HTML/BODY contains /HTML/BODY/MAIN
+
+Unmatched in oracle: /HTML/BODY , /HTML/BODY/MAIN , PARENT_CHILD , 400 , 1400 , 
+
+Unmatched in test: /HTML/BODY , /HTML/BODY/MAIN , PARENT_CHILD , 400 , 767 , centered

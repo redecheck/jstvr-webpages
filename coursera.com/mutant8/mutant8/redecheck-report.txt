@@ -1,0 +1,30 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV[2]/DIV/DIV/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV/DIV[3]
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV/DIV/DIV , /HTML/BODY/DIV[2]/DIV/DIV/DIV[3] , SIBLING , 400 , 767 , aboveleftAlignrightAlign
+
+/HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV , /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2] , SIBLING , 400 , 767 , aboveleftAlignrightAlign
+
+/HTML/BODY/DIV[2]/DIV/DIV/DIV[2] contains /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]
+
+Differing bounds for {}
+	Oracle : 400 -> 1371
+	Test : 768 -> 1371
+
+/HTML/BODY/DIV[2]/DIV/DIV/DIV[3] is sibling of /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]
+
+Unmatched in oracle: /HTML/BODY/DIV[2]/DIV/DIV/DIV[3] , /HTML/BODY/DIV[2]/DIV/DIV/DIV[2] , SIBLING , 400 , 767 , belowleftAlignrightAlign
+
+/HTML/BODY/DIV[2]/DIV/DIV contains /HTML/BODY/DIV[2]/DIV/DIV/DIV[3]
+
+Differing bounds for {bottom}
+	Oracle : 400 -> 1371
+	Test : 768 -> 1371

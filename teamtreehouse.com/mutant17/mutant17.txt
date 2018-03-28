@@ -1,0 +1,6 @@
+Changed expression to min-width in 
+@media screen AND (min-width: 679.0px) {
+	.form-footer {
+		margin-bottom: 0.0;
+	}
+}

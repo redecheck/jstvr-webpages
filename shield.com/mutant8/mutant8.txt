@@ -1,0 +1,10 @@
+Removed a class from element 
+<div class="centered"> 
+ <img class="img img-circle" src="./resources/team02.jpg" height="120px" width="120px" alt=""> 
+ <br> 
+ <h4><b>Tim Davies</b></h4> 
+ <a href="http://www.blacktie.co/demo/shield/#" class="icon icon-twitter"></a> 
+ <a href="http://www.blacktie.co/demo/shield/#" class="icon icon-facebook"></a> 
+ <a href="http://www.blacktie.co/demo/shield/#" class="icon icon-flickr"></a> 
+ <p>Tim is an experienced marcoms practitioner and manages projects from inception to delivery. He understands the synergy between great design and commercial effectiveness which shines through on every project.</p> 
+</div>

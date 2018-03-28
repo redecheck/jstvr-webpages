@@ -1,0 +1,94 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV/DIV/DIV/DIV/H3 is sibling of /HTML/BODY/DIV/DIV/DIV/DIV/IMG
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 400 -> 1199
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV/H3 , /HTML/BODY/DIV/DIV/DIV/DIV/IMG , SIBLING , 1200 , 1400 , belowleftAlign
+
+/HTML/BODY/DIV/DIV/DIV/DIV is sibling of /HTML/BODY/DIV/DIV/DIV/DIV[2]
+
+Differing attributes for 768 -> 1400
+	Oracle : {leftOftopAlignbottomAlign}
+	Test : {belowleftAlign}
+
+/HTML/BODY/DIV/DIV/DIV contains /HTML/BODY/DIV/DIV/DIV/DIV
+
+Differing bounds for {top}
+	Oracle : 400 -> 479
+	Test : 768 -> 1400
+
+Unmatched in oracle: /HTML/BODY/DIV/DIV/DIV , /HTML/BODY/DIV/DIV/DIV/DIV , PARENT_CHILD , 768 , 1400 , leftJust
+
+/HTML/BODY/DIV/DIV/DIV/DIV contains /HTML/BODY/DIV/DIV/DIV/DIV/IMG
+
+Differing bounds for {}
+	Oracle : 714 -> 767
+	Test : 684 -> 1400
+
+Differing bounds for {top}
+	Oracle : 768 -> 1400
+	Test : 400 -> 683
+
+/HTML/BODY/DIV/DIV/DIV/DIV/P is sibling of /HTML/BODY/DIV/DIV/DIV/DIV/IMG
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 400 -> 1199
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV/P , /HTML/BODY/DIV/DIV/DIV/DIV/IMG , SIBLING , 1200 , 1400 , belowleftAlign
+
+/HTML/BODY/DIV/DIV/DIV/DIV contains /HTML/BODY/DIV/DIV/DIV/DIV/P
+
+Unmatched in oracle: /HTML/BODY/DIV/DIV/DIV/DIV , /HTML/BODY/DIV/DIV/DIV/DIV/P , PARENT_CHILD , 768 , 1400 , 
+
+Differing bounds for {bottom}
+	Oracle : 400 -> 767
+	Test : 400 -> 1400
+
+/HTML/BODY/DIV/DIV/DIV/DIV[2] is sibling of /HTML/BODY/DIV/DIV/DIV/DIV
+
+Differing attributes for 768 -> 1400
+	Oracle : {belowleftAlign}
+	Test : {leftOftopAlignbottomAlign}
+
+/HTML/BODY/DIV/DIV/DIV contains /HTML/BODY/DIV/DIV/DIV/DIV[2]
+
+Differing attributes for 768 -> 1400
+	Oracle : {centered}
+	Test : {leftJustbottom}
+
+Differing bounds for {}
+	Oracle : 400 -> 767
+	Test : 482 -> 767
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV , /HTML/BODY/DIV/DIV/DIV/DIV[2] , PARENT_CHILD , 480 , 481 , middle
+
+/HTML/BODY/DIV/DIV/DIV/DIV[3] is sibling of /HTML/BODY/DIV/DIV/DIV/DIV
+
+Differing attributes for 768 -> 1400
+	Oracle : {rightOftopAlignbottomAlign}
+	Test : {below}
+
+/HTML/BODY/DIV/DIV/DIV contains /HTML/BODY/DIV/DIV/DIV/DIV[3]
+
+Differing attributes for 768 -> 1400
+	Oracle : {rightJust}
+	Test : {centeredbottom}
+
+/HTML/BODY contains /HTML/BODY/FOOTER
+
+Differing bounds for {}
+	Oracle : 453 -> 1400
+	Test : 475 -> 1400
+
+Differing bounds for {bottom}
+	Oracle : 400 -> 452
+	Test : 400 -> 474

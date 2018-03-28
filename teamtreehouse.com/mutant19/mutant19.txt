@@ -1,0 +1,19 @@
+Changed expression to min-width in 
+@media screen AND (min-width: 767.0px) {
+	#mobile-nav-toggle {
+		margin-top: 16.0px;
+		height: 20.0px;
+	}
+
+	#mobile-nav-toggle a {
+		display: block;
+	}
+
+	#mobile-nav-toggle svg {
+		-webkit-transition: fill 200.0ms ease-in-out;
+		transition: fill 200.0ms ease-in-out;
+		width: 32.0px;
+		height: 22.0px;
+		fill: #384047;
+	}
+}

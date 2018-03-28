@@ -1,0 +1,2 @@
+Added a class to element 
+<span class="icon icon-home close"></span>

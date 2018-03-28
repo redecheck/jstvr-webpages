@@ -1,0 +1,6 @@
+Changed value from 679.0 to 681.0 in 
+@media screen AND (max-width: 681.0px) {
+	.contained {
+		padding: 20.0px 5.0px;
+	}
+}

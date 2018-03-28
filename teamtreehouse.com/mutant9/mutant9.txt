@@ -1,0 +1,5 @@
+Changed class in element <div class="mejs-overlay play-icon" style="display: none;"> 
+ <div class="mejs-overlay-loading"> 
+  <span></span> 
+ </div> 
+</div>

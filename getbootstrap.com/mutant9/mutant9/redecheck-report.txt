@@ -1,0 +1,46 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY contains /HTML/BODY/FOOTER
+
+Differing bounds for {}
+	Oracle : 453 -> 1400
+	Test : 439 -> 1400
+
+Differing bounds for {bottom}
+	Oracle : 400 -> 452
+	Test : 400 -> 438
+
+/HTML/BODY/HEADER/DIV/DIV is sibling of /HTML/BODY/HEADER/DIV/NAV/UL[2]
+
+Unmatched in test: /HTML/BODY/HEADER/DIV/DIV , /HTML/BODY/HEADER/DIV/NAV/UL[2] , SIBLING , 768 , 1400 , leftOftopAlignbottomAlign
+
+/HTML/BODY/HEADER contains /HTML/BODY/HEADER/DIV
+
+Differing attributes for 400 -> 1400
+	Oracle : {}
+	Test : {middle}
+
+/HTML/BODY/HEADER/DIV/NAV/UL[2] is sibling of /HTML/BODY/HEADER/DIV/NAV/UL
+
+Unmatched in test: /HTML/BODY/HEADER/DIV/NAV/UL[2] , /HTML/BODY/HEADER/DIV/NAV/UL , SIBLING , 768 , 1400 , rightOftopAlignbottomAlign
+
+/HTML/BODY/HEADER/DIV/NAV contains /HTML/BODY/HEADER/DIV/NAV/UL[2]
+
+Differing attributes for 768 -> 1400
+	Oracle : {rightJust}
+	Test : {topAlignbottomAlign}
+
+/HTML/BODY/HEADER/DIV/NAV/UL[2] is sibling of /HTML/BODY/HEADER/DIV/NAV
+
+Differing attributes for 768 -> 1400
+	Oracle : {topAlignbottomAlign}
+	Test : {rightJust}
+
+/HTML/BODY/HEADER/DIV contains /HTML/BODY/HEADER/DIV/NAV/UL[2]
+
+Unmatched in oracle: /HTML/BODY/HEADER/DIV , /HTML/BODY/HEADER/DIV/NAV/UL[2] , PARENT_CHILD , 768 , 1400 , rightJust

@@ -1,0 +1,6 @@
+Changed value from 768.0 to 766.0 in 
+@media (min-width: 766.0px) {
+	.bt3-container {
+		width: 750.0px;
+	}
+}

@@ -1,0 +1,29 @@
+====== Unmatched Nodes ====== 
+
+/HTML/BODY/ARTICLE[2]/DIV/DIV/DIV[2]/UL/LI[3]/SPAN wasn't matched in Graph 2
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY contains /HTML/BODY/ARTICLE
+
+Unmatched in oracle: /HTML/BODY , /HTML/BODY/ARTICLE , PARENT_CHILD , 480 , 637 , middle
+
+Differing bounds for {}
+	Oracle : 638 -> 1400
+	Test : 400 -> 1400
+
+/HTML/BODY/ARTICLE[2]/DIV/DIV/DIV[2]/UL contains /HTML/BODY/ARTICLE[2]/DIV/DIV/DIV[2]/UL/LI[2]
+
+Differing bounds for {middle}
+	Oracle : 400 -> 1400
+	Test : 980 -> 1400
+
+Unmatched in test: /HTML/BODY/ARTICLE[2]/DIV/DIV/DIV[2]/UL , /HTML/BODY/ARTICLE[2]/DIV/DIV/DIV[2]/UL/LI[2] , PARENT_CHILD , 768 , 979 , 
+
+/HTML/BODY/ARTICLE[2]/DIV/DIV/DIV[2]/UL/LI[3] contains /HTML/BODY/ARTICLE[2]/DIV/DIV/DIV[2]/UL/LI[3]/SPAN
+
+Unmatched in oracle: /HTML/BODY/ARTICLE[2]/DIV/DIV/DIV[2]/UL/LI[3] , /HTML/BODY/ARTICLE[2]/DIV/DIV/DIV[2]/UL/LI[3]/SPAN , PARENT_CHILD , 768 , 979 , leftJusttop
+
+Unmatched in oracle: /HTML/BODY/ARTICLE[2]/DIV/DIV/DIV[2]/UL/LI[3] , /HTML/BODY/ARTICLE[2]/DIV/DIV/DIV[2]/UL/LI[3]/SPAN , PARENT_CHILD , 980 , 1400 , top

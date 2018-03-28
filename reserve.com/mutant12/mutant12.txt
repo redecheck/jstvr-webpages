@@ -1,0 +1,2 @@
+Changed UNIT in 1024.0px to [1024.0%] in 
+max-width: 1024.0%;

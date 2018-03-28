@@ -1,0 +1,14 @@
+Changed term from relative to fixed
+.bt3-col-xs-1, .bt3-col-sm-1, .bt3-col-md-1, .bt3-col-lg-1, .bt3-col-xs-2, .bt3-col-sm-2, .bt3-col-md-2, .bt3-col-lg-2, .bt3-col-xs-3, .bt3-col-sm-3, .bt3-col-md-3, .bt3-col-lg-3, .bt3-col-xs-4, .bt3-col-sm-4, .bt3-col-md-4, .bt3-col-lg-4, .bt3-col-xs-5, .bt3-col-sm-5, .bt3-col-md-5, .bt3-col-lg-5, .bt3-col-xs-6, .bt3-col-sm-6, .bt3-col-md-6, .bt3-col-lg-6, .bt3-col-xs-7, .bt3-col-sm-7, .bt3-col-md-7, .bt3-col-lg-7, .bt3-col-xs-8, .bt3-col-sm-8, .bt3-col-md-8, .bt3-col-lg-8, .bt3-col-xs-9, .bt3-col-sm-9, .bt3-col-md-9, .bt3-col-lg-9, .bt3-col-xs-10, .bt3-col-sm-10, .bt3-col-md-10, .bt3-col-lg-10, .bt3-col-xs-11, .bt3-col-sm-11, .bt3-col-md-11, .bt3-col-lg-11, .bt3-col-xs-12, .bt3-col-sm-12, .bt3-col-md-12, .bt3-col-lg-12 {
+	position: relative;
+	min-height: 1.0px;
+	padding-left: 15.0px;
+	padding-right: 15.0px;
+}
+
+.bt3-col-xs-1, .bt3-col-sm-1, .bt3-col-md-1, .bt3-col-lg-1, .bt3-col-xs-2, .bt3-col-sm-2, .bt3-col-md-2, .bt3-col-lg-2, .bt3-col-xs-3, .bt3-col-sm-3, .bt3-col-md-3, .bt3-col-lg-3, .bt3-col-xs-4, .bt3-col-sm-4, .bt3-col-md-4, .bt3-col-lg-4, .bt3-col-xs-5, .bt3-col-sm-5, .bt3-col-md-5, .bt3-col-lg-5, .bt3-col-xs-6, .bt3-col-sm-6, .bt3-col-md-6, .bt3-col-lg-6, .bt3-col-xs-7, .bt3-col-sm-7, .bt3-col-md-7, .bt3-col-lg-7, .bt3-col-xs-8, .bt3-col-sm-8, .bt3-col-md-8, .bt3-col-lg-8, .bt3-col-xs-9, .bt3-col-sm-9, .bt3-col-md-9, .bt3-col-lg-9, .bt3-col-xs-10, .bt3-col-sm-10, .bt3-col-md-10, .bt3-col-lg-10, .bt3-col-xs-11, .bt3-col-sm-11, .bt3-col-md-11, .bt3-col-lg-11, .bt3-col-xs-12, .bt3-col-sm-12, .bt3-col-md-12, .bt3-col-lg-12 {
+	position: fixed;
+	min-height: 1.0px;
+	padding-left: 15.0px;
+	padding-right: 15.0px;
+}

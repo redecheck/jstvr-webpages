@@ -1,0 +1,4 @@
+Removed a class from element 
+<div class="bt3-col-md-12" data-reactid=".ukzz6x69s0.0.1.1.2.0">
+ <a class="c-view-all-link" href="https://www.coursera.org/browse" data-reactid=".ukzz6x69s0.0.1.1.2.0.0">View all courses</a>
+</div>

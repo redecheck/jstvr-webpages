@@ -1,0 +1,5 @@
+Changed class in element <div class="col-lg-4 white"> 
+ <span class="icon icon-heart"></span> 
+ <h2>Crafted with Love</h2> 
+ <p>We don't make sites, we craft themes with love &amp; passion. That is our most valued secret. We only do thing that we love. </p> 
+</div>

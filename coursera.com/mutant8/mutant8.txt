@@ -1,0 +1,6 @@
+Changed expression to max-width in 
+@media (max-width: 992.0px) {
+	.bt3-container {
+		width: 970.0px;
+	}
+}

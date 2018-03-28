@@ -1,0 +1,4 @@
+Removed a class from element 
+<div class="color-secondary-text uppercase" data-reactid=".ukzz6x69s0.0.2.0.1.0.$Friends.0.0">
+  Friends 
+</div>

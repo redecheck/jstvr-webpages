@@ -1,0 +1,4 @@
+Changed class in element <div class="outbound"> 
+ <a id="header-logo" href="index.com.html"><img src="./resources/logo.svg" alt="Reserve"> </a> 
+ <a id="header-link" href="https://reserve.com/for-restaurants">For restaurants</a> 
+</div>

@@ -1,0 +1,18 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV[10]/DIV/DIV[3] is sibling of /HTML/BODY/DIV[10]/DIV/DIV
+
+Differing attributes for 1200 -> 1400
+	Oracle : {rightOftopAlignbottomAlign}
+	Test : {rightOftopAlign}
+
+/HTML/BODY/DIV[10]/DIV/DIV[3] contains /HTML/BODY/DIV[10]/DIV/DIV[3]/P
+
+Differing bounds for {bottom}
+	Oracle : 992 -> 1199
+	Test : 400 -> 1199

@@ -1,0 +1,5 @@
+Changed class in element <div class="largebox"> 
+ <h2>4. Search Strategy</h2> 
+ <img src="./resources/img/search-strategy.jpg" alt="Google search screen"> 
+ <p>We'll develop a document summarizing best practices for Search Engine Optimization, including page structure, URL syntax, meta data, and content hierarchy. This will help your site make sense to both human and robot (aka Google) users.</p> 
+</div>

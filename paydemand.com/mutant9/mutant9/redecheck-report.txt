@@ -1,0 +1,54 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY contains /HTML/BODY/ARTICLE
+
+Unmatched in oracle: /HTML/BODY , /HTML/BODY/ARTICLE , PARENT_CHILD , 480 , 637 , middle
+
+Differing bounds for {}
+	Oracle : 638 -> 1400
+	Test : 400 -> 1400
+
+/HTML/BODY/ARTICLE[2]/DIV/DIV contains /HTML/BODY/ARTICLE[2]/DIV/DIV/DIV
+
+Differing bounds for {top}
+	Oracle : 400 -> 767
+	Test : 400 -> 1400
+
+/HTML/BODY/ARTICLE[2]/DIV contains /HTML/BODY/ARTICLE[2]/DIV/DIV/DIV
+
+Unmatched in oracle: /HTML/BODY/ARTICLE[2]/DIV , /HTML/BODY/ARTICLE[2]/DIV/DIV/DIV , PARENT_CHILD , 768 , 979 , leftJusttop
+
+Unmatched in oracle: /HTML/BODY/ARTICLE[2]/DIV , /HTML/BODY/ARTICLE[2]/DIV/DIV/DIV , PARENT_CHILD , 980 , 1400 , leftJust
+
+/HTML/BODY/ARTICLE[2]/DIV/DIV contains /HTML/BODY/ARTICLE[2]/DIV/DIV/DIV[2]
+
+Differing bounds for {bottom}
+	Oracle : 400 -> 767
+	Test : 400 -> 686
+
+Unmatched in test: /HTML/BODY/ARTICLE[2]/DIV/DIV , /HTML/BODY/ARTICLE[2]/DIV/DIV/DIV[2] , PARENT_CHILD , 768 , 1400 , rightJust
+
+Unmatched in test: /HTML/BODY/ARTICLE[2]/DIV/DIV , /HTML/BODY/ARTICLE[2]/DIV/DIV/DIV[2] , PARENT_CHILD , 687 , 767 , 
+
+/HTML/BODY/ARTICLE[2]/DIV contains /HTML/BODY/ARTICLE[2]/DIV/DIV/DIV[2]
+
+Unmatched in oracle: /HTML/BODY/ARTICLE[2]/DIV , /HTML/BODY/ARTICLE[2]/DIV/DIV/DIV[2] , PARENT_CHILD , 768 , 1400 , rightJust
+
+/HTML/BODY/ARTICLE[2]/DIV/DIV contains /HTML/BODY/ARTICLE[2]/DIV
+
+Differing bounds for {}
+	Oracle : 768 -> 1400
+	Test : 400 -> 767
+
+/HTML/BODY/ARTICLE[2] contains /HTML/BODY/ARTICLE[2]/DIV
+
+Differing bounds for {}
+	Oracle : 400 -> 767
+	Test : 400 -> 1342
+
+Unmatched in test: /HTML/BODY/ARTICLE[2] , /HTML/BODY/ARTICLE[2]/DIV , PARENT_CHILD , 1343 , 1400 , centered

@@ -1,0 +1,2 @@
+Removed a class from element 
+<a href="https://play.google.com/store/apps/details?id=com.reserve.android" class="button button-duo"><img src="./resources/icon_hero_play.png"> Android App</a>

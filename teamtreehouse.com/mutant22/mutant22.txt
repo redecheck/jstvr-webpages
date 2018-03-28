@@ -1,0 +1,8 @@
+Changed term from 80.0 to 85.0
+.content-section {
+	padding: 80.0px 0.0;
+}
+
+.content-section {
+	padding: 85.0px 0.0;
+}

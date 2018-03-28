@@ -1,0 +1,15 @@
+Added a class to element 
+<div class="width content"> 
+ <nav role="navigation"> 
+  <ul id="home"> 
+   <li><a href="#header">R<span>esponsive&nbsp;</span>P<span>rocess</span></a> </li> 
+  </ul> 
+  <!--<ul id="logo">				<li><a href="#header">Responsive Process</a></li>			</ul>--> 
+  <ul id="menu"> 
+   <li><a href="#discover">Discover</a> </li> 
+   <li><a href="#design">Design</a> </li> 
+   <li><a href="#develop">Develop</a> </li> 
+   <li class="last"><a href="#deploy">Deploy</a> </li> 
+  </ul> 
+ </nav> 
+</div>

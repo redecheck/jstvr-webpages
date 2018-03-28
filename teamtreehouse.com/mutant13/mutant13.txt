@@ -1,0 +1,6 @@
+Changed value from 959.0 to 961.0 in 
+@media screen AND (max-width: 961.0px) {
+	.modal {
+		padding: 10.0px 30.0px;
+	}
+}

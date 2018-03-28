@@ -1,0 +1,22 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[5]/DIV[5] contains /HTML/BODY/DIV/DIV/DIV/SECTION[5]/DIV[5]/H2
+
+Differing bounds for {}
+	Oracle : 502 -> 599
+	Test : 400 -> 599
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[5]/DIV[5] contains /HTML/BODY/DIV/DIV/DIV/SECTION[5]/DIV[5]/P
+
+Differing bounds for {rightJustmiddle}
+	Oracle : 895 -> 954
+	Test : 1073 -> 1129
+
+Differing bounds for {rightJust}
+	Oracle : 955 -> 1400
+	Test : 1130 -> 1400

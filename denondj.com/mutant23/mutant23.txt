@@ -1,0 +1,8 @@
+Changed term from 1.875 to 4.875
+dialog, .reveal-modal {
+	padding: 1.875rem;
+}
+
+dialog, .reveal-modal {
+	padding: 4.875rem;
+}

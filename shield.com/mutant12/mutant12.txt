@@ -1,0 +1,6 @@
+Added a class to element 
+<div class="col-lg-4 icon-stack"> 
+ <h2>We Are Hiring!</h2> 
+ <p>Do you want to be one of use? Sure you want, because we are an awesome team!. Here we work hard every day to craft pixel perfect sites.</p> 
+ <p><a class="btn btn-success">Contact Us</a> </p> 
+</div>

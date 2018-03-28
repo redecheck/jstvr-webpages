@@ -1,0 +1,2 @@
+Removed a class from element 
+<img src="http://expo.getbootstrap.com/thumbs/newsweek-thumb.jpg" alt="Newsweek" class="">

@@ -1,0 +1,138 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV contains /HTML/BODY/DIV[8]/DIV[2]/DIV/DIV
+
+Differing attributes for 992 -> 1400
+	Oracle : {leftJust}
+	Test : {rightJust}
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV/DIV[3]/DIV/FIGURE/FIGCAPTION is sibling of /HTML/BODY/DIV[8]/DIV[2]/DIV/DIV/DIV/FIGURE/FIGCAPTION
+
+Differing attributes for 992 -> 1400
+	Oracle : {rightOftopAlignbottomAlign}
+	Test : {leftOftopAlignbottomAlign}
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV/DIV[3]/DIV/FIGURE/FIGCAPTION is sibling of /HTML/BODY/DIV[8]/DIV[2]/DIV/DIV[4]/DIV/FIGURE/FIGCAPTION
+
+Differing attributes for 992 -> 1400
+	Oracle : {leftOftopAlignbottomAlign}
+	Test : {rightOftopAlignbottomAlign}
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV/DIV[3]/DIV/FIGURE/FIGCAPTION is sibling of /HTML/BODY/DIV[8]/DIV[2]/DIV[2]/DIV/DIV/FIGURE/FIGCAPTION
+
+Differing attributes for 992 -> 1400
+	Oracle : {aboverightOf}
+	Test : {aboveleftOf}
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV/DIV[3] is sibling of /HTML/BODY/DIV[8]/DIV[2]/DIV/DIV[4]
+
+Differing attributes for 992 -> 1400
+	Oracle : {leftOftopAlignbottomAlign}
+	Test : {rightOftopAlignbottomAlign}
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV/DIV[3] is sibling of /HTML/BODY/DIV[8]/DIV[2]/DIV/DIV
+
+Differing attributes for 992 -> 1400
+	Oracle : {rightOftopAlignbottomAlign}
+	Test : {leftOftopAlignbottomAlign}
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV/DIV[4]/DIV/FIGURE/FIGCAPTION is sibling of /HTML/BODY/DIV[8]/DIV[2]/DIV/DIV/DIV/FIGURE/FIGCAPTION
+
+Differing attributes for 992 -> 1400
+	Oracle : {rightOftopAlignbottomAlign}
+	Test : {leftOftopAlignbottomAlign}
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV/DIV[4]/DIV/FIGURE/FIGCAPTION is sibling of /HTML/BODY/DIV[8]/DIV[2]/DIV[2]/DIV/DIV/FIGURE/FIGCAPTION
+
+Differing attributes for 992 -> 1400
+	Oracle : {aboverightOf}
+	Test : {aboveleftOf}
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV/DIV[4] is sibling of /HTML/BODY/DIV[8]/DIV[2]/DIV/DIV
+
+Differing attributes for 992 -> 1400
+	Oracle : {rightOftopAlignbottomAlign}
+	Test : {leftOftopAlignbottomAlign}
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV contains /HTML/BODY/DIV[8]/DIV[2]/DIV/DIV[4]
+
+Differing attributes for 992 -> 1400
+	Oracle : {rightJust}
+	Test : {leftJust}
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV[2] contains /HTML/BODY/DIV[8]/DIV[2]/DIV[2]/DIV
+
+Differing attributes for 992 -> 1400
+	Oracle : {leftJust}
+	Test : {rightJust}
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV[2]/DIV[2]/DIV/FIGURE/FIGCAPTION is sibling of /HTML/BODY/DIV[8]/DIV[2]/DIV/DIV/DIV/FIGURE/FIGCAPTION
+
+Differing attributes for 992 -> 1400
+	Oracle : {belowrightOf}
+	Test : {belowleftOf}
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV[2]/DIV[2]/DIV/FIGURE/FIGCAPTION is sibling of /HTML/BODY/DIV[8]/DIV[2]/DIV/DIV[4]/DIV/FIGURE/FIGCAPTION
+
+Differing attributes for 992 -> 1400
+	Oracle : {belowleftOf}
+	Test : {belowrightOf}
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV[2]/DIV[2]/DIV/FIGURE/FIGCAPTION is sibling of /HTML/BODY/DIV[8]/DIV[2]/DIV[2]/DIV/DIV/FIGURE/FIGCAPTION
+
+Differing attributes for 992 -> 1400
+	Oracle : {rightOftopAlignbottomAlign}
+	Test : {leftOftopAlignbottomAlign}
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV[2]/DIV[2]/DIV/FIGURE/FIGCAPTION is sibling of /HTML/BODY/DIV[8]/DIV[2]/DIV[2]/DIV[3]/DIV/FIGURE/FIGCAPTION
+
+Differing attributes for 992 -> 1400
+	Oracle : {leftOftopAlignbottomAlign}
+	Test : {rightOftopAlignbottomAlign}
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV[2]/DIV[2] is sibling of /HTML/BODY/DIV[8]/DIV[2]/DIV[2]/DIV[3]
+
+Differing attributes for 992 -> 1400
+	Oracle : {leftOftopAlignbottomAlign}
+	Test : {rightOftopAlignbottomAlign}
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV[2]/DIV[2] is sibling of /HTML/BODY/DIV[8]/DIV[2]/DIV[2]/DIV
+
+Differing attributes for 992 -> 1400
+	Oracle : {rightOftopAlignbottomAlign}
+	Test : {leftOftopAlignbottomAlign}
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV[2]/DIV[3]/DIV/FIGURE/FIGCAPTION is sibling of /HTML/BODY/DIV[8]/DIV[2]/DIV/DIV/DIV/FIGURE/FIGCAPTION
+
+Differing attributes for 992 -> 1400
+	Oracle : {belowrightOf}
+	Test : {belowleftOf}
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV[2]/DIV[3]/DIV/FIGURE/FIGCAPTION is sibling of /HTML/BODY/DIV[8]/DIV[2]/DIV/DIV[3]/DIV/FIGURE/FIGCAPTION
+
+Differing attributes for 992 -> 1400
+	Oracle : {belowrightOf}
+	Test : {belowleftOf}
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV[2]/DIV[3]/DIV/FIGURE/FIGCAPTION is sibling of /HTML/BODY/DIV[8]/DIV[2]/DIV[2]/DIV/DIV/FIGURE/FIGCAPTION
+
+Differing attributes for 992 -> 1400
+	Oracle : {rightOftopAlignbottomAlign}
+	Test : {leftOftopAlignbottomAlign}
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV[2]/DIV[3] is sibling of /HTML/BODY/DIV[8]/DIV[2]/DIV[2]/DIV
+
+Differing attributes for 992 -> 1400
+	Oracle : {rightOftopAlignbottomAlign}
+	Test : {leftOftopAlignbottomAlign}
+
+/HTML/BODY/DIV[8]/DIV[2]/DIV[2] contains /HTML/BODY/DIV[8]/DIV[2]/DIV[2]/DIV[3]
+
+Differing attributes for 992 -> 1400
+	Oracle : {rightJust}
+	Test : {leftJust}

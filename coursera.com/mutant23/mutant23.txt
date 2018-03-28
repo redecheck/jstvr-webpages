@@ -1,0 +1,8 @@
+Changed term from 970.0 to 960.0
+.bt3-container {
+	width: 970.0px;
+}
+
+.bt3-container {
+	width: 960.0px;
+}

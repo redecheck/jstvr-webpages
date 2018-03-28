@@ -1,0 +1,12 @@
+Changed class in element <div class="mejs-volume-button mejs-mute icon"> 
+ <button aria-controls="mep_0" aria-label="Mute Toggle" title="Mute Toggle" type="button">
+  <svg class="volume-icon" preserveaspectratio="xMinYMin meet" viewbox="0 0 22 22"> 
+   <use xlink:href="/assets/icons-6762ca0f96a843e265c169ae01daf808.svg#volume-icon"> 
+   </use>
+  </svg></button>
+ <a class="mejs-volume-slider" href="javascript:void(0);"><span class="mejs-offscreen">Use Up/Down Arrow keys to increase or decrease volume.</span> 
+  <div class="mejs-volume-total"> 
+  </div> 
+  <div class="mejs-volume-current"></div> 
+  <div class="mejs-volume-handle"></div></a> 
+</div>

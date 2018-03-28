@@ -1,0 +1,72 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+/HTML/BODY/DIV/DIV/DIV/DIV[2]
+ Oracle: 768 -> 1400
+ Test: 764 -> 1400====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV/DIV/DIV contains /HTML/BODY/DIV/DIV/DIV/DIV
+
+Differing bounds for {}
+	Oracle : 400 -> 767
+	Test : 400 -> 763
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV , /HTML/BODY/DIV/DIV/DIV/DIV , PARENT_CHILD , 764 , 767 , top
+
+/HTML/BODY/DIV[2]/HEADER contains /HTML/BODY/DIV/DIV/DIV/DIV[2]
+
+Unmatched in test: /HTML/BODY/DIV[2]/HEADER , /HTML/BODY/DIV/DIV/DIV/DIV[2] , PARENT_CHILD , 764 , 767 , 
+
+/HTML/BODY/DIV/DIV/DIV/DIV[2] contains /HTML/BODY/DIV[2]/HEADER/H1
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV[2] , /HTML/BODY/DIV[2]/HEADER/H1 , PARENT_CHILD , 764 , 767 , 
+
+/HTML/BODY/DIV[2]/HEADER contains /HTML/BODY/DIV[2]/HEADER/H1
+
+Differing bounds for {}
+	Oracle : 400 -> 1400
+	Test : 768 -> 1400
+
+/HTML/BODY/DIV/DIV/DIV/DIV[2] contains /HTML/BODY/DIV[2]/HEADER/H1/SPAN
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV[2] , /HTML/BODY/DIV[2]/HEADER/H1/SPAN , PARENT_CHILD , 764 , 767 , centered
+
+/HTML/BODY/DIV[2]/HEADER/H1/SPAN is sibling of /HTML/BODY/DIV[2]/HEADER/P[2]
+
+Differing bounds for {above}
+	Oracle : 400 -> 1400
+	Test : 768 -> 1400
+
+/HTML/BODY/DIV[2]/HEADER contains /HTML/BODY/DIV[2]/HEADER/H1/SPAN
+
+Differing bounds for {centered}
+	Oracle : 400 -> 1079
+	Test : 768 -> 1079
+
+/HTML/BODY/DIV/DIV/DIV/DIV[2] contains /HTML/BODY/DIV[2]/HEADER/P
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/DIV[2] , /HTML/BODY/DIV[2]/HEADER/P , PARENT_CHILD , 764 , 767 , 
+
+/HTML/BODY/DIV[2]/HEADER contains /HTML/BODY/DIV[2]/HEADER/P
+
+Differing bounds for {}
+	Oracle : 400 -> 1400
+	Test : 768 -> 1400
+
+/HTML/BODY/DIV[2]/HEADER/P[2] is sibling of /HTML/BODY/DIV/DIV/DIV/DIV[2]
+
+Unmatched in test: /HTML/BODY/DIV[2]/HEADER/P[2] , /HTML/BODY/DIV/DIV/DIV/DIV[2] , SIBLING , 764 , 767 , rightAlign
+
+/HTML/BODY/DIV[2]/HEADER/P[2] is sibling of /HTML/BODY/DIV[2]/HEADER/H1
+
+Differing bounds for {belowrightAlign}
+	Oracle : 400 -> 1400
+	Test : 768 -> 1400
+
+/HTML/BODY/DIV[2]/HEADER/P[2] is sibling of /HTML/BODY/DIV[2]/HEADER/P
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 1400
+	Test : 768 -> 1400

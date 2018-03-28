@@ -1,0 +1,2 @@
+Added a class to element 
+<i class="fa fa-facebook span7" style="font-size:18px;"></i>

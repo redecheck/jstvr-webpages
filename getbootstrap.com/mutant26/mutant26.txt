@@ -1,0 +1,5 @@
+Added a class to element 
+<ul class="nav navbar-nav navbar-right navbar"> 
+ <li><a href="http://expo.getbootstrap.com" onclick="ga('send', 'event', 'Navbar', 'Community links', 'Expo');">Expo</a> </li> 
+ <li><a href="http://blog.getbootstrap.com" onclick="ga('send', 'event', 'Navbar', 'Community links', 'Blog');">Blog</a> </li> 
+</ul>

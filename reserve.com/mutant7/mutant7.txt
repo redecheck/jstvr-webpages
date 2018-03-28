@@ -1,0 +1,8 @@
+Removed a class from element 
+<div class=""> 
+ <h1>A better dining experience</h1> 
+ <p>Reserve is your personal dining concierge. With just a few taps, Reserve enables a more seamless experience, from getting the table you want to paying effortlessly at the end of the meal.</p> 
+ <a href="https://itunes.apple.com/us/app/reserve-better-dining-experience/id919147310?ls=1&amp;mt=8" class="button button-duo outbound" id="firstbutton"><img src="./resources/icon_hero_apple.png"> iPhone App</a> 
+ <a href="https://play.google.com/store/apps/details?id=com.reserve.android" class="button button-duo outbound"><img src="./resources/icon_hero_play.png"> Android App</a> 
+ <p id="hero-beta"> Reserve is live in New&nbsp;York&nbsp;City, Los&nbsp;Angeles, Boston and San&nbsp;Francisco. Coming soon to Chicago. </p> 
+</div>

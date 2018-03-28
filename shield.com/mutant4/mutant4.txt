@@ -1,0 +1,1 @@
+Changed class in element <a href="http://www.blacktie.co/demo/shield/#" class="icon icon-eye"></a>

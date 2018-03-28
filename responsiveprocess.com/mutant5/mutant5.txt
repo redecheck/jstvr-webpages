@@ -1,0 +1,5 @@
+Changed class in element <div class="step no-js"> 
+ <h1>Responsive Web Design Process</h1> 
+ <img src="./resources/img/4D.jpg" alt="4 D process info graphic"> 
+ <p>Every project, big or small, goes through our patented (not really patented) process. We call it the four Ds: discovery, design, development, and deployment. We tie all of this together to form our <a href="http://www.alistapart.com/articles/responsive-web-design/">responsive web design</a> process. The deliverables for your project might vary, but here's an idea of what you can expect from us.</p> 
+</div>

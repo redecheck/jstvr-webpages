@@ -1,0 +1,16 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/ARTICLE/DIV/DL/DT/IMG contains /HTML/BODY/SECTION/DIV[2]/I
+
+Unmatched in test: /HTML/BODY/ARTICLE/DIV/DL/DT/IMG , /HTML/BODY/SECTION/DIV[2]/I , PARENT_CHILD , 480 , 539 , centered
+
+/HTML/BODY/SECTION/DIV[2] contains /HTML/BODY/SECTION/DIV[2]/I
+
+Differing bounds for {middle}
+	Oracle : 400 -> 1400
+	Test : 540 -> 1400

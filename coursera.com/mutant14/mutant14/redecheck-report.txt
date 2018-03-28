@@ -1,0 +1,27 @@
+====== Unmatched Nodes ====== 
+
+/HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/SPAN[2] wasn't matched in Graph 1
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV/DIV/DIV/DIV/H3/SPAN is sibling of /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/SPAN[2]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV/DIV/DIV/DIV/H3/SPAN , /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/SPAN[2] , SIBLING , 768 , 1400 , above
+
+/HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV/DIV/DIV/DIV/H3/SPAN[2] is sibling of /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/SPAN[2]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV/DIV/DIV/DIV/H3/SPAN[2] , /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/SPAN[2] , SIBLING , 768 , 1400 , above
+
+/HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV/DIV[2] contains /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV
+
+Differing bounds for {centered}
+	Oracle : 400 -> 1400
+	Test : 935 -> 1400
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV/DIV[2] , /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV , PARENT_CHILD , 768 , 934 , 
+
+/HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV contains /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/SPAN[2]
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV , /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV/DIV[2]/DIV/SPAN[2] , PARENT_CHILD , 768 , 1400 , 

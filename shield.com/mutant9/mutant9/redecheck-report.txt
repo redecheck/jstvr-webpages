@@ -1,0 +1,36 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV[10]/DIV/DIV/P/SPAN[2] is sibling of /HTML/BODY/DIV[10]/DIV/DIV/P/SPAN
+
+Differing attributes for 400 -> 1400
+	Oracle : {belowleftAlignrightAlign}
+	Test : {belowleftOf}
+
+/HTML/BODY/DIV[10]/DIV/DIV/P/SPAN[3] is sibling of /HTML/BODY/DIV[10]/DIV/DIV/P/SPAN
+
+Differing attributes for 400 -> 1400
+	Oracle : {belowleftAlignrightAlign}
+	Test : {belowleftOf}
+
+/HTML/BODY/DIV[10]/DIV/DIV/P/SPAN[4] is sibling of /HTML/BODY/DIV[10]/DIV/DIV/P/SPAN
+
+Differing attributes for 400 -> 1400
+	Oracle : {belowleftAlignrightAlign}
+	Test : {belowleftOf}
+
+/HTML/BODY/DIV[10]/DIV/DIV/P/SPAN[5] is sibling of /HTML/BODY/DIV[10]/DIV/DIV/P/SPAN
+
+Differing attributes for 400 -> 1400
+	Oracle : {belowleftAlignrightAlign}
+	Test : {belowleftOf}
+
+/HTML/BODY/DIV[10]/DIV/DIV/P/SPAN[6] is sibling of /HTML/BODY/DIV[10]/DIV/DIV/P/SPAN
+
+Differing attributes for 400 -> 1400
+	Oracle : {belowleftAlignrightAlign}
+	Test : {belowleftOf}

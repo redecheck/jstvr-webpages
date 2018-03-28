@@ -1,0 +1,6 @@
+Added a class to element 
+<div class="mejs-captions-layer mejs-layer mejs-duration-container" style="display: none;"> 
+ <div class="mejs-captions-position mejs-captions-position-hover"> 
+  <span class="mejs-captions-text"></span> 
+ </div> 
+</div>

@@ -1,0 +1,2 @@
+Changed UNIT in 1.25rem to [1.25%] in 
+padding: 1.25%;

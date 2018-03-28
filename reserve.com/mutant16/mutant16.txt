@@ -1,0 +1,2 @@
+Changed UNIT in 820.0em to [820.0%] in 
+width: 820.0%;

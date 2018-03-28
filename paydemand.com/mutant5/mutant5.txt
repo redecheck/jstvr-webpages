@@ -1,0 +1,18 @@
+Added a class to element 
+<div class="container js"> 
+ <nav> 
+  <ul> 
+   <li><a href="https://paydemand.com/about">About</a> </li> 
+   <li><a href="http://paydemand.wordpress.com/">Blog</a> </li> 
+   <li><a href="https://paydemand.com/contact">Contact</a> </li> 
+   <li><a href="https://paydemand.com/terms">Terms</a> </li> 
+   <li><a href="https://paydemand.com/privacy">Privacy</a> </li> 
+   <li><a href="https://paydemand.com/credit-card-processing">Credit Card Processing</a> </li> 
+   <li><a href="http://www.facebook.com/paydemand" border="0" target="_blank"><i class="fa fa-facebook" style="font-size:18px;"></i></a> </li> 
+   <li><a href="http://twitter.com/paydemand" border="0" target="_blank"><i class="fa fa-twitter" style="font-size:18px;"></i></a> </li> 
+  </ul> 
+ </nav> 
+ <div id="copyright">
+  © 2015 PayDemand
+ </div> 
+</div>

@@ -1,0 +1,4 @@
+Changed class in element <div class="mejs-overlay mejs-layer mejs-video"> 
+ <div class="mejs-overlay-button"> 
+ </div> 
+</div>

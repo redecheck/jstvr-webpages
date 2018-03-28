@@ -1,0 +1,32 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/SECTION[3]/DIV/DIV/DIV contains /HTML/BODY/SECTION[3]/DIV/DIV/DIV/FORM
+
+Unmatched in oracle: /HTML/BODY/SECTION[3]/DIV/DIV/DIV , /HTML/BODY/SECTION[3]/DIV/DIV/DIV/FORM , PARENT_CHILD , 400 , 1400 , 
+
+/HTML/BODY/SECTION[3]/DIV/DIV/DIV/FORM is sibling of /HTML/BODY/SECTION[3]/DIV[2]
+
+Unmatched in test: /HTML/BODY/SECTION[3]/DIV/DIV/DIV/FORM , /HTML/BODY/SECTION[3]/DIV[2] , SIBLING , 400 , 1400 , 
+
+/HTML/BODY/SECTION[3]/DIV/DIV/DIV/FORM is sibling of /HTML/BODY/SECTION[3]/DIV
+
+Unmatched in test: /HTML/BODY/SECTION[3]/DIV/DIV/DIV/FORM , /HTML/BODY/SECTION[3]/DIV , SIBLING , 400 , 1400 , 
+
+/HTML/BODY/SECTION[3] contains /HTML/BODY/SECTION[3]/DIV/DIV/DIV/FORM
+
+Unmatched in test: /HTML/BODY/SECTION[3] , /HTML/BODY/SECTION[3]/DIV/DIV/DIV/FORM , PARENT_CHILD , 400 , 1400 , centered
+
+/HTML/BODY/SECTION[3]/DIV/DIV/DIV/H6 is sibling of /HTML/BODY/SECTION[3]/DIV/DIV/DIV/FORM
+
+Unmatched in oracle: /HTML/BODY/SECTION[3]/DIV/DIV/DIV/H6 , /HTML/BODY/SECTION[3]/DIV/DIV/DIV/FORM , SIBLING , 400 , 1400 , aboveleftAlignrightAlign
+
+/HTML/BODY/SECTION[3]/DIV/DIV/DIV contains /HTML/BODY/SECTION[3]/DIV/DIV/DIV/H6
+
+Differing attributes for 400 -> 1400
+	Oracle : {}
+	Test : {centered}

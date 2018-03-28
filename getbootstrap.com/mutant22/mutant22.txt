@@ -1,0 +1,4 @@
+Removed a class from element 
+<div class="col-sm-3"> 
+ <a href="http://expo.getbootstrap.com/2014/10/29/lyft/" target="_blank" title="Lyft"> <img src="http://expo.getbootstrap.com/thumbs/lyft-thumb.jpg" alt="Lyft" class="img-responsive"> </a> 
+</div>

@@ -1,0 +1,148 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV is sibling of /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/H2
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/H2 , SIBLING , 400 , 991 , topAlignrightAlign
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3] contains /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV
+
+Differing attributes for 400 -> 1400
+	Oracle : {top}
+	Test : {aboveleftAlignrightAlign}
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV is sibling of /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]
+
+Differing attributes for 400 -> 1400
+	Oracle : {aboveleftAlignrightAlign}
+	Test : {top}
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2] contains /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV
+
+Unmatched in oracle: /HTML/BODY/DIV/DIV/DIV/SECTION[2] , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV , PARENT_CHILD , 400 , 1400 , 
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[2] is sibling of /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/H2
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[2] , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/H2 , SIBLING , 400 , 991 , rightAlign
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2] contains /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[2]
+
+Unmatched in oracle: /HTML/BODY/DIV/DIV/DIV/SECTION[2] , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[2] , PARENT_CHILD , 400 , 1400 , 
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/H2 is sibling of /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[2]
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/H2 , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[2] , SIBLING , 992 , 1400 , belowrightAlign
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/H2 is sibling of /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/IMG
+
+Unmatched in oracle: /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/H2 , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/IMG , SIBLING , 600 , 991 , above
+
+Unmatched in oracle: /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/H2 , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/IMG , SIBLING , 992 , 1400 , rightOftopAlign
+
+Differing bounds for {aboverightAlign}
+	Oracle : 400 -> 599
+	Test : 400 -> 1400
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/H2 is sibling of /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/P
+
+Differing bounds for {aboverightAlign}
+	Oracle : 600 -> 991
+	Test : 600 -> 1400
+
+Unmatched in oracle: /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/H2 , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/P , SIBLING , 992 , 1400 , aboveleftAlignrightAlign
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3] contains /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/H2
+
+Differing attributes for 992 -> 1400
+	Oracle : {rightJusttop}
+	Test : {rightJust}
+
+Differing bounds for {top}
+	Oracle : 742 -> 991
+	Test : 596 -> 991
+
+Differing bounds for {}
+	Oracle : 429 -> 741
+	Test : 546 -> 595
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/H2 is sibling of /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/H2 , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV , SIBLING , 992 , 1400 , belowrightAlign
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3] is sibling of /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[2]
+
+Differing attributes for 400 -> 1400
+	Oracle : {belowleftAlignrightAlign}
+	Test : {}
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/IMG is sibling of /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[2]
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/IMG , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[2] , SIBLING , 400 , 1400 , belowleftAlignrightAlign
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/IMG is sibling of /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/H2
+
+Differing bounds for {belowrightAlign}
+	Oracle : 400 -> 1400
+	Test : 400 -> 599
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/IMG is sibling of /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/P
+
+Unmatched in oracle: /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/IMG , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/P , SIBLING , 600 , 991 , leftOftopAlign
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3] contains /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/IMG
+
+Unmatched in oracle: /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3] , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/IMG , PARENT_CHILD , 992 , 997 , leftJusttop
+
+Differing bounds for {}
+	Oracle : 400 -> 599
+	Test : 400 -> 1400
+
+Unmatched in oracle: /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3] , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/IMG , PARENT_CHILD , 998 , 1400 , leftJust
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/IMG is sibling of /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/IMG , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV , SIBLING , 400 , 1400 , belowleftAlignrightAlign
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/P is sibling of /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/H2
+
+Differing bounds for {belowrightAlign}
+	Oracle : 600 -> 1400
+	Test : 600 -> 991
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/P is sibling of /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/IMG
+
+Unmatched in oracle: /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/P , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/IMG , SIBLING , 992 , 1400 , rightOf
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/P , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/IMG , SIBLING , 600 , 1400 , belowleftAlignrightAlign
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3] contains /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/P
+
+Unmatched in oracle: /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3] , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/P , PARENT_CHILD , 600 , 1400 , rightJust
+
+Differing bounds for {}
+	Oracle : 400 -> 599
+	Test : 806 -> 1400
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/P is sibling of /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV
+
+Unmatched in test: /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[3]/P , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV , SIBLING , 400 , 599 , below
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[4] is sibling of /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[2]
+
+Unmatched in oracle: /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[4] , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[2] , SIBLING , 400 , 1400 , belowleftAlignrightAlign
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[4] is sibling of /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV
+
+Unmatched in oracle: /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[4] , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV , SIBLING , 400 , 1400 , belowleftAlignrightAlign
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/H1 is sibling of /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[2]
+
+Unmatched in oracle: /HTML/BODY/DIV/DIV/DIV/SECTION[2]/H1 , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV[2] , SIBLING , 400 , 1400 , aboveleftAlignrightAlign
+
+/HTML/BODY/DIV/DIV/DIV/SECTION[2]/H1 is sibling of /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV
+
+Unmatched in oracle: /HTML/BODY/DIV/DIV/DIV/SECTION[2]/H1 , /HTML/BODY/DIV/DIV/DIV/SECTION[2]/DIV , SIBLING , 400 , 1400 , aboveleftAlignrightAlign

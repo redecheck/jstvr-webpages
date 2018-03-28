@@ -1,0 +1,10 @@
+Changed expression to max-width in 
+@media (max-width: 768.0px) {
+	.bt3-navbar-left {
+		float: left !important;
+	}
+
+	.bt3-navbar-right {
+		float: right !important;
+	}
+}

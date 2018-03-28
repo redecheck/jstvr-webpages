@@ -1,0 +1,5 @@
+Changed class in element <div class="largebox"> 
+ <h2>17. Launch Plan &amp; Release</h2> 
+ <img src="./resources/img/launch.jpg" alt="rocket launching"> 
+ <p>So close! Next up, our team will create a launch plan to archive the current website (if needed) and release the new website to the public, as well as a quality checklist to ensure that all project requirements are met. We’ll make sure that the new website is submitted to the appropriate search engines, and that web analytics are installed and configured. We'll also work with our smarty-pants friend at the Status Bureau to make sure you understand how to access and act on web analytics reports.</p> 
+</div>

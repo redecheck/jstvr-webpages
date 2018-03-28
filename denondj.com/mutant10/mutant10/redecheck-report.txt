@@ -1,0 +1,48 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/SECTION/DIV contains /HTML/BODY/SECTION/DIV/DIV[2]/UL
+
+Differing bounds for {}
+	Oracle : 641 -> 795
+	Test : 1025 -> 1400
+
+Differing bounds for {middle}
+	Oracle : 796 -> 1400
+	Test : 940 -> 1024
+
+/HTML/BODY/SECTION/DIV/DIV[2]/UL contains /HTML/BODY/SECTION/DIV/DIV[2]/UL/LI
+
+Differing bounds for {top}
+	Oracle : 641 -> 795
+	Test : 1025 -> 1400
+
+Differing bounds for {}
+	Oracle : 796 -> 1400
+	Test : 940 -> 1024
+
+/HTML/BODY/SECTION/DIV/DIV[2]/UL/LI[2] is sibling of /HTML/BODY/SECTION/DIV/DIV[2]/UL/LI
+
+Differing bounds for {rightOftopAlign}
+	Oracle : 796 -> 1400
+	Test : 940 -> 1024
+
+Differing bounds for {belowleftAlign}
+	Oracle : 641 -> 795
+	Test : 1025 -> 1400
+
+/HTML/BODY/SECTION/DIV/DIV[2]/UL contains /HTML/BODY/SECTION/DIV/DIV[2]/UL/LI[2]
+
+Differing bounds for {}
+	Oracle : 796 -> 1400
+	Test : 948 -> 1024
+
+Differing bounds for {bottom}
+	Oracle : 641 -> 795
+	Test : 1025 -> 1400
+
+Unmatched in test: /HTML/BODY/SECTION/DIV/DIV[2]/UL , /HTML/BODY/SECTION/DIV/DIV[2]/UL/LI[2] , PARENT_CHILD , 940 , 947 , rightJust

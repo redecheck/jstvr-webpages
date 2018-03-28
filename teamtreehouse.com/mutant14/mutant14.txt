@@ -1,0 +1,5 @@
+Removed a class from element 
+<div class=""> 
+ <h1>Treehouse is trusted by 181,000+ students and companies worldwide</h1>
+ <img alt="Companies badge" src="./resources/companies-badge-b6cfcf5258719ce1bea52100737b2eb8.png">
+</div>

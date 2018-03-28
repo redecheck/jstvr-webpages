@@ -1,0 +1,2 @@
+Removed a class from element 
+<p id="subscribe-message" class="" style="display:none;"></p>

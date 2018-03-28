@@ -1,0 +1,1 @@
+Changed class in element <i class="fa cssanimations" style="font-size:18px;"></i>

@@ -1,0 +1,2 @@
+Changed UNIT in 100.0px to [100.0%] in 
+padding-top: 100.0%;

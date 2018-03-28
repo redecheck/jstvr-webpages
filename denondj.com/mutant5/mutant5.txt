@@ -1,0 +1,2 @@
+Removed a class from element 
+<li class="menu-icon"><a href="http://denondj.com/#"><span>Menu</span></a></li>

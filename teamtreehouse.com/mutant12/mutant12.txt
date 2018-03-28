@@ -1,0 +1,2 @@
+Added a class to element 
+<div class="mejs-volume-handle mejs-time-float-current"></div>

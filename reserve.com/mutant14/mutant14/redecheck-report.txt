@@ -1,0 +1,50 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/SECTION/DIV/DIV contains /HTML/BODY/SECTION/DIV/DIV/P[2]
+
+Differing bounds for {bottom}
+	Oracle : 472 -> 541
+	Test : 460 -> 541
+
+/HTML/BODY/SECTION/DIV contains /HTML/BODY/SECTION/DIV/IMG
+
+Differing bounds for {}
+	Oracle : 506 -> 718
+	Test : 490 -> 718
+
+/HTML/BODY/SECTION[2]/DIV contains /HTML/BODY/SECTION[2]/DIV/DIV/IMG
+
+Differing bounds for {centered}
+	Oracle : 400 -> 1023
+	Test : 400 -> 914
+
+/HTML/BODY/SECTION[2]/DIV/DIV/IMG is sibling of /HTML/BODY/SECTION[2]/DIV
+
+Unmatched in test: /HTML/BODY/SECTION[2]/DIV/DIV/IMG , /HTML/BODY/SECTION[2]/DIV , SIBLING , 915 , 1023 , topAlign
+
+/HTML/BODY/SECTION[2]/DIV/DIV[2] is sibling of /HTML/BODY/SECTION[2]/DIV/DIV/IMG
+
+Differing bounds for {}
+	Oracle : 400 -> 1023
+	Test : 400 -> 914
+
+/HTML/BODY/SECTION[3]/DIV/DIV[2] contains /HTML/BODY/SECTION[3]/DIV/DIV[2]/P
+
+Differing bounds for {bottom}
+	Oracle : 400 -> 1023
+	Test : 443 -> 1023
+
+/HTML/BODY/SECTION[4]/DIV contains /HTML/BODY/SECTION[4]/DIV/DIV
+
+Differing bounds for {centered}
+	Oracle : 449 -> 1023
+	Test : 401 -> 1023
+
+Differing bounds for {centeredtop}
+	Oracle : 400 -> 448
+	Test : 400 -> 400

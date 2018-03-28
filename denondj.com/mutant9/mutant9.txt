@@ -1,0 +1,26 @@
+Changed class in element <div class="row orbit-timer"> 
+ <div class="small-12 medium-6 large-7 columns"> 
+  <br>
+  <h1><a href="./resources/Denon DJ - Professional DJ Equipment.html"><img src="./resources/denondj_logo.png" alt="Denon DJ"></a></h1>
+  <br> 
+ </div> 
+ <div class="hide-for-small medium-6 large-5 columns"> 
+  <br>
+  <br> 
+  <ul class="inline-list"> 
+   <li> 
+    <div class="addthis_toolbox addthis_32x32_style addthis_default_style text-right"> 
+     <a class="addthis_button_facebook_follow at300b" addthis:userid="denondjofficial" href="http://www.facebook.com/denondjofficial" target="_blank" title="Follow on Facebook"><i class="fi-social-facebook icons"></i><span class="addthis_follow_label">Facebook</span></a> 
+     <a class="addthis_button_twitter_follow at300b" addthis:userid="Denon_DJ" href="http://twitter.com/Denon_DJ" target="_blank" title="Follow on Twitter"><i class="fi-social-twitter icons"></i><span class="addthis_follow_label">Twitter</span></a> 
+     <a class="addthis_button_youtube_follow at300b" addthis:userid="denondjtv" href="http://www.youtube.com/user/denondjtv?sub_confirmation=1" target="_blank" title="Follow on YouTube"><i class="fi-social-youtube icons"></i><span class="addthis_follow_label">YouTube</span></a> 
+     <a class="addthis_button_instagram_follow at300b" addthis:userid="denondjofficial" href="http://instagram.com/denondjofficial" target="_blank" title="Follow on Instagram"><i class="fi-social-instagram icons"></i><span class="addthis_follow_label">Instagram</span></a> 
+     <div class="atclear"></div>
+    </div> <script type="text/javascript" src="./resources/addthis_widget.js"></script> </li> 
+   <li> 
+    <form method="post" action="http://denondj.com/#" onsubmit="return false;"> 
+     <input id="search" type="text" placeholder="Search Denon DJ" autocomplete="off"> 
+     <div id="suggest" style="display:none;"></div> 
+    </form> </li> 
+  </ul> 
+ </div> 
+</div>

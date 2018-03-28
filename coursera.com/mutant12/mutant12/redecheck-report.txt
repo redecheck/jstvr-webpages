@@ -1,0 +1,68 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2] contains /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV/DIV/DIV
+
+Differing attributes for 400 -> 1400
+	Oracle : {}
+	Test : {middle}
+
+/HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV[2]/DIV/DIV/DIV is sibling of /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV[2]/DIV/DIV/DIV[4]
+
+Differing attributes for 992 -> 1400
+	Oracle : {leftOftopAlign}
+	Test : {rightOftopAlignbottomAlign}
+
+/HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV[2]/DIV/DIV/DIV[3] is sibling of /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV[2]/DIV/DIV/DIV[4]
+
+Differing attributes for 400 -> 767
+	Oracle : {leftOftopAlignbottomAlign}
+	Test : {leftOftopAlign}
+
+/HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV[2]/DIV/DIV contains /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV[2]/DIV/DIV/DIV[3]
+
+Differing attributes for 400 -> 767
+	Oracle : {leftJustmiddle}
+	Test : {leftJust}
+
+/HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV[2]/DIV/DIV/DIV[4] is sibling of /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV[2]/DIV/DIV/DIV[6]
+
+Differing attributes for 768 -> 991
+	Oracle : {leftOftopAlignbottomAlign}
+	Test : {rightOftopAlign}
+
+/HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV[2]/DIV/DIV/DIV[4] is sibling of /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV[2]/DIV/DIV/DIV
+
+Differing attributes for 992 -> 1400
+	Oracle : {rightOftopAlignbottomAlign}
+	Test : {leftOftopAlign}
+
+/HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV[2]/DIV contains /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV[2]/DIV/DIV/DIV[5]
+
+Differing attributes for 768 -> 991
+	Oracle : {centeredbottom}
+	Test : {centered}
+
+/HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV[2]/DIV/DIV/DIV[6] is sibling of /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV[2]/DIV/DIV/DIV[4]
+
+Differing attributes for 768 -> 991
+	Oracle : {rightOftopAlign}
+	Test : {leftOftopAlignbottomAlign}
+
+/HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV[2]/DIV/DIV contains /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV[2]/DIV/DIV/DIV[6]
+
+Differing bounds for {rightJustbottom}
+	Oracle : 400 -> 991
+	Test : 400 -> 767
+
+Unmatched in test: /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV[2]/DIV/DIV , /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV[2]/DIV/DIV/DIV[6] , PARENT_CHILD , 768 , 991 , rightJust
+
+/HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV[2]/DIV/DIV/DIV[6] is sibling of /HTML/BODY/DIV[2]/DIV/DIV/DIV[2]/DIV[2]/DIV[2]/DIV[2]/DIV
+
+Differing bounds for {bottomAlign}
+	Oracle : 400 -> 991
+	Test : 400 -> 767

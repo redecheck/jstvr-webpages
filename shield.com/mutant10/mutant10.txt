@@ -1,0 +1,2 @@
+Changed UNIT in 15.0em to [15.0%] in 
+padding-right: 15.0%;

@@ -1,0 +1,36 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/DIV[10] is sibling of /HTML/BODY/DIV[8]/DIV[2]
+
+Differing bounds for {below}
+	Oracle : 779 -> 991
+	Test : 784 -> 991
+
+/HTML/BODY/DIV[4] is sibling of /HTML/BODY/DIV[8]/DIV[2]
+
+Differing bounds for {above}
+	Oracle : 779 -> 991
+	Test : 784 -> 991
+
+/HTML/BODY/DIV[5] is sibling of /HTML/BODY/DIV[8]/DIV[2]
+
+Differing bounds for {above}
+	Oracle : 779 -> 991
+	Test : 784 -> 991
+
+/HTML/BODY/DIV[6] is sibling of /HTML/BODY/DIV[8]/DIV[2]
+
+Differing bounds for {above}
+	Oracle : 779 -> 991
+	Test : 784 -> 991
+
+/HTML/BODY/DIV[9] is sibling of /HTML/BODY/DIV[8]/DIV[2]
+
+Differing bounds for {below}
+	Oracle : 779 -> 991
+	Test : 784 -> 991

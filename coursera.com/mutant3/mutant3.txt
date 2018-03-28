@@ -1,0 +1,17 @@
+Removed a class from element 
+<div class="bt3-col-sm-4 bt3-col-xs-6 c-offering-tile-wrapper" data-reactid=".ukzz6x69s0.0.1.1.1.$Most Popular.1.0.2">
+ <div class="rc-OfferingTile" data-reactid=".ukzz6x69s0.0.1.1.1.$Most Popular.1.0.2.$Gtv4Xb1-EeS-ViIACwYKVQ">
+  <a data-click-key="discovery.frontPage.click.offering_tile" href="https://www.coursera.org/learn/machine-learning" data-reactid=".ukzz6x69s0.0.1.1.1.$Most Popular.1.0.2.$Gtv4Xb1-EeS-ViIACwYKVQ.0">
+   <div class="c-course-image" data-reactid=".ukzz6x69s0.0.1.1.1.$Most Popular.1.0.2.$Gtv4Xb1-EeS-ViIACwYKVQ.0.0">
+    <img src="./resources/large-icon.png" srcset="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/ml/large-icon.png?auto=format&amp;dpr=2&amp;w=220&amp;h=125&amp;fit=crop 2x, https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/ml/large-icon.png?auto=format&amp;dpr=3&amp;w=220&amp;h=125&amp;fit=crop 3x" alt="" data-reactid=".ukzz6x69s0.0.1.1.1.$Most Popular.1.0.2.$Gtv4Xb1-EeS-ViIACwYKVQ.0.0.0">
+   </div>
+   <div class="c-course-details" data-reactid=".ukzz6x69s0.0.1.1.1.$Most Popular.1.0.2.$Gtv4Xb1-EeS-ViIACwYKVQ.0.1">
+    <div class="c-course-title" data-reactid=".ukzz6x69s0.0.1.1.1.$Most Popular.1.0.2.$Gtv4Xb1-EeS-ViIACwYKVQ.0.1.0">
+     Machine Learning
+    </div>
+    <div class="c-course-partner" data-reactid=".ukzz6x69s0.0.1.1.1.$Most Popular.1.0.2.$Gtv4Xb1-EeS-ViIACwYKVQ.0.1.1">
+     <span data-reactid=".ukzz6x69s0.0.1.1.1.$Most Popular.1.0.2.$Gtv4Xb1-EeS-ViIACwYKVQ.0.1.1.0">Stanford University</span>
+    </div>
+   </div></a>
+ </div>
+</div>

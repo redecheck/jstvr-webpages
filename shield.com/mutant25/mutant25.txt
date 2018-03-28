@@ -1,0 +1,24 @@
+Changed value from 768.0 to 765.0 in 
+@media (min-width: 765.0px) {
+	.navbar-collapse {
+		width: auto;
+		border-top: 0.0;
+		box-shadow: none;
+	}
+
+	.navbar-collapse.collapse {
+		display: block !important;
+		height: auto !important;
+		padding-bottom: 0.0;
+		overflow: visible !important;
+	}
+
+	.navbar-collapse.in {
+		overflow-y: visible;
+	}
+
+	.navbar-fixed-top .navbar-collapse, .navbar-static-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
+		padding-right: 0.0;
+		padding-left: 0.0;
+	}
+}

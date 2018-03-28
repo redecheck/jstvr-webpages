@@ -1,0 +1,6 @@
+Removed a class from element 
+<div class=""> 
+ <h2>3. IA &amp; Content Strategy</h2> 
+ <img src="./resources/img/contentStrategy.jpg" alt="pencil sketch of wireframe"> 
+ <p>Using the knowledge gained from our discovery conversations, we will audit existing content both quantitatively and qualitatively. What exists on your current site? And, more importantly, is it doing what you need it to do? We'll create a site map for your project and show where everything belongs. This process will inform what and how we communicate, and establish the features your users need. Well-planned, well-structured content will help us create both the interaction and visual design systems.</p> 
+</div>

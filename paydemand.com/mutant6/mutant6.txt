@@ -1,0 +1,9 @@
+Removed a class from element 
+<div class="span4" id="how-works"> 
+ <h2>How PayDemand Works?</h2> 
+ <ul> 
+  <li><span>1</span>Tell us about your business.</li> 
+  <li><span>2</span>Processors submit competitive bids.</li> 
+  <li><span>3</span>Review bids and select a Processor.</li> 
+ </ul> 
+</div>

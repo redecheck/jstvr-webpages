@@ -1,0 +1,22 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+====== Alignment Errors ====== 
+
+
+/HTML/BODY/FOOTER/DIV contains /HTML/BODY/FOOTER/DIV/P[2]
+
+Differing bounds for {}
+	Oracle : 409 -> 668
+	Test : 400 -> 668
+
+/HTML/BODY contains /HTML/BODY/FOOTER
+
+Differing bounds for {}
+	Oracle : 453 -> 1400
+	Test : 439 -> 1400
+
+Differing bounds for {bottom}
+	Oracle : 400 -> 452
+	Test : 400 -> 438

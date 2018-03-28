@@ -1,0 +1,134 @@
+====== Unmatched Nodes ====== 
+
+====== Visibility Errors ====== 
+
+/HTML/BODY/FOOTER/DIV/NAV
+ Oracle: 400 -> 767
+ Test: 400 -> 775====== Alignment Errors ====== 
+
+
+/HTML/BODY/ARTICLE/DIV/DL/DT contains /HTML/BODY/ARTICLE/DIV/DL/DT/IMG
+
+Differing bounds for {}
+	Oracle : 768 -> 1400
+	Test : 776 -> 1400
+
+Differing bounds for {centered}
+	Oracle : 400 -> 767
+	Test : 400 -> 775
+
+/HTML/BODY/ARTICLE/DIV/DL is sibling of /HTML/BODY/ARTICLE/DIV/DL[2]
+
+Differing bounds for {aboveleftAlignrightAlign}
+	Oracle : 400 -> 767
+	Test : 400 -> 775
+
+Differing bounds for {leftOftopAlignbottomAlign}
+	Oracle : 768 -> 1400
+	Test : 776 -> 1400
+
+/HTML/BODY/ARTICLE/DIV contains /HTML/BODY/ARTICLE/DIV/DL
+
+Differing bounds for {leftJust}
+	Oracle : 768 -> 1400
+	Test : 776 -> 1400
+
+Differing bounds for {}
+	Oracle : 400 -> 767
+	Test : 400 -> 775
+
+/HTML/BODY/ARTICLE/DIV contains /HTML/BODY/ARTICLE/DIV/DL[2]
+
+Differing bounds for {centered}
+	Oracle : 768 -> 1400
+	Test : 776 -> 1400
+
+Differing bounds for {}
+	Oracle : 400 -> 767
+	Test : 400 -> 775
+
+/HTML/BODY/ARTICLE/DIV/DL[3]/DT contains /HTML/BODY/ARTICLE/DIV/DL[3]/DT/IMG
+
+Differing bounds for {}
+	Oracle : 768 -> 1400
+	Test : 776 -> 1400
+
+Differing bounds for {centered}
+	Oracle : 400 -> 767
+	Test : 400 -> 775
+
+/HTML/BODY/ARTICLE/DIV/DL[3] is sibling of /HTML/BODY/ARTICLE/DIV/DL[2]
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 767
+	Test : 400 -> 775
+
+Differing bounds for {rightOftopAlignbottomAlign}
+	Oracle : 768 -> 1400
+	Test : 776 -> 1400
+
+/HTML/BODY/ARTICLE/DIV/DL[3] is sibling of /HTML/BODY/ARTICLE/DIV/DL
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 767
+	Test : 400 -> 775
+
+Differing bounds for {rightOftopAlignbottomAlign}
+	Oracle : 768 -> 1400
+	Test : 776 -> 1400
+
+/HTML/BODY/ARTICLE/DIV contains /HTML/BODY/ARTICLE/DIV/DL[3]
+
+Differing bounds for {}
+	Oracle : 400 -> 767
+	Test : 400 -> 775
+
+Differing bounds for {rightJust}
+	Oracle : 768 -> 1400
+	Test : 776 -> 1400
+
+/HTML/BODY/ARTICLE[2]/DIV/DIV/DIV[2] contains /HTML/BODY/ARTICLE[2]/DIV/DIV/DIV[2]/H2
+
+Differing bounds for {top}
+	Oracle : 768 -> 1400
+	Test : 776 -> 1400
+
+Differing bounds for {}
+	Oracle : 400 -> 767
+	Test : 400 -> 775
+
+/HTML/BODY/FOOTER/DIV/DIV is sibling of /HTML/BODY/FOOTER/DIV/NAV/UL
+
+Differing bounds for {rightOftopAlignbottomAlign}
+	Oracle : 768 -> 1400
+	Test : 776 -> 1400
+
+/HTML/BODY/FOOTER/DIV/DIV is sibling of /HTML/BODY/FOOTER/DIV/NAV
+
+Differing bounds for {belowleftAlignrightAlign}
+	Oracle : 400 -> 767
+	Test : 400 -> 775
+
+/HTML/BODY/FOOTER/DIV contains /HTML/BODY/FOOTER/DIV/DIV
+
+Differing bounds for {rightJust}
+	Oracle : 768 -> 1259
+	Test : 776 -> 1259
+
+/HTML/BODY/FOOTER/DIV contains /HTML/BODY/FOOTER/DIV/NAV
+
+Differing bounds for {}
+	Oracle : 400 -> 767
+	Test : 400 -> 775
+
+/HTML/BODY/FOOTER/DIV/NAV contains /HTML/BODY/FOOTER/DIV/NAV/UL
+
+Differing bounds for {}
+	Oracle : 400 -> 767
+	Test : 400 -> 775
+
+/HTML/BODY/FOOTER/DIV contains /HTML/BODY/FOOTER/DIV/NAV/UL
+
+Differing bounds for {}
+	Oracle : 768 -> 979
+	Test : 776 -> 979

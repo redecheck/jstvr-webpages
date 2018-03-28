@@ -1,0 +1,6 @@
+Changed expression to min-width in 
+@media screen AND (min-width: 940.0px) AND (min-width: 768.0px) {
+	.nav-item {
+		margin-left: 30.0px;
+	}
+}

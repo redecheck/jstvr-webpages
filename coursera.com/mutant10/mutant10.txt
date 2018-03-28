@@ -1,0 +1,16 @@
+Changed class in element <div class="bt3-col-sm-4 bt3-col-xs-6 c-offering-tile-wrapper c-container" data-reactid=".ukzz6x69s0.0.1.1.1.$Learner Recommended.1.0.2">
+ <div class="rc-OfferingTile" data-reactid=".ukzz6x69s0.0.1.1.1.$Learner Recommended.1.0.2.$EfvjN5XvEeSqQiIACyEY7w">
+  <a data-click-key="discovery.frontPage.click.offering_tile" href="https://www.coursera.org/learn/smart-growth-strategy-1" data-reactid=".ukzz6x69s0.0.1.1.1.$Learner Recommended.1.0.2.$EfvjN5XvEeSqQiIACyEY7w.0">
+   <div class="c-course-image" data-reactid=".ukzz6x69s0.0.1.1.1.$Learner Recommended.1.0.2.$EfvjN5XvEeSqQiIACyEY7w.0.0">
+    <img src="./resources/large-icon(2).png" srcset="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/growtogreatness/large-icon.png?auto=format&amp;dpr=2&amp;w=220&amp;h=125&amp;fit=crop 2x, https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/growtogreatness/large-icon.png?auto=format&amp;dpr=3&amp;w=220&amp;h=125&amp;fit=crop 3x" alt="" data-reactid=".ukzz6x69s0.0.1.1.1.$Learner Recommended.1.0.2.$EfvjN5XvEeSqQiIACyEY7w.0.0.0">
+   </div>
+   <div class="c-course-details" data-reactid=".ukzz6x69s0.0.1.1.1.$Learner Recommended.1.0.2.$EfvjN5XvEeSqQiIACyEY7w.0.1">
+    <div class="c-course-title" data-reactid=".ukzz6x69s0.0.1.1.1.$Learner Recommended.1.0.2.$EfvjN5XvEeSqQiIACyEY7w.0.1.0">
+     Grow to Greatness: Smart Growth for Private Businesses, Part I
+    </div>
+    <div class="c-course-partner" data-reactid=".ukzz6x69s0.0.1.1.1.$Learner Recommended.1.0.2.$EfvjN5XvEeSqQiIACyEY7w.0.1.1">
+     <span data-reactid=".ukzz6x69s0.0.1.1.1.$Learner Recommended.1.0.2.$EfvjN5XvEeSqQiIACyEY7w.0.1.1.0">University of Virginia</span>
+    </div>
+   </div></a>
+ </div>
+</div>

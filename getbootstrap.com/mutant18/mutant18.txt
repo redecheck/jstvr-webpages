@@ -1,0 +1,2 @@
+Changed UNIT in 970.0em to [970.0%] in 
+width: 970.0%;

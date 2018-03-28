@@ -1,0 +1,8 @@
+Changed class in element <div class="bt3-navbar-toggle" data-reactid=".ukzz6x69s0.0.1.1.0.1.0.3.$qzhn9PT2EeSKSCIAC7TI2A.0.1"> 
+ <div class="c-course-title" data-reactid=".ukzz6x69s0.0.1.1.0.1.0.3.$qzhn9PT2EeSKSCIAC7TI2A.0.1.0">
+   Introduction to Project Management Principles and Practices 
+ </div> 
+ <div class="c-course-partner" data-reactid=".ukzz6x69s0.0.1.1.0.1.0.3.$qzhn9PT2EeSKSCIAC7TI2A.0.1.1"> 
+  <span data-reactid=".ukzz6x69s0.0.1.1.0.1.0.3.$qzhn9PT2EeSKSCIAC7TI2A.0.1.1.0">University of California, Irvine</span> 
+ </div> 
+</div>

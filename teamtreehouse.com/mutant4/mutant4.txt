@@ -1,0 +1,8 @@
+Changed value from 768.0 to 761.0 in 
+@media screen AND (min-width: 761.0px) {
+	.nav-item {
+		float: left;
+		font-size: 14.0px;
+		margin-left: 40.0px;
+	}
+}

@@ -1,0 +1,18 @@
+Changed term from 0.0 to 9.0
+.inline-list {
+	margin: 0.0 auto 1.0625rem;
+	margin-left: -1.375rem;
+	margin-right: 0.0;
+	padding: 0.0;
+	list-style: none;
+	overflow: hidden;
+}
+
+.inline-list {
+	margin: 0.0 auto 1.0625rem;
+	margin-left: -1.375rem;
+	margin-right: 0.0;
+	padding: 9.0;
+	list-style: none;
+	overflow: hidden;
+}

@@ -1,0 +1,201 @@
+Changed expression to max-width in 
+@media screen AND (max-width: 64.063em) {
+	.large-push-0 {
+		position: relative;
+		left: 0.0;
+		right: auto;
+	}
+
+	.large-pull-0 {
+		position: relative;
+		right: 0.0;
+		left: auto;
+	}
+
+	.large-push-1 {
+		position: relative;
+		left: 8.33333%;
+		right: auto;
+	}
+
+	.large-pull-1 {
+		position: relative;
+		right: 8.33333%;
+		left: auto;
+	}
+
+	.large-push-2 {
+		position: relative;
+		left: 16.66667%;
+		right: auto;
+	}
+
+	.large-pull-2 {
+		position: relative;
+		right: 16.66667%;
+		left: auto;
+	}
+
+	.large-push-3 {
+		position: relative;
+		left: 25.0%;
+		right: auto;
+	}
+
+	.large-pull-3 {
+		position: relative;
+		right: 25.0%;
+		left: auto;
+	}
+
+	.large-push-4 {
+		position: relative;
+		left: 33.33333%;
+		right: auto;
+	}
+
+	.large-pull-4 {
+		position: relative;
+		right: 33.33333%;
+		left: auto;
+	}
+
+	.large-push-5 {
+		position: relative;
+		left: 41.66667%;
+		right: auto;
+	}
+
+	.large-pull-5 {
+		position: relative;
+		right: 41.66667%;
+		left: auto;
+	}
+
+	.large-push-6 {
+		position: relative;
+		left: 50.0%;
+		right: auto;
+	}
+
+	.large-pull-6 {
+		position: relative;
+		right: 50.0%;
+		left: auto;
+	}
+
+	.large-push-7 {
+		position: relative;
+		left: 58.33333%;
+		right: auto;
+	}
+
+	.large-pull-7 {
+		position: relative;
+		right: 58.33333%;
+		left: auto;
+	}
+
+	.large-push-8 {
+		position: relative;
+		left: 66.66667%;
+		right: auto;
+	}
+
+	.large-pull-8 {
+		position: relative;
+		right: 66.66667%;
+		left: auto;
+	}
+
+	.large-push-9 {
+		position: relative;
+		left: 75.0%;
+		right: auto;
+	}
+
+	.large-pull-9 {
+		position: relative;
+		right: 75.0%;
+		left: auto;
+	}
+
+	.large-push-10 {
+		position: relative;
+		left: 83.33333%;
+		right: auto;
+	}
+
+	.large-pull-10 {
+		position: relative;
+		right: 83.33333%;
+		left: auto;
+	}
+
+	.large-push-11 {
+		position: relative;
+		left: 91.66667%;
+		right: auto;
+	}
+
+	.large-pull-11 {
+		position: relative;
+		right: 91.66667%;
+		left: auto;
+	}
+
+	.column, .columns {
+		position: relative;
+		padding-left: 0.9375rem;
+		padding-right: 0.9375rem;
+		float: left;
+	}
+
+	.large-1 {
+		width: 8.33333%;
+	}
+
+	.large-2 {
+		width: 16.66667%;
+	}
+
+	.large-3 {
+		width: 25.0%;
+	}
+
+	.large-4 {
+		width: 33.33333%;
+	}
+
+	.large-5 {
+		width: 41.66667%;
+	}
+
+	.large-6 {
+		width: 50.0%;
+	}
+
+	.large-7 {
+		width: 58.33333%;
+	}
+
+	.large-8 {
+		width: 66.66667%;
+	}
+
+	.large-9 {
+		width: 75.0%;
+	}
+
+	.large-10 {
+		width: 83.33333%;
+	}
+
+	.large-11 {
+		width: 91.66667%;
+	}
+
+	.large-12 {
+		width: 100.0%;
+	}
+}

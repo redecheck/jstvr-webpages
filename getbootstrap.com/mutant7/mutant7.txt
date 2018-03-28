@@ -1,0 +1,3 @@
+Changed class in element <div class="col-sm-3 col-xs-6"> 
+ <a href="http://expo.getbootstrap.com/2014/10/29/lyft/" target="_blank" title="Lyft"> <img src="http://expo.getbootstrap.com/thumbs/lyft-thumb.jpg" alt="Lyft" class="img-responsive"> </a> 
+</div>

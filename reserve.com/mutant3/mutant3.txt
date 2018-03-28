@@ -1,0 +1,10 @@
+Added a class to element 
+<div class="inner button"> 
+ <div class="image-wrapper"> 
+  <img src="./resources/feature_confirmation.png"> 
+ </div> 
+ <div class="content"> 
+  <h1>Your table is&nbsp;ready</h1> 
+  <p> Reserve partners with your city's best restaurants to provide a great dining experience. Make your choice and Reserve will get to work. </p> 
+ </div> 
+</div>
