@@ -3,8 +3,8 @@
 This repository contains the subject web pages used in the experimental study of
 the following research paper:
 
-"Automatically Identifying Potential Regressions in the Layout of Responsive Web Pages" <br>
-Thomas A. Walsh, Gregory M. Kapfhammer, and Phil McMinn <br>
+"Automatically Identifying Potential Regressions in the Layout of Responsive
+Web Pages" <br> Thomas A. Walsh, Gregory M. Kapfhammer, and Phil McMinn <br>
 <em>Software Testing, Verification and Reliability</em>, 2020
 
 This repository contains the complete source code of the following web sites:
