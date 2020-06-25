@@ -1,8 +1,9 @@
 # Basic workflow that lints the markdown in the README file
-
+# and checks to ensure that files and directories exist
 name: GitHub Actions
 
-# Controls when the action will run. Triggers the workflow on push or pull request
+# Controls when the action will run.
+# Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
   push:
@@ -10,15 +11,27 @@ on:
   pull_request:
     branches: [ master ]
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+# A workflow run is made up of one or more jobs
+# that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
+  # The workflow contains a single job called "build"
   build:
-    # This runner will run on the latest version of Ubuntu
+    # The runner will run on the latest version of Ubuntu
     runs-on: ubuntu-latest
 
+    # Define the steps run in the workflow
     steps:
+      # Run the mdl linting tool, which references
+      # the .mdlrc file stored in the repo's root
+      # for further configuration details
       - name: Check out code
         uses: actions/checkout@master
       - name: Run mdl
         uses: actionshub/markdownlint@master
+
+      # Check for the existence of files and directories
+      # to ensure that none of the projects are deleted
+      - name: Check for existence of files
+        uses: andstor/file-existence-action@v1
+        with:
+          files: "README.md, aftrnoon.com"
