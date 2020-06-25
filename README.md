@@ -50,10 +50,24 @@ finally, "Treehouse", a platform for technology training. Importantly, these web
 sites come from a wide variety of application domains, thus ensuring the
 representativeness of this paper’s empirical results.
 
+## Structure of a Subject's Directory
+
+If you inspect the directory for one of the subjects, like `coursera.com/`, you
+will find an `index/` directory and then directories for each of the mutants of
+this subject, like `mutant1/`. Inside of the `index/` directory you will find
+the `index.html` file that is the main page of the subject used in the paper's
+experiments and a `resources/` directory that contains all of the resources for
+the subject, including its JavaScript, CSS, and image files. If you look inside
+of a specific mutant directory, like `mutant1/`, you will find the automatically
+modified HTML or CSS files for that specific mutant. Finally, if the name of the
+mutant is `mutant1`, then in that mutant's respective directory you will find a
+`mutant1.txt` file that describes the changes made to produce the mutant.
+
 ## Problems or Praise
 
-If you have any problems with installing or using the test suite provided for
-these functions, then please create an issue associated with this Git repository
-using the "Issues" link at the top of this site. The contributors to
-Speed-Surprises will do all that they can to resolve your issue and ensure that
-all of the functions and test suites work well in your development environment.
+If you have any problems with installing or using any of the subjects provided
+for these the purpose of replicating the experimental study in the paper, then
+please create an issue associated with this repository using the "Issues" link
+at the top of this page. The authors of the JSTVR paper will do all that they
+can to resolve your issue and ensure that you can use these subjects in your
+own experiments.
