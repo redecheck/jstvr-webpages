@@ -1,3 +1,5 @@
+![](https://github.com/redecheck/jstvr-webpages/workflows/GitHub%20Actions/badge.svg)
+
 # Replication Web Pages for a JSTVR Paper
 
 This repository contains the subject web pages used in the experimental study
