@@ -34,4 +34,4 @@ jobs:
       - name: Check for existence of files
         uses: andstor/file-existence-action@v1
         with:
-          files: "README.md, aftrnoon.com"
+          files: "README.md, aftrnoon.com, annettescreations.net, ashtonsnook.com, bittorrent.com, coursera.com, denondj.com, getbootstrap.com, issta.cispa, namemesh.com, paydemand.com, rebeccamade.com, reserve.com, responsiveprocess.com, shield.com, teamtreehouse.com"
